@@ -7,7 +7,7 @@ read_time: true
 comments: true
 share: true
 related: true
-image: assets/images/syracuse-uni.jpg
+image: assets/images/phd-cohort-ischool.jpg
 
 ---
 
