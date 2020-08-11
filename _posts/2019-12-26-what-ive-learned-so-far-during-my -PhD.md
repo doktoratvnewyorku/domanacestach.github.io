@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 classes: wide
-title:  "🇺🇸 What I've learned so far during my PhD time in the USA"
+title:  "What I've learned so far during my PhD time in the USA"
 author: Leni
 read_time: true
 share: true
