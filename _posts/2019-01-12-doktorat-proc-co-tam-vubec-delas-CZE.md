@@ -2,12 +2,12 @@
 layout: post
 title:  "15x o tom, co dělám za velkou louží"
 author: Leni
-categories: [CZEsky]
+categories: [Doktorát, Akademie]
 read_time: true
 comments: true
 share: true
 related: true
-image: /assets/images/syracuse-uni.jpg
+image: assets/images/syracuse-uni.jpg
 
 ---
 
