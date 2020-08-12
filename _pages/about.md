@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "O mně"
 layout: page-sidebar
 permalink: "/about.html"
-image: "/assets/images/knihovna.PNG"
+image: "/assets/images/wandering.PNG"
 
 ---
 
