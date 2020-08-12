@@ -1,13 +1,10 @@
 ---
 layout: post
 title:  "15x o tom, co dělám za velkou louží"
-author: Leni
-categories: [Doktorát, Akademie]
-read_time: true
-comments: true
-share: true
-related: true
+author: leni
+categories: [doktorát, akademie]
 image: assets/images/phd-cohort-ischool.jpg
+tags: [sticky]
 
 ---
 
