@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: ''
-email: 'wowthemesnet@gmail.com'
+email: 'l.krsova@gmail.com'
 mailchimp-list: ''
 
 include: ["_pages"]
@@ -19,11 +19,11 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    leni:
       name:           Leni
       site:           https://lenikrsova.github.io
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      bio:            "Jsem česká "dataholka", která se na přelomu třicítky sebrala a odjela do USA studovat doktorát. Cestuju, studuju, běhám, všímám si, co se děje, a sem tam o tom píšu."
       email:          l.krsovat@gmail.com
       twitter:        https://twitter.com/lenikrsova
  
