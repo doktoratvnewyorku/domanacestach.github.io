@@ -21,5 +21,7 @@ Historie Chittenango se pořádně začala odvíjet od roku 1825, kdy se sem lid
 Vodopád má výšku 51 metrů a když má dost vody, máte trochu problém slyšet, co vám říká člověk stojící vedle vás. Je to taky jeden z mála vodopádů tady v okolí, na který je možné se podívat z několika úhlů, což ale ovšem taky záleží na počasí. Protože ve státě New York všechno záleží na počasí. Když tu udeří pravá Upstate NY zima, všechno zapadne sněhem a zamrzne. Včetně vás. Kvůli sklonu pěších tras kolem Chittenango Falls není vždycky povoleno si to u něj štrádovat přes zamrzlé cesty. Když je ale hezky, dá se prolézt nejen stezka kolem něj, ale i ty v přilehlém lese. Jen je dobré si zkontrolovat, že v rámci toulání se přírodou nelezete někomu na pozemek, jako se to podařilo omylem nám, ehm.
 
 <img src="/assets/images/chitt-flow.png">
+<img src="/assets/images/waterfall-chitt.png">
+<img src="/assets/images/bridge-view.png">
 <img src="/assets/images/meadow-trail.png">
 
