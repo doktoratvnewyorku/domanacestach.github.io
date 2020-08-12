@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Píšeme článek, nezastavujeme!"
-author: Leni
+author: leni
 categories: [Akademie, Doktorát]
 image: assets/images/konspirace-clanek.JPG
 
