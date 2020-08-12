@@ -1,13 +1,9 @@
 ---
-layout: single
-classes: wide
-title:  "🇨🇿 Nejseš tu proto, aby ses účastnil bojů o to, kdo toho opustil víc"
+layout: post
+title:  "Nejseš tu proto, aby ses účastnil bojů o to, kdo toho opustil víc"
 author: Leni
 categories: [CZEsky]
-read_time: true
-comments: true
-share: true
-related: true
+image: /assets/images/girl-leaving.jpg
 
 ---
 
