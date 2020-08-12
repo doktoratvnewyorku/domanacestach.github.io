@@ -20,7 +20,7 @@ plugins:
   
 authors:
     leni:
-      name:           leni
+      name:           Leni
       site:           https://lenikrsova.github.io
       avatar:         /assets/images/avatar1.jpg
       bio:            "Jsem česká "dataholka", která se na přelomu třicítky sebrala a odjela do USA studovat doktorát. Cestuju, studuju, běhám, všímám si, co se děje, a sem tam o tom píšu."
@@ -35,7 +35,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: leni
       avatar: /assets/images/avatar1.jpg
       
   # all pages
