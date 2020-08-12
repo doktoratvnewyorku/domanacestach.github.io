@@ -5,7 +5,6 @@ author: leni
 categories: [doktorát, akademie]
 image: assets/images/phd-cohort-ischool.jpg
 tags: [sticky]
-
 ---
 
 Když jsem byla na Vánoce na pár týdnů zpátky v ČR, potkávala se s kamarády, známými a sousedy či jinak znovunavazovala kontakty se svou minulostí, sem tam padla otázka: **"A prosimtě, co ty v tý Americe vlastně děláš?"** Ne, že bych si nelibovala v opakování jednoho a toho samého stále dokola, ale pro pořádek (a pozdější reference) bude jednodušší, když to moje "ale to je jen stáž, ne?" dobrodrůžo uvedu na pravou míru.
