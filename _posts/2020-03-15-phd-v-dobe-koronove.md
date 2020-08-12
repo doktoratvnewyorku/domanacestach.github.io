@@ -1,14 +1,9 @@
 ---
-layout: single
-classes: wide
-title:  "🇨🇿 PhD v USA v době koronavirové"
+layout: post
+title:  "PhD v USA v době koronavirové"
 author: Leni
 categories: [CZEsky]
-read_time: true
-comments: true
-share: true
-related: true
-og_image: /assets/images/konspirace-clanek.JPG
+image: /assets/images/konspirace-clanek.JPG
 
 ---
 
