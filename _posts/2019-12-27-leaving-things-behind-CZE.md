@@ -2,8 +2,8 @@
 layout: post
 title:  "Nejseš tu proto, aby ses účastnil bojů o to, kdo toho opustil víc"
 author: Leni
-categories: [CZEsky]
-image: /assets/images/girl-leaving.jpg
+categories: [Život v USA]
+image: assets/images/girl-leaving.jpg
 
 ---
 
