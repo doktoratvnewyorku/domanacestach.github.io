@@ -13,10 +13,14 @@ New York nejsou jen o Niagárách. Díky pohybu, ústupu a tání ledovců je ve
 
 Historie Chittenango se pořádně začala odvíjet od roku 1825, kdy se sem lidi stěhovali za prací, kterou tu zajistil <a href="https://www.eriecanal.org/">Erie Canal</a> (Erijský kanál) sloužící jako hlavní obchodní cesta spojující Atlantik a Velká jezera. (Erijský kanál v současnosti už neslouží svému původnímu účelu, ale v roce 2010 ho Američani zařadili na seznam národních památek.) Chittenango je známé ale hlavně díky tomu, že se tu narodil Lyman F. Baum, což je autor známé dětské knížky *Čaroděj ze země Oz*. Když se projdete centrem, pár místních krámků se dokonce pyšní tématikou spojenou s knížkou a světem malé Dorotky.
 
-<img src="/assets/images/chittenango.png">
+- - -
 
 **Chittenango Falls** najdete v <a href="https://parks.ny.gov/parks/130/">Chittenango Falls State Park</a>, který byl založen v roce 1922. Když jsme byli na místě, utrousila jsem poznámku, že to zas tak moc stará národní památka není, ale pak mi došlo, že naše Krkonoše byly prohlášeny za národní park v 60. letech a Šumava dokonce až v 90. letech, takže jsem poslušně zavřela svou evropskou pusu a přestala dráždit tuhle historickou notu. 
 
+<img src="/assets/images/chittenango.png">
+
 Vodopád má výšku 51 metrů a když má dost vody, máte trochu problém slyšet, co vám říká člověk stojící vedle vás. Je to taky jeden z mála vodopádů tady v okolí, na který je možné se podívat z několika úhlů, což ale ovšem taky záleží na počasí. Protože ve státě New York všechno záleží na počasí. Když tu udeří pravá Upstate NY zima, všechno zapadne sněhem a zamrzne. Kvůli sklonu pěších tras kolem Chittenango Falls není vždycky povoleno si to u něj štrádovat přes zamrzlé cesty. Když je ale hezky, což se v květnu, kdy jsme tam byli, celkem vyvedlo...
 
+<img src="/assets/images/chitt-flow.png">
+<img src="/assets/images/meadow-trail.png">
 
