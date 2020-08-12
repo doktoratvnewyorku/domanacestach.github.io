@@ -1,14 +1,9 @@
 ---
-layout: single
-classes: wide
-title:  "🇨🇿 Píšeme článek, nezastavujeme!"
+layout: post
+title:  "Píšeme článek, nezastavujeme!"
 author: Leni
-categories: [CZEsky]
-read_time: true
-comments: true
-share: true
-related: true
-og_image: /assets/images/konspirace-clanek.JPG
+categories: [Akademie, Doktorát]
+image: assets/images/konspirace-clanek.JPG
 
 ---
 
