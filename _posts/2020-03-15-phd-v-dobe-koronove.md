@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "PhD v USA v době koronavirové"
-author: Leni
-categories: [CZEsky]
+author: leni
+categories: [covid-19, život v USA]
 image: /assets/images/konspirace-clanek.JPG
 
 ---
