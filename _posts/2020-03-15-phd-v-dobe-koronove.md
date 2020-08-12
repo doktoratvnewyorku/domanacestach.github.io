@@ -3,7 +3,7 @@ layout: post
 title:  "PhD v USA v době koronavirové"
 author: leni
 categories: [covid-19, život v USA]
-image: /assets/images/konspirace-clanek.JPG
+image: assets/images/konspirace-clanek.JPG
 
 ---
 
