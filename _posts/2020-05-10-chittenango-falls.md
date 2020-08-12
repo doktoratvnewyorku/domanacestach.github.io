@@ -4,7 +4,7 @@ title:  "Chittenango Falls: Kde voda teče na sever"
 author: leni
 categories: [výlety, New York state]
 image: assets/images/chittenango.jpg
-
+tags: [featured]
 ---
 
 New York není jen o Niagárách. Díky pohybu, ústupu a tání ledovců je velká část státu New York protkaná vodopády, říčkami a jezery. Jen 30 minut autem na jakoukliv stranu od Syracuse, kde bydlím, jsem napočítala asi 20 vodopádů různých velikostí. **Chittenango Falls** jsou první, které jsme v okolí navštívili zkraje května, kdy nám začaly zvolna docházet nápady, co dělat během počínající pandemie.
