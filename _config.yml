@@ -20,12 +20,12 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      name:           Leni
+      site:           https://lenikrsova.github.io
+      avatar:         /assets/images/avatar.jpg
+      bio:            "Česká holka na cestě za doktorátem a dobytím Ameriky. Pomalu, ale jistě. Cestuju, studuju, běhám, všímám si, co se děje okolo, a pak to sepisuju sem."
+      email:          l.krsova@gmail.com
+      twitter:        https://twitter.com/lenikrsova
  
 # Defaults
 defaults:
@@ -35,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: leni
-      avatar: /assets/images/avatar1.jpg
+      author: sal
+      avatar: /assets/images/avatar.jpg
       
   # all pages
   - scope:
