@@ -14,11 +14,11 @@ Místní oblast byla původním domovem indiánského kmene Cayuga. Jenže pak p
 <img src="/assets/images/gorge2.png">
 **Taughannock Falls** jsou jedny z nejimpozantnějších vodopádů, co jsem tu zatím viděla. Už jen samotná procházka roklí, která vede k vodopádu, vám připomene nejen, že příroda je pravdu záludná čarodějka (pořád mi nedochází, jak se může strom udržet stovky let "zakořeněný" na balvanech), ale taky že se tu musely dít hodně divoké věci miliony let před existencí člověka. Vodopád má 66 metrů a je to nejvyšší vodopád s jednolitým přítokem na východ od Skalistých hor (severozápad USA a Kanady). Ano, i Niagáry jsou menší než tenhle obr.
 
+<img src="/assets/images/view.png">
+
 A když už mluvím o obrech: V roce 1879 se poblíž místního hotelu pro přírodu milující turisty našel tzv. Taughannock Giant. Jednalo se o zkamenělé tělo "obra" měřícího přes dva metry. Noviny začaly šílet a vydávaly články o téhle záhadě, badatelé z nedaleké Cornell University ji přijeli zkoumat a kolem 5 000 turistů si zaplatilo za to, aby se mohli podívat na něco, co člověk "jen tak neviděl". Celkem záhy vyšlo najevo, že místní obr je habaďůra vymyšlená a realizovaná majitelem hotelu, který se jen snažil zvednout návštěvnost. Dnes hotel už neexistuje a na jeho místě stojí informační cedule.
 
 <img src="/assets/images/beginning.png">
 <img src="/assets/images/signs.png">
 <img src="/assets/images/gorge.png">
 <img src="/assets/images/trees.png">
-<img src="/assets/images/view.png">
-
