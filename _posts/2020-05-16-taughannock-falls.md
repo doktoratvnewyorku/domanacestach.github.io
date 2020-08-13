@@ -17,10 +17,8 @@ Místní oblast byla původním domovem indiánského kmene Cayuga. Jenže pak p
 A když už mluvím o obrech: V roce 1879 se poblíž místního hotelu pro přírodu milující turisty našel tzv. Taughannock Giant. Jednalo se o zkamenělé tělo "obra" měřícího přes dva metry. Noviny začaly šílet a vydávaly články o téhle záhadě, badatelé z nedaleké Cornell University ji přijeli zkoumat a kolem 5 000 turistů si zaplatilo za to, aby se mohli podívat na něco, co člověk "jen tak neviděl". Celkem záhy vyšlo najevo, že místní obr je habaďůra vymyšlená a realizovaná majitelem hotelu, který se jen snažil zvednout návštěvnost. Dnes hotel už neexistuje a na jeho místě stojí informační cedule.
 
 <img src="/assets/images/beginning.png">
-
 <img src="/assets/images/signs.png">
-
-<img src="/assets/images/view.png">
-
 <img src="/assets/images/gorge.png">
 <img src="/assets/images/trees.png">
+<img src="/assets/images/view.png">
+
