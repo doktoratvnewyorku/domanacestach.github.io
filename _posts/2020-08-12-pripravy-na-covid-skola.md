@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Covid-19: Nezastavujeme, máme zpoždění!"
+title:  "COVID-19: Školu nezastavujeme, máme zpoždění!"
 author: leni
 categories: [akademická sféra, doktorát, covid-19]
 image: assets/images/varovani2.png
