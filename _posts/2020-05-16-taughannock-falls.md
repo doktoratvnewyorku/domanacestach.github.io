@@ -4,7 +4,7 @@ title:  "Taughannock Falls: Záhada nalezeného obra"
 author: leni
 categories: [výlety, New York state]
 image: assets/images/view3.png
-tags: [featured]
+tags: [featured, sticky]
 ---
 
 Spolu s objevováním vodopádů se tu učím nejen dost nových věcí o místním zeměpisu, ale hlavně o rané historii USA. Východní pobřeží bylo dlouho prvním osídleným místem evropskými puritány ("Pilgrim Fathers", co připluli na Mayflower). To znamená, že pokud se zatouláte dostatečně daleko na východ od Syracuse, **dýchne na vás duch Americké revoluce**. Občas se taky dozvíte o odvrácené straně téhle doby, což se týká právě Taughannock ["ta-kanok"] Falls poblíž města Ithaca.
