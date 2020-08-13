@@ -3,7 +3,7 @@ layout: post
 title:  "Taughannock Falls: Záhada nalezeného obra"
 author: leni
 categories: [výlety, New York state]
-image: assets/images/waterfall-taugh.png
+image: assets/images/view3.png
 tags: [featured]
 ---
 
