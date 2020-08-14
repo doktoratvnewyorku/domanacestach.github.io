@@ -27,7 +27,4 @@ Byla jsem se taky podívat v týdnu ve škole, protože nám chodí e-maily o to
 <img src="assets/images/varovani.png">
 
 
-
-
-
-Na závěr chci říct, že ne všechno, co se dočtete v českých médiích o současném dění v USA je tak alarmující průser, jak se to prezentuje. Tahle ze mě je mnohem komplikovanější a mentalita úplně jiná než jsme my v Česku zvyklí. Od protestů v Portlandu přes Trumpovy extempore až po situaci s COVID-19 mám z českých médií a některých expatů pocit, že tak trochu loví po senzaci, která se tu nekoná. Ano, není to tu teď dlouhodobě úplně ideální, ale nestřílí se tu všude a ne všichni Američani se vztekají nad nošením masek. Snad jen to, že Trump je idiot, je pravda a přehánět se o tom už ani nedá.
+Malá poznámka na závěr: Ne všechno, co se dočtete v českých médiích o současném dění v USA je tak alarmující průser, jak se to prezentuje. Tahle ze mě je mnohem komplikovanější a mentalita úplně jiná než jsme my v Česku zvyklí. Od protestů v Portlandu přes Trumpovy extempore až po situaci s COVID-19 mám z českých médií a některých expatů pocit, že tak trochu loví po senzaci, která se tu nekoná. Ano, není to tu teď dlouhodobě úplně ideální, ale nestřílí se tu všude a ne všichni Američani se vztekají nad nošením masek. Snad jen to, že Trump je idiot, je pravda a přehánět se o tom už ani nedá.
