@@ -22,7 +22,7 @@ Musím bohužel říct, že z pohledu studenta a pracujícího pro univerzitu se
 <img src="/assets/images/testovani.png">
 Byla jsem se taky podívat v týdnu ve škole, protože nám chodí e-maily o tom, kolik tisíc antibakteriálních mýdel a nových ventilací škola koupila a nainstalovala. Je to celkem úsměvný seznam, když si k tomu započítáte lidský faktor, který může všechno zhatit :) Všude a všechno je teď olepené nálepkami kdo kam a kdy může, nemůže, jak se u toho má chovat a tak. Říkám si, že jednou se tomu budeme všichni smát a historky z doby koronavirové budou součástí historie lidstva, ale už abychom tu historii přestali budovat a začali žít normální život. A to ať už jste kdekoliv.
 
-<img src="/assets/images/mydesk.png">
+<img src="/assets/images/mydesk.JPG">
 <img src="/assets/images/ufokruhy.png">
 <img src="/assets/images/varovani.png">
 **Malá poznámka na závěr:** Ne všechno, co se dočtete v českých médiích o současném dění v USA je tak alarmující průser, jak se to prezentuje. Tahle ze mě je mnohem komplikovanější a mentalita opradu diametrálně odlišná než jsme my v Česku zvyklí a než si myslíme, že víme. Od protestů v Portlandu přes Trumpovy extempore až po situaci s COVID-19 mám z českých médií a některých expatů pocit, že tak trochu loví po senzaci, která se tu nekoná. Ano, není to tu teď dlouhodobě úplně ideální, ale nestřílí se tu všude a ne všichni Američani se vztekají nad nošením masek. Snad jen to, že Trump je idiot, je pravda a přehánět se o tom už ani nedá.
