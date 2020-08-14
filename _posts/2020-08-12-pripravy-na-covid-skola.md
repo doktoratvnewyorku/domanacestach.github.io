@@ -19,10 +19,10 @@ Musím bohužel říct, že z pohledu studenta a pracujícího pro univerzitu se
 <img src="/assets/images/morestickers.png">
 **A jak se tohle všechno dotýká mě?** Díkybohu mám práci, kde bydlet a kde studovat. Už jsem sestavila všechny puzzle, co jsem si nasyslila <a href="https://doktoratvnewyorku.github.io/phd-v-dobe-koronove/">v březnu</a>, kdy nám zavřeli školu, a s přítelem jezdíme po okolí na túry a okukovat místní vodopády a všechno to, co dělá Upstate New York tak krásným. Ostatně o některých našich výletech (i s mini průvodcem po historii USA a místních indiánů) se můžete dočíst <a href="https://doktoratvnewyorku.github.io/chittenango-falls/">tady</a> a <a href="https://doktoratvnewyorku.github.io/taughannock-falls/">tady</a>. Další sepisuju a jsou v plánu. Co se týče výuky, všechny předměty mám online, výzkumná a vyučovací praktika taky, takže nemusím vytáhnout paty z baráku, pokud vyloženě nechci. I přesto si musím nechat udělat test na COVID-19. Normálně bych si zašla do školního zdravotního centra, ale tam se starají jen o případy lidí už nakažených. Takže jsem si objednala domácí testovací sadu a v pondělí mě čeká tahle legrace doma. Těším se, to nemůžu říct.
 
-<img src="assets/images/testovani.png">
+<img src="/assets/images/testovani.png">
 Byla jsem se taky podívat v týdnu ve škole, protože nám chodí e-maily o tom, kolik tisíc antibakteriálních mýdel a nových ventilací škola koupila a nainstalovala. Je to celkem úsměvný seznam, když si k tomu započítáte lidský faktor, který může všechno zhatit :) Všude a všechno je teď olepené nálepkami kdo kam a kdy může, nemůže, jak se u toho má chovat a tak. Říkám si, že jednou se tomu budeme všichni smát a historky z doby koronavirové budou součástí historie lidstva, ale už abychom tu historii přestali budovat a začali žít normální život. A to ať už jste kdekoliv.
 
-<img src="assets/images/mydesk.png">
-<img src="assets/images/ufokruhy.png">
-<img src="assets/images/varovani.png">
+<img src="/assets/images/mydesk.png">
+<img src="/assets/images/ufokruhy.png">
+<img src="/assets/images/varovani.png">
 Malá poznámka na závěr: Ne všechno, co se dočtete v českých médiích o současném dění v USA je tak alarmující průser, jak se to prezentuje. Tahle ze mě je mnohem komplikovanější a mentalita úplně jiná než jsme my v Česku zvyklí. Od protestů v Portlandu přes Trumpovy extempore až po situaci s COVID-19 mám z českých médií a některých expatů pocit, že tak trochu loví po senzaci, která se tu nekoná. Ano, není to tu teď dlouhodobě úplně ideální, ale nestřílí se tu všude a ne všichni Američani se vztekají nad nošením masek. Snad jen to, že Trump je idiot, je pravda a přehánět se o tom už ani nedá.
