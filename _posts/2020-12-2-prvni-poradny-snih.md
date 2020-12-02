@@ -38,7 +38,7 @@ Ostatně, když už mluvím o větších grádách, na našich pravidelných tou
 <img src="/assets/images/konzole-vanoce.jpg">
 *A co by to bylo za Vánoce bez pořádných Star Wars ozdobiček, že ano?*
 <img src="/assets/images/sw-vanoce.jpg">
-Takhle si tu v těch našich vánočních prvotinách žijeme COVIDu a zákazu cestování navzdory. O víkendu jedeme pro stromeček a snad se nám podaří stihnout ještě pár dalších věcí, co na nás koukají z našeho plánu. Konec semestru je boj s vlastní vůli dotáhnout všechno, co se dá, s vidinou toho, že budeme mít 2 měsíce volna. Což znamená i spoustu času na sepsání všech zážitků, výletů a postřehů, co jsem tu nasbírala za podzim, ale nebly čas je sepsat. Vydržte, všechno bude!
+Takhle si tu v těch našich vánočních prvotinách žijeme COVIDu a zákazu cestování navzdory. O víkendu jedeme pro stromeček a snad se nám podaří stihnout ještě pár dalších věcí, co na nás koukají z našeho plánu. Konec semestru je boj s vlastní vůli dotáhnout všechno, co se dá, s vidinou toho, že budeme mít 2 měsíce volna. Což znamená i spoustu času na sepsání všech zážitků, výletů a postřehů, co jsem tu nasbírala za podzim, ale nebyl čas je sepsat. Vydržte, všechno bude!
 
 ---
 
