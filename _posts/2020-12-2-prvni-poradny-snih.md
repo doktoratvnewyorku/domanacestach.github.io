@@ -16,9 +16,16 @@ Na druhou stranu, konec semestru znamená, že jsme se přehoupli do období prv
 <img src="/assets/images/prvni-snih-2019.jpg">
 *Takhle to tu vypadalo loni 8. listopadu 2019.*
 
-Moje nadšení z prnvího sněhu už tak úplně moc nesdílí můj přítel. Jako správný rodilý New Yorčan je ze sněhu, který si tu každou zimu kolikrát lebedení 5 až 6 měsíců, asi tak nadšený jako Pražák z Orloje. Na druhou stranu, sníh taky znamenají Vánoce, které máme rádi oba. A protože se letos nepodívám do Čech, kde jsem doteď trávila všechny Vánoce, další prvotina letošní zimy bude vymyslet logistiku těch česko-amerických. Zatím se nám to celkem daří. Máme "Christmas list" věcí, co 
+Moje nadšení z prnvího sněhu už tak úplně moc nesdílí můj přítel. Jako správný rodilý New Yorčan je ze sněhu, který si tu každou zimu kolikrát lebedení 5 až 6 měsíců, asi tak nadšený jako Pražák z Orloje. Na druhou stranu, sníh taky znamenají Vánoce, které máme rádi oba. A protože se letos nepodívám do Čech, kde jsem doteď trávila všechny Vánoce, další prvotina letošní zimy bude vymyslet logistiku těch česko-amerických. Zatím se nám to celkem daří. Máme "Christmas plan", což je v podstatě seznam toho, co všechno chceme udělat, vidět a sníst kolem Vánoc. Mně se podařilo celkem omylem najít Zlatovlásku, Princeznu ze mlejna a Tři oříšky pro Popelku s anglickými titulky, takže se můj drahý indoktrinaci českými pohádkami nevyhne. Já mám na oplátku slíbeného původního Grinche.
 
 <img src="/assets/images/vyzdoba-2020-vanoce.JPG">
+
+Co se týče výzdoby, dokonale se ve mně (a i v mém bytě) mlátí české a americké vánoční tradice. Mám v bytě krb, takže na něm visí "gingerbread men" s nápisem "Joy" na břiškách a vánoční kuličky, což když se na to teď tak dívám vypadá jako celkem funkční mišmaš amerických a českých Vánočních ozdob. Ovlivněná Amerikou jsem si pořídila vánoční potahy na polštářky a deku (tady tomu říkají *blanket throw*). Byť je advent mezinárodní záležitost, moc Američanů o tom z nějakýho důvodu neví a jako tradice to tu není. Pro nás to znamenalo, že jsme v neděli jsme strávili notnou dávku času v nákupním středisku hledáním věnce, na který bych mohla připíchnout svíčky a odpálit tak advent. Problém je, že buď je tu všechno umělé a nebo strašně velké a na připichování svíček dost nevhodné, a škubat chvojí v lese se nám nechtělo. Ostatně, většina věnců tady patří na dveře a ne jako jsme my v Česku zvyklí na stůl, což vysvětluje velikost a nepoužitelnost pro mé české záměry. Nakonec jsme trochu zaimprovizovali a voilá, i adventní věnec mám!
+
+
+
+Další fáze výzdoby se bude odehrávat zcela v tradici "keeping up with Joneses", což je tu výraz pro držení kroku se sousedy. Používá se to tu celkem na všechno od aut přes bazén až po to, kam chodí děti do školy, ale vánoční verze je o tom, jakou výzdobu vymyslíme na dům. Rozhodně to nebude žádná blikající šílenost.
+
 
 daří "keeping up with Joneses", což 
 
