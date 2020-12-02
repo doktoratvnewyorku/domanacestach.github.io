@@ -38,4 +38,6 @@ Ostatně, když už mluvím o větších grádách, na našich pravidelných tou
 <img src="/assets/images/konzole-vanoce.jpg">
 *A co by to bylo za Váoce bez pořádných Star Wars ozdobiček, že ano?*
 <img src="/assets/images/sw-vanoce.jpg">
-Takhle si tu v těch našich vánočních prvotinách žijeme COVIDu a zákazu cestování navzdory. O víkendu jdeme pro stromeček a snad se nám podaří stihnout ještě pár dalších věcí, co máme v plánu. Před chvilkou začalo zase sněžit, mě čeká dopsat ještě dvě práce o algoritmech, takže mě omluvte, já si jdu zkusit uvařit druhou várku kafe, snad tentokrát už bez potopy.
+Takhle si tu v těch našich vánočních prvotinách žijeme COVIDu a zákazu cestování navzdory. O víkendu jedeme pro stromeček a snad se nám podaří stihnout ještě pár dalších věcí, co na nás koukají z našeho plánu.
+
+Před chvilkou začalo zase sněžit, mě čeká dopsat ještě dvě práce o algoritmech, abych měla konečně padla, takže mě omluvte, já si jdu zkusit uvařit druhou várku kafe, snad tentokrát už bez potopy.❄️ ☕
