@@ -2,7 +2,7 @@
 layout: post
 title:  "Prvotiny letošní zimy"
 author: leni
-categories: [doktorát, covid-19]
+categories: [doktorát, covid-19, zvyky]
 image: assets/images/prvni-snih.JPG
 
 ---
