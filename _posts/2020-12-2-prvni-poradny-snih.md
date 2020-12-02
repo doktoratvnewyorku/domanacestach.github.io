@@ -2,7 +2,7 @@
 layout: post
 title:  "Prvotiny letošní zimy"
 author: leni
-categories: [covid-19, zvyky, vánoce]
+categories: [covid-19, zvyky, vánoce, New York state]
 image: assets/images/prvni-snih.JPG
 
 ---
