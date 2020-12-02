@@ -20,14 +20,20 @@ Moje nadšení z prnvího sněhu už tak úplně moc nesdílí můj přítel. Ja
 
 <img src="/assets/images/vyzdoba-2020-vanoce.JPG">
 
-Co se týče výzdoby, dokonale se ve mně (a i v mém bytě) mlátí české a americké vánoční tradice. Mám v bytě krb, takže na něm visí "gingerbread men" s nápisem "Joy" na břiškách a vánoční kuličky, což když se na to teď tak dívám vypadá jako celkem funkční mišmaš amerických a českých Vánočních ozdob. Ovlivněná Amerikou jsem si pořídila vánoční potahy na polštářky a deku (tady tomu říkají *blanket throw*). Byť je advent mezinárodní záležitost, moc Američanů o tom z nějakýho důvodu neví a jako tradice to tu není. Pro nás to znamenalo, že jsme v neděli jsme strávili notnou dávku času v nákupním středisku hledáním věnce, na který bych mohla připíchnout svíčky a odpálit tak advent. Problém je, že buď je tu všechno umělé a nebo strašně velké a na připichování svíček dost nevhodné, a škubat chvojí v lese se nám nechtělo. Ostatně, většina věnců tady patří na dveře a ne jako jsme my v Česku zvyklí na stůl, což vysvětluje velikost a nepoužitelnost pro mé české záměry. Nakonec jsme trochu zaimprovizovali a voilá, i adventní věnec mám!
+Co se týče výzdoby, dokonale se ve mně (a i v mém bytě) mlátí české a americké vánoční tradice. Mám v bytě krb, takže na něm visí "gingerbread men" s nápisem "Joy" na břiškách a vánoční kuličky, což když se na to teď tak dívám vypadá jako celkem funkční mišmaš amerických a českých Vánočních ozdob. Ovlivněná Amerikou jsem si pořídila vánoční potahy na polštářky a deku (tady tomu říkají *blanket throw*). Problém nastal jinde. Byť je advent mezinárodní záležitost, moc Američanů o tom z nějakého důvodu neví a jako tradice to tu není. Pro nás to znamenalo, že jsme v neděli jsme strávili notnou dávku času v nákupním středisku hledáním věnce, na který bych mohla připíchnout svíčky a odpálit tak advent. Problém je, že buď je tu všechno umělé a nebo strašně velké a na připichování svíček dost nevhodné, a škubat chvojí v lese se nám nechtělo. Většina věnců tady patří na dveře, a ne jak jsme my v Česku zvyklí na stůl, což vysvětluje velikost a nepoužitelnost pro mé české záměry. Nakonec jsme trochu zaimprovizovali a voilá, i adventní věnec mám!
 
+<img src="/assets/images/advent-venecek.jpg">
 
+Další fáze výzdoby se bude odehrávat zcela v tradici "keeping up with Joneses", což je tu výraz pro držení kroku se sousedy. Používá se to tu celkem na všechno od aut přes bazén až po to, kam chodí děti do školy, ale vánoční verze je o tom, jakou výzdobu vymyslíme na dům. Rozhodně to nebude žádná blikající šílenost. Na to máme sousedy. Snad se mi podaří během z procházek po okolí nafotit ty nejlepší výtvory. Můj oblíbenec z Halloweenu byl dům, kde měli tři nafukovací draky (nedělám si srandu!), takže čekám, že vánoční výzdoba bude mít ještě větší grády. 
 
-Další fáze výzdoby se bude odehrávat zcela v tradici "keeping up with Joneses", což je tu výraz pro držení kroku se sousedy. Používá se to tu celkem na všechno od aut přes bazén až po to, kam chodí děti do školy, ale vánoční verze je o tom, jakou výzdobu vymyslíme na dům. Rozhodně to nebude žádná blikající šílenost.
+Ostatně, když už mluvím o větších grádách, na našich pravidelných toulkách po obchoďáku, který já považuju za terén pro studium toho, jak Američané žijí, se většinou zastavíme v Hallmark Christmas Treasure obchodě. Pokud vám něco říká Hallmark channel, který produkuje romantické filmy na míru a točí je podle toho, jaká je roční doba, tak ano, to je jejich obchod s cílem pomoci vám dosáhnout kvalit vaší výzdoby ve stejném duchu, jak jste ji viděli na vašich obrazovkách. Prodejna je veliká asi jako běžné H&M v Česku a je plná vánočních ozdob všech typů, druhů, témat, tradic a fenoménů, které dělají Ameriku Amerikou a Vánoce Vánoci. Podívejte se sami, tohle je jen malá část toho, co mě tam zatm zaujalo:
 
-
-daří "keeping up with Joneses", což 
+<img src="/assets/images/santa-vsude.jpg">
+<img src="/assets/images/cocacola-vanoce.jpg">
+<img src="/assets/images/louskacek-hallmark.jpg">
+<img src="/assets/images/zachod-vanoce.jpg">
+<img src="/assets/images/konzole-vanoce.jpg">
+<img src="/assets/images/sw-vanoce.jpg">
 
 Zas tak moc se ale nestalo. Kuchyňská linka má teď trochu patinu a můj byt kromě vůní linoucích se z vánočních svíček, voní i po kafi. Win-win!
 
