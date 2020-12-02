@@ -32,13 +32,14 @@ Ostatně, když už mluvím o větších grádách, na našich pravidelných tou
 <img src="/assets/images/santa-vsude.jpg">
 *Santa je tu...všude! A ve všech velikostech.*
 <img src="/assets/images/cocacola-vanoce.jpg">
-
+*Coca Cola taky...*
 <img src="/assets/images/louskacek-hallmark.jpg">
+*Louskáček*
 <img src="/assets/images/zachod-vanoce.jpg">
+*Co takhle záchod na vánoční stromeček?*
 <img src="/assets/images/konzole-vanoce.jpg">
+*Tady mě trochu překvapily ty zbraně hned v závěsu za "To My Wife" ozdobami...*
 <img src="/assets/images/sw-vanoce.jpg">
+*A co by to bylo za Váncoe bez pořádných Star Wars ozdobiček, že ano?*
 
-Zas tak moc se ale nestalo. Kuchyňská linka má teď trochu patinu a můj byt kromě vůní linoucích se z vánočních svíček, voní i po kafi. Win-win!
-
-
-
+A takhle si tu v těch vánočních prvotinách žijeme. O víkendu jdeme pro stromeček a snad se nám podaří stihnout ještě páč dalších věcí. A teď mě omluvte, začalo zase sněžit a já si jdu zkusit uvařit druhou várku kafe, snad už bez potopy.
