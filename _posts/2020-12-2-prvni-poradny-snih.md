@@ -10,12 +10,14 @@ Dnešní ráno bylo ve znamení prnvího sněhu a kávové potopy u mě v kuchyn
 
 Na druhou stranu, konec semestru znamená, že jsme se přehoupli do období prvního sněhu! A venkovní sněhová nadílka to jen potvrzuje! Mám konečně důvod vytáhnout plnou škálu svetrů, čepic a šál, které jsem se snažila nenápadně propašovat zpátky do šatníku už v říjnu, ale počasí tomu nebylo úplně nakloněno. Letos jsme tu na přelomu října a listopadu měli krásných 25° a intenzitu sluníčka tak akorát na opalovačku. Loni to bylo o dost brutálnější, chladno bylo už od září, ale i tak jsem na sníh připravená nebyla, neb přišel už na začátku listopadu, což se celkem příčilo mému východočeskému pojetí, kdy si myslím, že je adekvátní, aby začalo sněžit. Letos jsem si musela na newyorský sníh počkat, ale vypadá to, že se to vyplatilo a můžeme zveselat začít stavět sněhuláky!
 
-<img src="/assets/images/listopad-2020.jpg">
 *Takhle to tu vypadalo letos 8. listopadu 2020.*
-<img src="/assets/images/prvni-snih-2019.jpg">
+<img src="/assets/images/listopad-2020.jpg">
+
 *Takhle to tu vypadalo loni 8. listopadu 2019.*
-<img src="/assets/images/prvnisnih.jpg">
+<img src="/assets/images/prvni-snih-2019.jpg">
+
 *Vše je v pořádku, takhle to tu vypadá dneska, 2. prosince 2020*
+<img src="/assets/images/prvnisnih.jpg">
 
 Moje nadšení z prnvího sněhu už tak úplně moc nesdílí můj přítel. Jako správný rodilý New Yorčan je ze sněhu, který si tu každou zimu kolikrát lebedení 5 až 6 měsíců, asi tak nadšený jako Pražák z Orloje. Na druhou stranu, sníh taky znamenají Vánoce, které máme rádi oba. A protože se letos nepodívám do Čech, kde jsem doteď trávila všechny Vánoce, další prvotina letošní zimy bude vymyslet logistiku těch česko-amerických. Zatím se nám to celkem daří. Máme "Christmas plan", což je v podstatě seznam toho, co všechno chceme udělat, vidět a sníst kolem Vánoc. Mně se podařilo celkem omylem najít Zlatovlásku, Princeznu ze mlejna a Tři oříšky pro Popelku s anglickými titulky, takže se můj drahý indoktrinaci českými pohádkami nevyhne. Muhaha! Já mám na oplátku slíbeného původního Grinche.
 
@@ -29,17 +31,22 @@ Další fáze výzdoby se bude odehrávat zcela v tradici "keeping up with Jones
 
 Ostatně, když už mluvím o větších grádách, na našich pravidelných toulkách po obchoďáku, který já považuju za terén pro studium toho, jak Američané žijí, se většinou zastavíme v Hallmark Christmas Treasure obchodě. Pokud vám něco říká Hallmark channel, který produkuje romantické filmy na míru a točí je podle toho, jaká je roční doba, tak ano, to je jejich obchod s cílem pomoci vám dosáhnout kvalit vaší výzdoby ve stejném duchu, jak jste ji viděli na vašich obrazovkách. Prodejna je veliká asi jako běžné H&M v Česku a je plná vánočních ozdob všech typů, druhů, témat, tradic a fenoménů, které dělají Ameriku Amerikou a Vánoce Vánoci. Podívejte se ostatně sami, tohle je jen malá část toho, co mě tam zatím zaujalo:
 
-<img src="/assets/images/santa-vsude.jpg">
 *Santa je tu...všude! A ve všech velikostech.*
-<img src="/assets/images/cocacola-vanoce.jpg">
+<img src="/assets/images/santa-vsude.jpg">
+
 *Coca Cola taky...*
+<img src="/assets/images/cocacola-vanoce.jpg">
+
+*Louskáček tu taky tradičně nesmí chybět.*
 <img src="/assets/images/louskacek-hallmark.jpg">
-*Louskáček*
-<img src="/assets/images/zachod-vanoce.jpg">
+
 *Co takhle záchod na vánoční stromeček?*
-<img src="/assets/images/konzole-vanoce.jpg">
+<img src="/assets/images/zachod-vanoce.jpg">
+
 *Tady mě trochu překvapily ty zbraně hned v závěsu za "To My Wife" ozdobami...*
-<img src="/assets/images/sw-vanoce.jpg">
+<img src="/assets/images/konzole-vanoce.jpg">
+
 *A co by to bylo za Váncoe bez pořádných Star Wars ozdobiček, že ano?*
+<img src="/assets/images/sw-vanoce.jpg">
 
 A takhle si tu v těch vánočních prvotinách žijeme. O víkendu jdeme pro stromeček a snad se nám podaří stihnout ještě páč dalších věcí. A teď mě omluvte, začalo zase sněžit a já si jdu zkusit uvařit druhou várku kafe, snad už bez potopy.
