@@ -20,13 +20,9 @@ Skytop Quarry, jak se lomu říká, je tu taková místní rarita. Najdete ho na
 
 ---
 **Rychlý výlet do historie**
-> Kamenolom si tu otevřela v roce 1908 společnost Rock Cut Stone Co. I přes tenhle poetický název si společnost nevedla úplně nejlíp a prodala lom v roce 1929 jiné, rozhodně ne tak poeticky pojmenované společnosti. Na dobu od 1932 do 1947 byl lom dočasně zavřený a po několika dalších cyklech zavírání a otevírání se tu v 70. letech těžilo s výsledkem 650 tisíc tun za rok. Činnost lomu oficiálně skončila počátkem 80. letech.
+> Kamenolom si tu otevřela v roce 1908 společnost Rock Cut Stone Co. I přes tenhle poetický název si společnost nevedla úplně nejlíp a prodala lom v roce 1929 jiné, rozhodně ne tak poeticky pojmenované společnosti. Na dobu od 1932 do 1947 byl lom dočasně zavřený a po několika dalších cyklech zavírání a otevírání se tu oficiálně přestalo těžit počátkem 80. let.
 >
->Jak jsem se <a href="https://doktoratvnewyorku.github.io/chittenango-falls/">zmínila v jednom z předchozích článků</a>, Upstate New York byl díky Erie Canal od r. 1825 populární místo pro přistěhovalce a výrobu všeho druhu a dal vzniknout firmám jako General Electrics, IBM, Kodak, Xerox a dalším. Jenže v polovně 20. století tu vlna deindustrializace přispěla k ekonomickému a populačnímu úpadku a region je z velké části považovaný za tzv. <a href="https://www.investopedia.com/terms/r/rust-belt.asp">Rust Belt</a>.
-
- Erie Canal in 1825, which greatly eased the movement of goods from the upper midwest, the cities along the Great Lakes, and Upstate New York, to the port of New York City. As a result, Upstate became a hotbed for manufacturing, giving birth to such firms as General Electric, IBM, Kodak, and Xerox, and it welcomed a large influx of immigrants. Since the mid-20th century, American de-industrialization has contributed to economic and population decline Upstate,[5][6] and the region is largely considered part of the Rust Belt. 
-
-
+>Jak jsem se <a href="https://doktoratvnewyorku.github.io/chittenango-falls/">zmínila v jednom z předchozích článků</a>, Upstate New York byl díky Erie Canal od r. 1825 populární místo pro přistěhovalce a výrobu všeho druhu a dal vzniknout firmám jako General Electrics, IBM, Kodak, Xerox a dalším. Jenže v polovně 20. století tu vlna deindustrializace přispěla k ekonomickému a populačnímu úpadku a region je z velké části považovaný za součást tzv. <a href="https://www.investopedia.com/terms/r/rust-belt.asp">Rust Belt</a>. Znamená to, že hlavní průmysl, co pomohl kraji zbohatnout a přitáhnout novou populaci, je tu v dezolátním stavu. Ekonomika se v rurálních částech státu pomalu zvedá a drží jí nad vodou hlavně zemedělství. Oproti původní slávě je to ale jen chudý příbuzný. 
 
 
 Už přes 30 let je všechno v lomu nechané ladem, což nahrává hlavně místní mládeži, grafiťákům a bůhví komu a čemu všemu, po čem se odmítám hlouběji pídit, ale nepořádek nechaný na různých místech v lomu ukazuje tím směrem.
