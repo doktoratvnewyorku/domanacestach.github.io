@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Taughannock Falls: Záhada nalezeného obra"
+title:  "Skytop Quarry - urbex po newyorsku"
 author: leni
 categories: [výlety, New York state]
-image: assets/images/view3.png
+image: assets/images/urbex-3.jpg
 tags: [featured, sticky]
 ---
 
