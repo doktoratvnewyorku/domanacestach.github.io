@@ -15,7 +15,6 @@ Skytop Quarry, jak se lomu říká, je tu taková místní rarita. Najdete ho na
 
 *Jako rodilý Hradečák jsem si tu hodně zavzpomínala na <a href="https://www.idnes.cz/hradec-kralove/zpravy/prirodni-pamatka-plachta-exmoorsti-kone-pony-pastva-sucho-hradec-kralovehradecky.A200609_552149_hradec-zpravy_tuu">Plachtu a místní unikátní ekosystém</a>*
 <img src="/assets/images/lom-1.jpg">
-
 *Najdi jelena! Tenhle mlaďoch z nás radost neměl, tak jsme se radši obrátili a vyrazili jinou cestou...*
 <img src="/assets/images/najdi-jelena.jpg">
 
