@@ -9,7 +9,7 @@ tags: [featured, sticky]
 
 Léta v Upstate New York nejsou o poznání jinačí než léto, na co jsme zvyklí v Čechách - teploty kolem třicítky, sluníčko pálí jak ďas, sem tam zaprší, ale to spíš aby se neřeklo. Od srpna do začátku září se tu klima pak dost často promění do prádelny, kdy jste rádi, když nemusíte nikam a to ani do vedlejší místnosti, klimatizace neklimatizace. Ne že bychom byli s přítelem úplný extrémisti, ale tak nějak omylem se nám v jednom z těch teplejších červencových dnů udělal nápad, že se projdeme do místního opuštěného kamenolomu.
 
-Kupodivu cesty do lomu tu vedou do kopce...
+*Kupodivu cesty do lomu tu vedou do kopce...*
 <img src="/assets/images/cesta-tam.jpg">
 Skytop Quarry, jak se lomu říká, je tu taková místní rarita. Najdete ho na pomezí Syracuse a Jamesville, což je demarkační čára, kde tu  začíná ta hezčí část městeček, vesniček a jiných obydlí na východ od Syracuse. Je tak na okraji města, ale zároveň sousedí s jižním kampusem naší univerzity, kde trénují sportovci všech disciplín a kde taky sídlí velká část univerzitní administrativy. Oficiálně je do kamenolomu zákaz vstupu, a to ještě jen z jednoho rozcestí, kde když se vydáte doprava, nikam nesmíte, a když se vydáte doleva a máte propustku od místního přírodovědeckého kroužku (nebo co to je za blázny), tak se tam dostanete bez problému. Pak je ale vlez oficiální, kde se v ty hezčí dny potkáte s horskými kolaři a jinými dobrodruhy, kteří lom využívají pro svou zábavu.
 
