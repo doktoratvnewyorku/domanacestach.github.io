@@ -14,6 +14,7 @@ Skytop Quarry je tu taková místní rarita. Najdete ho na pomezí Syracuse a Ja
 ---
 **Rychlý výlet do historie**
 Kamenolom si tu otevřela v roce 1908 společnost Rock Cut Stone Co. I přes tenhle poetický název si společnost nevedla úplně nejlíp a prodala lom v roce 1929. Na dobu od 1932 do 1947 se lom dočasně zavřel a po několika dalších cyklech otevírání a zavírání tu v 70. letech těžba dosáahovala 650 tisíc tun za rok.
+---
 
 Lom je oficiálně zavřený od 80. let a je tak už přes 30 let nechaný ladem, což nahrává hlavně místní mládeži a grafiťákům a bůhví čemu všemu, po čem se odmítám hlouběji pídit, ale nepořádek nechaný v lomu tomu napovídá.
 
