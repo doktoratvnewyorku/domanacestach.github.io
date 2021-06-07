@@ -7,7 +7,7 @@ image: assets/images/europetravel.jpg
 
 ---
 
-Snažím se nad politikou už nerozčilovat, ale poslední dobou mi to vážně nejde. Poslední kapkou jsou absolutně nelogické regulace ohledně toho, kdo může a nemůže přijet do ČR. Tohle je jen drobnej výčet toho, jak to teď komplikuje život nám:
+Snažím se nad českou politikou už nerozčilovat, ale poslední dobou mi to vážně nejde. Poslední kapkou jsou absolutně nelogické regulace ohledně toho, kdo může a nemůže přijet do ČR. Tohle je jen drobnej výčet toho, jak to teď komplikuje život nám:
 
 Koupili jsme dneska s přítelem konečně letenky do Evropy s tím, že se může všechno změnit a třeba se nedostaneme vůbec nikam, natož do Čech. Oba jsme řádně očkování - dvě dávky!, víte jak. Namísto toho, abychom na ČR hranici oba ukázali papír se štemplem, že jsme si protrpěli po každý z injekci vedlejší příznaky vakcíny, a výsledky negativního PCR testu, proskáčeme pravděpodobně veškerýma byrokratickýma kolečkama, o kterých se ani Asterixovi s Obelixovi nesnilo.
 
