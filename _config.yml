@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'disqus_8H5z2ZkQdw'
 email: 'l.krsova@gmail.com'
-mailchimp-list: 'false'
+mailchimp-list: false
 
 include: ["_pages"]
 permalink: /:title/

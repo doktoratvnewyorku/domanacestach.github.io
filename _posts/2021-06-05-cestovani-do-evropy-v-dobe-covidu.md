@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Nejsou cizáci jako "cizáci"
+title:  "Nejsou cizáci jako cizáci"
 author: leni
 categories: [výlety, Evropa]
 image: assets/images/europetravel.jpg
+
 ---
 
 Snažím se nad politikou už nerozčilovat, ale poslední dobou mi to vážně nejde. Poslední kapkou jsou absolutně nelogické regulace ohledně toho, kdo může a nemůže přijet do ČR. Tohle je jen drobnej výčet toho, jak to teď komplikuje život nám:
