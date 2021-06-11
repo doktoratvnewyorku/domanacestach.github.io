@@ -7,7 +7,9 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 ---
 
-...pokud jsou vaše pracovní návyky a workflow kompatibilní s jeho účelem.
+...pokud jsou vaše pracovní návyky a workflow kompatibilní s tím pro co byl <a href="https://remarkable.com/">Nory vytvořen</a>. 
+
+
 
 **Disclaimer o tom, jak pracuju já (který můžete klidně přeskočit)**
 >Ne každá hračka vyhovuje všem a u přístroje jako je ReMarkable 2 to platí dvojnásob. Popis toho, jak pracuju a jak jsem zvyklá číst, psát si poznámky a pracovat s nimi, by vám mohlo pomoct pochopit, co mi na RM 2 vyhovuje a co naopak ne a proč jsem si ho pořídila.
@@ -20,7 +22,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 >
 >Než jsem si pořídila RM2 leta jsem používala Kindle Touch a nejnověji pak Kindle Paperwhite (oboje s dotykovým ovládáním). Prošel mi rukou iPad (bez stylu), ale využívala jsem ho jako prodlouženou ruku telefonu nebo počítače. Čtení na něm šlo, ale oči bolely. 
 
-Moje akademická kariéra 
+
 
 *P.S. Posbírala jsem pár dotazů o fungování RM2 i na Twitteru. Pokud jste mi nějaký poslali, najdete se u příslušné části podle Twitter nicku* 😉
 #### Psaní
