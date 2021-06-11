@@ -25,13 +25,22 @@ Moje akademická kariéra
 *P.S. Posbírala jsem pár dotazů o fungování RM2 i na Twitteru. Pokud jste mi nějaký poslali, najdete se u příslušné části podle Twitter nicku* 😉
 #### Psaní
 
-#### Zoom out/Zoom in
+<img src="/assets/images/rm2/typeface.jpg">
+
+#### Export psaní & poznámek
+
+#### Čtení
+
+Zoom out/Zoom in
 
 #### Odezva
 
 #### Technické parametry
 
-#### Paměť
+**Paměť**
+
+**Cloud**
+
 
 #### Co se mi na ReMarkable 2 líbí
 
