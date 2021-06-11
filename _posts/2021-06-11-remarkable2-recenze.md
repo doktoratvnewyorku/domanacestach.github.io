@@ -3,13 +3,13 @@ layout: post
 title:  "ReMarkable 2 je opravdu remarkable"
 author: leni
 categories: [doktorát, gadgets]
-image: assets/images/rm2/.jpg
+image: assets/images/rm2/remarkable2rec.jpg
 
 ---
 
 ...pokud jsou vaše pracovní návyky a workflow kompatibilní s jeho účelem.
 
-## Disclaimer o tom, jak pracuju já
+### Disclaimer o tom, jak pracuju já
 Ne každá hračka vyhovuje všem a u přístroje jako je ReMarkable 2 (dále jako RM2) to platí dvojnásob. Popis toho, jak pracuju a jak jsem zvyklá číst, psát si poznámky a pracovat s nimi, by vám mohlo pomoct pochopit, co mi na RM 2 vyhovuje a co naopak ne a proč jsem si ho pořídila.
 
 Jsem stará škola a nejlíp se mi přemýšlí psaním v ruce. Při čtení si píšu poznámky přímo do textu, podrthávám a jiným způsobem "znesvěcuju" knížky papírové i ty elektronické. Mám poměrně hodně vyvinutou vizuální paměť a pokud si něco v textu zvýrazním, pamatuju si nejen, co to bylo, ale zhruba i kde na stránce se to nacházelo. Je jedno, jestli je to barevně nebo černobíle. I přesto, že jsem akademik, citační manažery jako Zotero nebo Mendeley používám jen jako databázi článků, které čtu nebo které jednou číst chci (akademický humor...). Anotace do PDF píšu minimálně a když už, tak ve znění "zajímavé", "tohle zmiňuje XY v xy", apod. Reference dělám ručně nebo s pomocí pluginů Paperpile pro Word. Většinou souborů, se kterými pracuju, mám pak na Google Drive. 
