@@ -32,8 +32,8 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 #### Export psaní & poznámek
 
-<img src="/assets/images/rm2/typypsani.jpg">
-<img src="/assets/images/rm2/download.jpg">
+<img src="/assets/images/rm2/typypsani.png">
+<img src="/assets/images/rm2/download.png">
 
 #### Čtení
 
