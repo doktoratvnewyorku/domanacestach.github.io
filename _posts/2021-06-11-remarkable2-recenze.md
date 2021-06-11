@@ -22,7 +22,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 Moje akademická kariéra 
 
-*P.S. Posbírala jsem pár dotazů o fukčnosti i na Twitteru. Pokud jste mi nějaký poslali, najdete se u příslušné části podle Twitter nicku* 😉
+*P.S. Posbírala jsem pár dotazů o fungování RM2 i na Twitteru. Pokud jste mi nějaký poslali, najdete se u příslušné části podle Twitter nicku* 😉
 #### Psaní
 
 #### Zoom out/Zoom in
