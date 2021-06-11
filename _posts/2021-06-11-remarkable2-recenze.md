@@ -7,9 +7,9 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 ---
 
-...pokud jsou vaše pracovní návyky a workflow kompatibilní s tím pro co byl <a href="https://remarkable.com/">Nory vytvořen</a>. 
+...pokud jsou vaše pracovní návyky a workflow kompatibilní s tím pro co byl <a href="https://remarkable.com/">Nory vytvořen</a>. Remarkable 2 je tablet využívající e-ink technologii (jako Kindle), s tím rozdílem, že umožňuje i psaní.  
 
-
+*P.S. Posbírala jsem pár dotazů o fungování RM2 i na Twitteru. Pokud jste mi nějaký poslali, najdete se u příslušné části podle Twitter nicku* 😉
 
 **Disclaimer o tom, jak pracuju já (který můžete klidně přeskočit)**
 >Ne každá hračka vyhovuje všem a u přístroje jako je ReMarkable 2 to platí dvojnásob. Popis toho, jak pracuju a jak jsem zvyklá číst, psát si poznámky a pracovat s nimi, by vám mohlo pomoct pochopit, co mi na RM 2 vyhovuje a co naopak ne a proč jsem si ho pořídila.
@@ -24,14 +24,31 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 
 
-*P.S. Posbírala jsem pár dotazů o fungování RM2 i na Twitteru. Pokud jste mi nějaký poslali, najdete se u příslušné části podle Twitter nicku* 😉
+
+
 #### Psaní
 
 <img src="/assets/images/rm2/typeface.jpg">
 
 #### Export psaní & poznámek
 
+<img src="/assets/images/rm2/typypsani.jpg">
+<img src="/assets/images/rm2/download.jpg">
+
 #### Čtení
+
+**PDF**
+<img src="/assets/images/rm2/pdf1.jpg">
+<img src="/assets/images/rm2/pdf2.jpg">
+<img src="/assets/images/rm2/pdf3.jpg">
+<img src="/assets/images/rm2/pdf4.jpg">
+
+**EPub**
+
+<img src="/assets/images/rm2/epub1.jpg">
+<img src="/assets/images/rm2/epub2.jpg">
+<img src="/assets/images/rm2/epub3highlight.jpg">
+<img src="/assets/images/rm2/foto.jpg">
 
 Zoom out/Zoom in
 
