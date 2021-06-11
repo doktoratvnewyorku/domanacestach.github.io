@@ -9,6 +9,9 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 ...pokud jsou vaše pracovní návyky a workflow kompatibilní s jeho účelem.
 
+Moje akademická kariéra 
+
+*P.S. Posbírala jsem pár dotazů o fukčnosti i na Twitteru. Pokud jste mi nějaký poslali, najdete se u příslušné části podle Twitter nicku 😉*
 #### Psaní
 
 #### Zoom out/Zoom in
@@ -20,6 +23,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 #### Paměť
 
 #### Co se mi na ReMarkable 2 líbí
+
 
 #### Co mi na ReMarkable 2 chybí
 
