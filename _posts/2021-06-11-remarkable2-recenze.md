@@ -35,6 +35,11 @@ image: assets/images/rm2/remarkable2rec.jpg
 <img src="/assets/images/rm2/typypsani.png">
 <img src="/assets/images/rm2/download.png">
 
+#### Tužka
+
+<img src="/assets/images/rm2/points.jpg">
+<img src="/assets/images/rm2/points2.jpg">
+
 #### Čtení
 
 **PDF**
@@ -56,9 +61,13 @@ Zoom out/Zoom in
 
 #### Technické parametry
 
-**Paměť**
+<img src="/assets/images/rm2/generalset.jpg">
 
 **Cloud**
+
+<img src="/assets/images/rm2/cloudsetting.jpg">
+<img src="/assets/images/rm2/web-cloud.PNG">
+<img src="/assets/images/rm2/cloud-2.PNG">
 
 
 #### Co se mi na ReMarkable 2 líbí
