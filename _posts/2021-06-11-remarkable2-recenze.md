@@ -3,7 +3,7 @@ layout: post
 title:  "ReMarkable 2 je opravdu remarkable"
 author: leni
 categories: [doktorát, gadgets]
-image: assets/images/europetravel.jpg
+image: assets/images/rm2/.jpg
 
 ---
 
