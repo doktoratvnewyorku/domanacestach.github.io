@@ -19,6 +19,9 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 #### Paměť
 
+#### Co se mi na ReMarkable 2 líbí
+
+#### Co mi na ReMarkable 2 chybí
 
 ---
 **Disclaimer o tom, jak pracuju já**
