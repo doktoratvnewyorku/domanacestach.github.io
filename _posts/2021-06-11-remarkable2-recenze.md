@@ -22,10 +22,6 @@ image: assets/images/rm2/remarkable2rec.jpg
 >
 >Než jsem si pořídila RM2 leta jsem používala Kindle Touch a nejnověji pak Kindle Paperwhite (oboje s dotykovým ovládáním). Prošel mi rukou iPad (bez stylu), ale využívala jsem ho jako prodlouženou ruku telefonu nebo počítače. Čtení na něm šlo, ale oči bolely. 
 
-
-
-
-
 #### Psaní
 
 <img src="/assets/images/rm2/typeface.jpg">
@@ -35,10 +31,9 @@ image: assets/images/rm2/remarkable2rec.jpg
 <img src="/assets/images/rm2/typypsani.PNG">
 <img src="/assets/images/rm2/download.PNG">
 
-#### Tužka
+#### Stylus
 
 <img src="/assets/images/rm2/points.jpg">
-<img src="/assets/images/rm2/points2.jpg">
 
 #### Čtení
 
