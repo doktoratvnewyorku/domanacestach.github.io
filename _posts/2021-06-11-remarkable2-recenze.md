@@ -51,10 +51,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 **EPub**
 
-<img src="/assets/images/rm2/epub1.jpg">
-<img src="/assets/images/rm2/epub2.jpg">
-<img src="/assets/images/rm2/epub3highlight.jpg">
-<img src="/assets/images/rm2/foto.jpg">
+<img src="/assets/images/rm2/epuball.jpeg">
 
 Zoom out/Zoom in
 
