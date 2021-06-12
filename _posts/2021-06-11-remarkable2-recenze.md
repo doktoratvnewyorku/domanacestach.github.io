@@ -20,7 +20,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 + 
 
 #### Psaní
-Odbyde mi si to hnedka zkraje, ju? Nekecali, psaní na ReMarkable je opravdu jako psaní na papíře. Zejména tužka a mikrotužka aka pentilka aka "mechanical pencil" vašemu mozku připomene, jaké to bývalo před dobou ťukání do klávesnice. A že, aspoň pro mě, to je krásný pocit. 
+Odbyde mi si to hnedka zkraje, ju? Nekecali, **psaní na ReMarkable je opravdu jako psaní na papíře**. Zejména tužka a mikrotužka aka pentilka aka "mechanical pencil" vašemu mozku připomene, jaké to bývalo před dobou ťukání do klávesnice. A že je to fajn připomenutí. 
 
 RM2 má k dnešku k dispozici **8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero**. Žádný ze zbylých možností, co RM2 nabízí, mi už tolik nepřipomíná pocit psaní na papír, ale pořád to má daleko od pocitu psaní na sklo jako si to pamatuju z iPadu.
 
