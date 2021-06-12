@@ -27,15 +27,13 @@ image: assets/images/rm2/remarkable2rec.jpg
 >
 >Když jsem ve formě, **přečtu nebo projdu 5 akademických článků za den (cca 60 stránek v průměru) nebo tak 40 stran knížky**. V jednom týdnu mám tak 3 takhle dobré dny. Neflexuju, to je jen realita mých akademických dnů. **Psaní pro mě funguje jako "dumping ground", kdy jde všechno z hlavy ven**. Kromě pracovních textů neustále něco píšu - poznámky o tom, co jsem někde viděla a četla, nápady na projekty, plánování, deník, apod. 
 >
->**Hodně (vážně hodně) času trávím u počítače**, proto nikdy nebudu chtít koukat do dalšího displeje, pokud nemusím. Moje oči dostávají **velký nápor modrého světla** každý den a fajn to není. Sedím u všeho většinou jako "tatar", což je můj odvěký problém, který žádná z kancelářských židlí zatím nevyřešila. Kombinací všech zmíněných parametrů se mi **během jara poměrně často objevovaly bolesti hlavy z přetažení a přetížení očí a krční páteře**. I proto preferuju e-ink čtečky do ruky, přenosné a bez displeje s modrým světlem. Navíc mám často pozornost typu <a href="https://www.youtube.com/watch?v=Faa2dHJNFqQ">"hele, veverka"</a> (nemám ADHD), takže cokoliv, co má notifikace a připojení k internetu je pro mě a mou produktivitu zlo.
+>**Hodně (vážně hodně) času trávím u počítače**, proto nikdy nebudu chtít koukat do dalšího displeje, pokud nemusím. Moje oči dostávají **velký nápor modrého světla** každý den a fajn to není. Sedím u všeho většinou jako "tatar", což je můj odvěký problém, který žádná z kancelářských židlí zatím nevyřešila. Kombinací všech zmíněných parametrů se mi **během jara poměrně často objevovaly bolesti hlavy z přetažení a přetížení očí a krční páteře**. I proto preferuju e-ink čtečky do ruky, přenosné a bez displeje s modrým světlem. Navíc mám často pozornost typu <a href="https://www.youtube.com/watch?v=Faa2dHJNFqQ">"hele, veverka"</a> (nemám ADHD, jen ustavičné FOMO), takže cokoliv, co má notifikace a připojení k internetu je pro mě a mou produktivitu zlo.
 >
 >Než jsem si pořídila RM2 léta jsem používala <a href="https://www.amazon.com/Kindle-Touch-e-Reader-Touch-Screen-Wi-Fi-Special-Offers/dp/B005890G8Y">Kindle Touch</a> a nejnověji pak <a href="https://www.amazon.com/All-new-Kindle-Paperwhite-Waterproof-Storage/dp/B07CXG6C9W">Kindle Paperwhite</a> (oboje s dotykovým ovládáním). Prošel mi rukou iPad (bez stylu), ale využívala jsem ho jako prodlouženou ruku telefonu nebo počítače. Čtení na něm šlo, ale oči bolely. Loni jsem si pro psaní pořídila <a href="https://www.moleskine.com/en-us/shop/moleskine-smart/">Moleskine Smart</a> s perem s infračervenou kamerkou jako předstupeň RM.
 
 #### Psaní
 
 <img src="/assets/images/rm2/typeface.jpg">
-
-<img src="/assets/images/rm2/poznamka.jpeg">
 
 #### Export psaní & poznámek
 
@@ -59,6 +57,10 @@ image: assets/images/rm2/remarkable2rec.jpg
 #### "Cloud"
 
 <img src="/assets/images/rm2/cloud.jpg">
+
+#### "Fíčury", se kterými se sžívám
+
+<img src="/assets/images/rm2/poznamka.jpeg">
 
 ### Vyplatí se to?
 Ne každá hračka vyhovuje všem a u přístroje jako je ReMarkable 2 to platí dvojnásob.
