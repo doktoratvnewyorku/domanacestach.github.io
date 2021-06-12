@@ -33,7 +33,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 #### Psaní
 
-<img src="/assets/images/rm2/typeface.jpeg">
+<img src="/assets/images/rm2/typeface.jpg">
 
 <img src="/assets/images/rm2/poznamka.jpeg">
 
@@ -58,7 +58,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 #### "Cloud"
 
-<img src="/assets/images/rm2/cloud.jpeg">
+<img src="/assets/images/rm2/cloud.jpg">
 
 ### Vyplatí se to?
 Ne každá hračka vyhovuje všem a u přístroje jako je ReMarkable 2 to platí dvojnásob.
