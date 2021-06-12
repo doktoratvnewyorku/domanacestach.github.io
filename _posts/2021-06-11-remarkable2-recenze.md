@@ -33,12 +33,13 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 #### Psaní
 
-<img src="/assets/images/rm2/typeface.jpg">
+<img src="/assets/images/rm2/typeface.jpeg">
+
+<img src="/assets/images/rm2/poznamka.jpeg">
 
 #### Export psaní & poznámek
 
-<img src="/assets/images/rm2/typypsani.PNG">
-<img src="/assets/images/rm2/download.PNG">
+<img src="/assets/images/rm2/prepsanytext.jpeg">
 
 #### Stylus
 
@@ -53,22 +54,11 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 <img src="/assets/images/rm2/epuball.jpeg">
 
-Zoom out/Zoom in
-
 #### Odezva
 
-#### Technické parametry
+#### "Cloud"
 
-<img src="/assets/images/rm2/generalset.jpg">
-
-**Cloud**
-
-<img src="/assets/images/rm2/cloudsetting.jpg">
-<img src="/assets/images/rm2/web-cloud.PNG">
-<img src="/assets/images/rm2/cloud-2.PNG">
-
-
-
+<img src="/assets/images/rm2/cloud.jpeg">
 
 ### Vyplatí se to?
 Ne každá hračka vyhovuje všem a u přístroje jako je ReMarkable 2 to platí dvojnásob.
