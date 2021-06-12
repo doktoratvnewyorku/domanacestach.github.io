@@ -22,7 +22,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 #### Psaní
 Odbyde mi si to hnedka zkraje, ju? Nekecali, **psaní na ReMarkable je opravdu jako psaní na papíře**. Zejména tužka a mikrotužka aka pentilka aka "mechanical pencil" vašemu mozku připomene, jaké to bývalo před dobou ťukání do klávesnice. A že je to fajn připomenutí. 
 
-RM2 má k dnešku k dispozici **8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero**. Žádný ze zbylých možností, co RM2 nabízí, mi už tolik nepřipomíná pocit psaní na papír, ale pořád to má daleko od pocitu psaní na sklo jako si to pamatuju z iPadu.
+RM2 má k dnešku k dispozici **8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero**. Žádný ze zbylých možností, co RM2 nabízí, mi už tolik nepřipomíná pocit psaní na papír, ale pořád to má daleko od pocitu psaní na sklo, jako si to pamatuju z iPadu.
 
 Každý typ psací potřeby má tři různé tloušťky stopy a k výběru jsou i tři barvy - černá, šedá a bílá. Zvýraňovač má jen jednu barvu, která se v exportu změní do žluté (jako má defaultně nastavený Adobe Acrobat Reader).
 
@@ -30,12 +30,12 @@ Každý typ psací potřeby má tři různé tloušťky stopy a k výběru jsou 
 *Takhle vypadají různé možnosti psaní a jak se pak chovají vyexportované jako PDF.*
 
 ##### Stylus & guma
-Stylus si stejně jako tablet samotný prošel vývojem také (o tom, proč je imho blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první a nevidím na ní žádný nedostatek. Dle paramatrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Stylus vnímá naklonění hrotu, což se hodí zejména pro kreslení a kouzlení s kaligrafickým perem a podtrhává to (pun intended!) zážitek psaní v ruce.
+Stylus si stejně jako tablet samotný prošel vývojem také (o tom, proč je imho blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první. Dle parametrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic, co bych nějak postrádala. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Stylus vnímá naklonění hrotu, což se hodí zejména pro kreslení a kouzlení s kaligrafickým perem a podtrhává to (pun intended!) zážitek psaní v ruce.
 
 <img src="/assets/images/rm2/points.jpg">
 *Hroty jsou vyměnitelné a dostanete jich 9 do foroty. Dle výrobce má každý vydržet 2 až 6 měsíců dle toho, jako moc velcí pisálci jste.* 
 
-Vlastní kategorii si zaslouží **gumování**. S příchodem RM2 se vylepšil i stylus a protože jinak než zpěněžením všeho ten kapitalismus nevybudujete (#sarkasmus), výrobci přidali do konce nového stylu <a href="https://remarkable.com/store/configure?step=marker">Marker Plus</a> gumu. Respektive je to senzor, co ví, že má gumovat, ale na víc detailů se mě neptejte, zas tolik tomu nerozumím. Tahle drobná legrace stojí o $50 víc než původní Marker. A to i přesto, že gumování je vbudované přímo do tabletu a za mě funguje báječně.
+Vlastní zmínku si zaslouží **gumování**. S příchodem RM2 se vylepšil i stylus a protože jinak než zpěněžením všeho ten kapitalismus nevybudujete (#sarkasmus), výrobci přidali do konce nového stylu <a href="https://remarkable.com/store/configure?step=marker">Marker Plus</a> gumu. Respektive je to senzor, co ví, že má gumovat, ale na víc detailů se mě neptejte, zas tolik tomu nerozumím. Tahle drobná legrace stojí o $50 víc než původní Marker. A to i přesto, že gumování je vbudované přímo do tabletu a za mě funguje báječně.
 
 **Gumovat můžete na třech úrovních:** hrot pera se chová jako guma (hodí se na drobné chyby); gumovat můžete selekcí (celá slova, větší kusy textu či kresby); a nakonec můžete vymazat celou stránku jedním klikem. Stojí to pár ťuknutí na rozhraní, ale IMHO to bolí míň než vysolit 50 babek ¯\_(ツ)_/¯
 
@@ -49,7 +49,7 @@ Dokumenty v obou zmíněných formátech se čtou příjemně, byť PDF by mohlo
 
 ePub má mnohem přijatelnější defaultní velikost písma. Font záleží na formátování daného dokumentu a dá se měnit spolu s odsazením, prokladem a tak dále přímo v ReMarkable (podobně jako v Kindle).
 
-Stejně jako v PDF i v ePub se dá hledat podle klíčového slova, dokument nastavit do pohledu na šírku, poslat jednu či více stránek e-mailem ve formátu PDF, SVG nebo PNG. 
+Stejně jako v PDF i v ePub se dá hledat podle klíčového slova, dokument nastavit do pohledu na šírku, poslat jednu či více stránek e-mailem ve formátu PDF, SVG nebo PNG. Listovat knížkou, článkem nebo jakýmkoliv dokumentem se dá skrze zobrazení přehledu všech stránek (viz. obrázek vpravo dole). Tady se dá taky označit libovolné množství stránek a poslat je e-mailem v jednom souboru (PDF, SVG a PNG jsem nezkoušela). 
 
 <img src="/assets/images/rm2/epuball.jpeg">
 
@@ -81,9 +81,11 @@ Pověst prvnímu ReMarkable trochu kazila odezva.
 
 I přesto, že je RM2 hodně minimalistický, poskytuje spoustu funkcionalit, se kterými se ještě pořád sžívám. Buď je pro svou práci nepotřebuju, nevzpomenu si na ně, nebo mi nepřijdou (zatím) použitelné.
 
-**LiveView (Beta)**
+##### LiveView (Beta)
 
-**Kopírování**
+##### Kopírování
+
+##### Šablony
 
 
 
