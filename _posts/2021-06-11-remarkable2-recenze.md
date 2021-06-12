@@ -20,7 +20,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 + 
 
 #### Psaní
-Odbyde mi si to hnedka zkraje, ju? Ne, nekecali, psaní na ReMarkable je opravu jako psaní na papíře. Zejména tužka a mikrotužka aka pentilka aka "mechanical pencil" vašemu mozku připomene, jaké to bývalo před dobou ťukání do klávesnice. A že, aspoň pro mě, to je krásný pocit. 
+Odbyde mi si to hnedka zkraje, ju? Nekecali, psaní na ReMarkable je opravu jako psaní na papíře. Zejména tužka a mikrotužka aka pentilka aka "mechanical pencil" vašemu mozku připomene, jaké to bývalo před dobou ťukání do klávesnice. A že, aspoň pro mě, to je krásný pocit. 
 
 RM2 má k dnešku k dispozici 8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero. Zatím žádný ze zbylých možností, co RM2 nabízí, mi nepřipomíná pocit psaní na sklo jako si to pamatuju z iPadu, byť se dost liší od pocitu psaní tužkou.
 
@@ -58,14 +58,14 @@ Stejně jako v PDF i v ePub se dá hledat podle klíčového slova, dokument nas
 
 Z ReMarkable se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří tuší, že jakékoliv poznámky vepsané do PDF tak budou exportovány v podobě bitmap. Překlad: v exportované verzi se to, co napíšete do PDF, nebude chovat jako text, ale jako obrázek. Nedá se tak označit,  kopírovat či jinak se k dané poznámce chovat jako k textu. Sorry, @matushiq, @vit_tucek .
 
-**Převod psaného textu**
+##### Převod psaného textu
 
 ...aneb vše, co je s ReMarkable tak trochu špatně, pokud potřebujete systematicky pracovat s tím, co v něm napíšete dál.
 
 
 <img src="/assets/images/rm2/download.PNG">
 
-**Podpora češtiny**
+##### Podpora češtiny
 
 <img src="/assets/images/rm2/prepsanytext.jpeg">
 
