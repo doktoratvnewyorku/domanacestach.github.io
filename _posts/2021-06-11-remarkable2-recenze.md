@@ -13,14 +13,11 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 ---
 
-#### Co se mi na ReMarkable 2 líbí
+#### Jak je tenhle článek organizovaný
++ jak se na ReMarkable 2 píše (+ stylus, gumování)
++ jak se na ReMarkable 2 čte (PDF, ePub, zoom)
++ jak funguje export (e-mailem, )
 + 
-+ váha 
-+ synchronizace skry cloud s desktop aplikací a telefonem
-+ design
-
-#### Co mi na ReMarkable 2 chybí
-
 
 **Disclaimer o tom, jak pracuju já (který můžete klidně přeskočit)**
 >**Jsem stará škola a nejlíp se mi přemýšlí psaním v ruce.** Při čtení si píšu poznámky přímo do textu, podrthávám a jiným způsobem "znesvěcuju" knížky papírové i ty elektronické. Mám výrazně vyvinutou vizuální paměť a pokud si něco v textu zvýrazním, pamatuju si nejen, co to bylo, ale zhruba i kde na stránce se to nacházelo. Je jedno, jestli je to barevně nebo černobíle. I přesto, že jsem akademik, **citační manažery jako Zotero nebo Mendeley používám jen jako databázi článků**, které čtu nebo které jednou číst chci (akademický humor...). Anotace (do PDF i v ruce) píšu minimálně a když už, tak ve znění "zajímavé", "tohle zmiňuje XY v xy", apod. **Reference dělám ručně nebo s pomocí pluginů** Paperpile pro Word. Většinu souborů, se kterými pracuju, mám pak na Google Drive. 
@@ -31,7 +28,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 >
 >Než jsem si pořídila RM2 léta jsem používala <a href="https://www.amazon.com/Kindle-Touch-e-Reader-Touch-Screen-Wi-Fi-Special-Offers/dp/B005890G8Y">Kindle Touch</a> a nejnověji pak <a href="https://www.amazon.com/All-new-Kindle-Paperwhite-Waterproof-Storage/dp/B07CXG6C9W">Kindle Paperwhite</a> (oboje s dotykovým ovládáním). Prošel mi rukou iPad (bez stylu), ale využívala jsem ho jako prodlouženou ruku telefonu nebo počítače. Čtení na něm šlo, ale oči bolely. Loni jsem si pro psaní pořídila <a href="https://www.moleskine.com/en-us/shop/moleskine-smart/">Moleskine Smart</a> s perem s infračervenou kamerkou jako předstupeň RM.
 
-#### Psaní
+[create an anchor]#### Psaní
 Odbyde mi si to hnedka zkraje, ju? Ne, nekecali, psaní na ReMarkable je opravu jako psaní na papíře. Zejména tužka a mikrotužka aka pentilka aka "mechanical pencil" vašemu mozku připomene, jaké to bývalo před dobou ťukání do klávesnice. A že, aspoň pro mě, to je krásný pocit. 
 
 RM2 má k dnešku k dispozici 8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero. Zatím žádný ze zbylých možností, co RM2 nabízí, mi nepřipomíná pocit psaní na sklo jako si to pamatuju z iPadu, byť se dost liší od pocitu psaní tužkou.
@@ -41,17 +38,14 @@ Každý typ psací potřeby má tři různé tloušťky stopy a k výběru jsou 
 <img src="/assets/images/rm2/typeface.jpg">
 
 ##### Stylus & guma
-Stylus si prošel vývojem taky (o tom, proč je imho blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první a nevidím na ní žádný nedostatek. Dle paramatrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Stylus vnímá naklonění hrotu, což se hodí zejména pro kreslení a kouzlení s kaligrafickým perem a podtrhává to (pun intended!) zážitek psaní.
+Stylus si stejně jako tablet samotný prošel vývojem také (o tom, proč je imho blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první a nevidím na ní žádný nedostatek. Dle paramatrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Stylus vnímá naklonění hrotu, což se hodí zejména pro kreslení a kouzlení s kaligrafickým perem a podtrhává to (pun intended!) zážitek psaní v ruce.
 
 <img src="/assets/images/rm2/points.jpg">
-Hroty jsou vyměnitelné a dostanete jich 9 do foroty. Dle výrobce má každý vydržet 2 až 6 měsíců dle toho, jako moc velcí pisálci jste. 
+*Hroty jsou vyměnitelné a dostanete jich 9 do foroty. Dle výrobce má každý vydržet 2 až 6 měsíců dle toho, jako moc velcí pisálci jste.* 
 
 Vlastní kategorii si zaslouží **gumování**. S příchodem RM2 se vylepšil i stylus a protože jinak než zpěněžením všeho ten kapitalismus nevybudujete (#sarkasmus), výrobci přidali do konce nového stylu Marker Plus gumu. Respektive je to senzor, co ví, že má gumovat, ale na víc detailů se mě neptejte, zas tolik tomu nerozumím. Tahle drobná legrace stojí o $50 víc než původní Marker. A to i přesto, že gumování je vbudované přímo do tabletu a za mě funguje báječně.
 
 **Gumovat můžete na třech úrovních:** hrot pera se chová jako guma (hodí se na drobné chyby); gumovat můžete selekcí (celá slova, větší kusy textu či kresby); a nakonec můžete vymazat celou stránku jedním klikem. Stojí to pár ťuknutí na rozhraní, ale IMHO to bolí míň než vysolit 50 babek ¯\_(ツ)_/¯
-
-
-
 
 #### Export
 
