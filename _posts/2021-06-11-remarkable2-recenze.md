@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ReMarkable 2 je opravdu remarkable"
+title:  "ReMarkable 2 je opravdu remarkable, ale..."
 author: leni
 categories: [doktorát, gadgets]
 image: assets/images/rm2/remarkable2rec.jpg
