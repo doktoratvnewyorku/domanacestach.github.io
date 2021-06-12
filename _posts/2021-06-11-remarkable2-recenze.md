@@ -27,6 +27,7 @@ RM2 má k dnešku k dispozici 8 různých typů psacího média zahrnující od 
 Každý typ psací potřeby má tři různé tloušťky stopy a k výběru jsou i tři barvy - černá, šedá a bílá.
 
 <img src="/assets/images/rm2/typeface.jpg">
+*Takhle vypadají různé možnosti psaní a jak se pak chovají vyexportované jako PDF.*
 
 ##### Stylus & guma
 Stylus si stejně jako tablet samotný prošel vývojem také (o tom, proč je imho blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první a nevidím na ní žádný nedostatek. Dle paramatrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Stylus vnímá naklonění hrotu, což se hodí zejména pro kreslení a kouzlení s kaligrafickým perem a podtrhává to (pun intended!) zážitek psaní v ruce.
