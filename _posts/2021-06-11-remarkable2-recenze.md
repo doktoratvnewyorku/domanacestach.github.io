@@ -32,9 +32,11 @@ image: assets/images/rm2/remarkable2rec.jpg
 >Než jsem si pořídila RM2 léta jsem používala <a href="https://www.amazon.com/Kindle-Touch-e-Reader-Touch-Screen-Wi-Fi-Special-Offers/dp/B005890G8Y">Kindle Touch</a> a nejnověji pak <a href="https://www.amazon.com/All-new-Kindle-Paperwhite-Waterproof-Storage/dp/B07CXG6C9W">Kindle Paperwhite</a> (oboje s dotykovým ovládáním). Prošel mi rukou iPad (bez stylu), ale využívala jsem ho jako prodlouženou ruku telefonu nebo počítače. Čtení na něm šlo, ale oči bolely. Loni jsem si pro psaní pořídila <a href="https://www.moleskine.com/en-us/shop/moleskine-smart/">Moleskine Smart</a> s perem s infračervenou kamerkou jako předstupeň RM.
 
 #### Psaní
-Odbyde mi si to hnedka zkraje, ju? Ne, nekecali, psaní na ReMarkable je opravu jako psaní na papíře. Zejména tužka a mikrotužka aka pentilka aka "mechanical pencil" vašemu mozku připomene, jaké to bývalo před dobou ťukání do klávesnice. A že, aspoň pro mě, to je krásný pocit. Zatím žádný ze zbylých možností, co RM2 nabízí, mi nepřipomíná pocit psaní na sklo jako si to pamatuju z iPadu.
+Odbyde mi si to hnedka zkraje, ju? Ne, nekecali, psaní na ReMarkable je opravu jako psaní na papíře. Zejména tužka a mikrotužka aka pentilka aka "mechanical pencil" vašemu mozku připomene, jaké to bývalo před dobou ťukání do klávesnice. A že, aspoň pro mě, to je krásný pocit. 
 
-RM2 má k dnešku k dispozici 8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero. Každý má tři různé tloušťky stopy a k výběru jsou i tři barvy - černá, šedá a bílá.
+RM2 má k dnešku k dispozici 8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero. Zatím žádný ze zbylých možností, co RM2 nabízí, mi nepřipomíná pocit psaní na sklo jako si to pamatuju z iPadu, byť se dost liší od pocitu psaní tužkou.
+
+Každý typ psací potřeby má tři různé tloušťky stopy a k výběru jsou i tři barvy - černá, šedá a bílá.
 
 <img src="/assets/images/rm2/typeface.jpg">
 
