@@ -22,9 +22,9 @@ image: assets/images/rm2/remarkable2rec.jpg
 #### Psaní
 Odbyde mi si to hnedka zkraje, ju? Nekecali, psaní na ReMarkable je opravdu jako psaní na papíře. Zejména tužka a mikrotužka aka pentilka aka "mechanical pencil" vašemu mozku připomene, jaké to bývalo před dobou ťukání do klávesnice. A že, aspoň pro mě, to je krásný pocit. 
 
-RM2 má k dnešku k dispozici 8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero. Zatím žádný ze zbylých možností, co RM2 nabízí, mi nepřipomíná pocit psaní na sklo jako si to pamatuju z iPadu, byť se dost liší od pocitu psaní tužkou.
+RM2 má k dnešku k dispozici **8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero**. Žádný ze zbylých možností, co RM2 nabízí, mi už tolik nepřipomíná pocit psaní na papír, ale pořád to má daleko od pocitu psaní na sklo jako si to pamatuju z iPadu.
 
-Každý typ psací potřeby má tři různé tloušťky stopy a k výběru jsou i tři barvy - černá, šedá a bílá.
+Každý typ psací potřeby má tři různé tloušťky stopy a k výběru jsou i tři barvy - černá, šedá a bílá. Zvýraňovač má jen jednu barvu, která se v exportu změní do žluté (jako má defaultně nastavený Adobe Acrobat Reader).
 
 <img src="/assets/images/rm2/typeface.jpg">
 *Takhle vypadají různé možnosti psaní a jak se pak chovají vyexportované jako PDF.*
