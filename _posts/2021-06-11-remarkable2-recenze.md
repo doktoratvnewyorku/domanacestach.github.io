@@ -7,7 +7,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 ---
 
-...pokud jsou vaše pracovní návyky a workflow kompatibilní s tím pro co byl <a href="https://remarkable.com/">Nory vytvořen</a>. Remarkable 2 je tablet využívající e-ink technologii (jako Kindle), s tím rozdílem, že umožňuje i psaní, které připomíná psaní na běžný papír. 
+...pokud jsou vaše pracovní návyky a workflow kompatibilní s tím pro co byl <a href="https://remarkable.com/">Nory vytvořen</a>. Remarkable 2 je tablet využívající e-ink technologii (jako Kindle), s tím rozdílem, že umožňuje i psaní, které pocitově připomíná psaní na běžný papír. 
 
 *P.S. Posbírala jsem pár dotazů o fungování RM2 i na Twitteru. Pokud jste mi nějaký poslali, najdete se u příslušné části podle Twitter nicku* 😉
 
@@ -35,30 +35,38 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 <img src="/assets/images/rm2/typeface.jpg">
 
-#### Export psaní & poznámek
+#### Export
+
+RM umí export na několika úrovních.
 
 <img src="/assets/images/rm2/prepsanytext.jpeg">
+
+<img src="/assets/images/rm2/download.PNG">
+
+#### Čtení
+RM2 podporuje prozatím jen dva formáty a to PDF a ePub. Osobně mi to nepřijde na škodu, protože většinu toho, co čtu mám právě v jednom ze dvou formátů. Dokumenty v obou formátech  se čtou příjemně, byť PDF by mohlo mít defaultní velikost i pár pixelů větší. Akademické články se v tom dají ale číst, poznámkovat a zvýrazňovat bez větších problémů.
+
+**PDF**
+<img src="/assets/images/rm2/pdfvelikost.jpeg">
+
+**ePub**
+
+<img src="/assets/images/rm2/epuball.jpeg">
 
 #### Stylus
 
 <img src="/assets/images/rm2/points.jpg">
 
-#### Čtení
-
-**PDF**
-<img src="/assets/images/rm2/pdfvelikost.jpeg">
-
-**EPub**
-
-<img src="/assets/images/rm2/epuball.jpeg">
-
 #### Odezva
+Pověst prvnímu ReMarkable trochu kazila odezva. 
 
-#### "Cloud"
+#### "Cloud" a synchronizace s PC
 
 <img src="/assets/images/rm2/cloud.jpg">
 
-#### "Fíčury", se kterými se sžívám
+#### "Fíčury", se kterými se ještě sžívám
+
+I přesto, že je RM2 hodně minimalistický, poskytuje spoustu funkcionalit, se kterými se ještě pořád sžívám. Buď je pro svou práci nepotřebuju, nevzpomenu si na ně, nebo mi nepřijdou (zatím) použitelné.
 
 <img src="/assets/images/rm2/poznamka.jpeg">
 
