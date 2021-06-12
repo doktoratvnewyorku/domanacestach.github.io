@@ -40,21 +40,25 @@ Vlastní kategorii si zaslouží **gumování**. S příchodem RM2 se vylepšil 
 
 #### Export
 
-RM umí export na několika úrovních.
+RM umí export na několika úrovních a jak moc jsem nadšená z některých jeho možností, tak v jiných ReMarkable trochu/dost pokulhává a pro někoho to může být jeden z důvodů, proč si ho nepořídit.
+
+
 
 <img src="/assets/images/rm2/prepsanytext.jpeg">
 
 <img src="/assets/images/rm2/download.PNG">
 
 #### Čtení
-RM2 podporuje prozatím jen dva formáty a to PDF a ePub. Osobně mi to nepřijde na škodu, protože většinu toho, co čtu mám právě v jednom ze dvou formátů. Chápu ale že pokud jste zvyklí na MOBI nebo pracujete s Word dokumenty, může to být překážkou. Dokumenty v obou formátech  se čtou příjemně, byť PDF by mohlo mít defaultní velikost i pár pixelů větší. Akademické články se v tom dají ale číst, poznámkovat a zvýrazňovat bez větších problémů.
+RM2 podporuje prozatím jen dva formáty a to PDF a ePub. Osobně mi to nepřijde na škodu, protože většinu toho, co čtu mám právě v jednom ze dvou formátů. Chápu ale že pokud jste zvyklí na MOBI nebo pracujete s Word dokumenty, může to být nepříjemnou překážkou.
 
-**PDF**
+Dokumenty v obou zmíněných formátech se čtou příjemně, byť PDF by mohlo mít defaultní velikost o pár pixelů větší. Akademické články se v RM2 dají číst, poznámkovat a zvýrazňovat bez větších problémů a celkem pohodlně. 
+
+
 <img src="/assets/images/rm2/pdfvelikost.jpeg">
-
-**ePub**
+*Takhle se chová PDF, když se s s ním pomocí "pinch gesture" zazoomuje od min do max. Dokument se dá prsty posouvat do libovolného směru.*
 
 <img src="/assets/images/rm2/epuball.jpeg">
+ePub má mnohem přijatelnější defaultní velikost písma, font záleží na formátování daného dokumentu a dá se měnit (podobně jako na Kindle). Stejně jako v PDF i ePub ukáže 
 
 #### Stylus
 
