@@ -39,7 +39,15 @@ RM2 má k dnešku k dispozici 8 různých typů psacího média zahrnující od 
 <img src="/assets/images/rm2/typeface.jpg">
 
 ##### Stylus & guma
-Vlastní kategorii si zaslouží gumování. S příchodem RM2 se vylepšil i stylus a při
+Stylus si prošel vývojem taky (o tom, proč je imho blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první a nevidím na ní žádný nedostatek. Dle paramatrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Stylus vnímá naklonění hrotu, což se hodí zejména pro kreslení a kouzlení s kaligrafickým perem a podtrhává to (pun intended!) zážitek psaní.
+
+<img src="/assets/images/rm2/points.jpg">
+Hroty jsou vyměnitelné a dostanete jich 9 do foroty. Dle výrobce má každý vydržet 2 až 6 měsíců dle toho, jako moc velcí pisálci jste. 
+
+Vlastní kategorii si zaslouží **gumování**. S příchodem RM2 se vylepšil i stylus a protože jinak než zpěněžením všeho ten kapitalismus nevybudujete (#sarkasmus), výrobci přidali do konce nového stylu Marker Plus gumu. Respektive je to senzor, co ví, že má gumovat, ale na víc detailů se mě neptejte, zas tolik tomu nerozumím. Tahle drobná legrace stojí o $50 víc než původní Marker. A to i přesto, že gumování je vbudované přímo do tabletu a za mě funguje báječně.
+
+**Gumovat můžete na třech úrovních:** hrot pera se chová jako guma (hodí se na drobné chyby); gumovat můžete selekcí (celá slova, větší kusy textu či kresby); a nakonec můžete vymazat celou stránku jedním klikem. Stojí to pár ťuknutí na rozhraní, ale IMHO to bolí míň než vysolit 50 babek ¯\_(ツ)_/¯
+
 
 
 
@@ -52,7 +60,7 @@ RM umí export na několika úrovních.
 <img src="/assets/images/rm2/download.PNG">
 
 #### Čtení
-RM2 podporuje prozatím jen dva formáty a to PDF a ePub. Osobně mi to nepřijde na škodu, protože většinu toho, co čtu mám právě v jednom ze dvou formátů. Dokumenty v obou formátech  se čtou příjemně, byť PDF by mohlo mít defaultní velikost i pár pixelů větší. Akademické články se v tom dají ale číst, poznámkovat a zvýrazňovat bez větších problémů.
+RM2 podporuje prozatím jen dva formáty a to PDF a ePub. Osobně mi to nepřijde na škodu, protože většinu toho, co čtu mám právě v jednom ze dvou formátů. Chápu ale že pokud jste zvyklí na MOBI nebo pracujete s Word dokumenty, může to být překážkou. Dokumenty v obou formátech  se čtou příjemně, byť PDF by mohlo mít defaultní velikost i pár pixelů větší. Akademické články se v tom dají ale číst, poznámkovat a zvýrazňovat bez větších problémů.
 
 **PDF**
 <img src="/assets/images/rm2/pdfvelikost.jpeg">
@@ -63,7 +71,7 @@ RM2 podporuje prozatím jen dva formáty a to PDF a ePub. Osobně mi to nepřijd
 
 #### Stylus
 
-<img src="/assets/images/rm2/points.jpg">
+
 
 #### Odezva
 Pověst prvnímu ReMarkable trochu kazila odezva. 
