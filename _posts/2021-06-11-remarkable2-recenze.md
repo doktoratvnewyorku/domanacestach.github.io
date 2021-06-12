@@ -38,31 +38,36 @@ Vlastní kategorii si zaslouží **gumování**. S příchodem RM2 se vylepšil 
 
 **Gumovat můžete na třech úrovních:** hrot pera se chová jako guma (hodí se na drobné chyby); gumovat můžete selekcí (celá slova, větší kusy textu či kresby); a nakonec můžete vymazat celou stránku jedním klikem. Stojí to pár ťuknutí na rozhraní, ale IMHO to bolí míň než vysolit 50 babek ¯\_(ツ)_/¯
 
-#### Export
+#### Čtení
+RM2 podporuje prozatím jen dva formáty a to PDF a ePub. Osobně mi to nepřijde na škodu, protože většinu toho, co čtu mám právě v jednom ze dvou formátů. Chápu ale že pokud jste zvyklí na MOBI nebo pracujete s Word dokumenty, může to být nepříjemnou překážkou, protože se to obejít nedá (zkoušela jsem to).
 
-RM umí export na několika úrovních a jak moc jsem nadšená z některých jeho možností, tak v jiných ReMarkable trochu/dost pokulhává a pro někoho to může být jeden z důvodů, proč si ho nepořídit.
+Dokumenty v obou zmíněných formátech se čtou příjemně, byť PDF by mohlo mít defaultní velikost o pár pixelů větší. Akademické články se v RM2 dají číst, poznámkovat a zvýrazňovat bez větších problémů. Knížky v PDF formátu se díky větší velikosti písma čtou líp než akademické články, ale trochu si myslím, že tam je na vině úzus, jakým se akademické publikace formátují. RM2 nechává po straně volné místo na poznámky v obou případech.
 
+<img src="/assets/images/rm2/pdfvelikost.jpeg">
+*Takhle se chová PDF (akademický článek), když se s s ním pomocí "pinch gesture" zazoomuje od min do max. Dokument se dá prsty posouvat do libovolného směru.*
 
+ePub má mnohem přijatelnější defaultní velikost písma. Font záleží na formátování daného dokumentu a dá se měnit spolu s odsazením, prokladem a tak dále přímo v ReMarkable (podobně jako v Kindle).
 
-<img src="/assets/images/rm2/prepsanytext.jpeg">
+Stejně jako v PDF i v ePub se dá hledat podle klíčového slova, dokument nastavit do pohledu na šírku, poslat jednu či více stránek e-mailem ve formátu PDF, SVG nebo PNG. 
+
+<img src="/assets/images/rm2/epuball.jpeg">
+
+#### Export poznámek
+
+Čímž se dostávám k tématu, které zajímá hodně potenciálních uživatelů: **export poznámek a jak to vypadá s použitelností dál**. RM2 umí export na několika úrovních a jak moc jsem nadšená z některých jeho možností, tak v jiných ReMarkable trochu/dost pokulhává a pro někoho to může být jeden z důvodů, proč si ho nepořídit.
+
+Z ReMarkable se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří tuší, že jakékoliv poznámky vepsané do PDF tak budou exportovány v podobě bitmap. Překlad: v exportované verzi se to, co napíšete do PDF, nebude chovat jako text, ale jako obrázek. Nedá se tak označit,  kopírovat či jinak se k dané poznámce chovat jako k textu. Sorry, @matushiq, @vit_tucek .
+
+**Převod psaného textu**
+
+...aneb vše, co je s ReMarkable tak trochu špatně, pokud potřebujete systematicky pracovat s tím, co v něm napíšete dál.
+
 
 <img src="/assets/images/rm2/download.PNG">
 
-#### Čtení
-RM2 podporuje prozatím jen dva formáty a to PDF a ePub. Osobně mi to nepřijde na škodu, protože většinu toho, co čtu mám právě v jednom ze dvou formátů. Chápu ale že pokud jste zvyklí na MOBI nebo pracujete s Word dokumenty, může to být nepříjemnou překážkou.
+**Podpora češtiny**
 
-Dokumenty v obou zmíněných formátech se čtou příjemně, byť PDF by mohlo mít defaultní velikost o pár pixelů větší. Akademické články se v RM2 dají číst, poznámkovat a zvýrazňovat bez větších problémů a celkem pohodlně. 
-
-
-<img src="/assets/images/rm2/pdfvelikost.jpeg">
-*Takhle se chová PDF, když se s s ním pomocí "pinch gesture" zazoomuje od min do max. Dokument se dá prsty posouvat do libovolného směru.*
-
-<img src="/assets/images/rm2/epuball.jpeg">
-ePub má mnohem přijatelnější defaultní velikost písma, font záleží na formátování daného dokumentu a dá se měnit (podobně jako na Kindle). Stejně jako v PDF i ePub ukáže 
-
-#### Stylus
-
-
+<img src="/assets/images/rm2/prepsanytext.jpeg">
 
 #### Odezva
 Pověst prvnímu ReMarkable trochu kazila odezva. 
@@ -74,6 +79,13 @@ Pověst prvnímu ReMarkable trochu kazila odezva.
 #### "Fíčury", se kterými se ještě sžívám
 
 I přesto, že je RM2 hodně minimalistický, poskytuje spoustu funkcionalit, se kterými se ještě pořád sžívám. Buď je pro svou práci nepotřebuju, nevzpomenu si na ně, nebo mi nepřijdou (zatím) použitelné.
+
+**LiveView (Beta)**
+
+**Kopírování**
+
+
+
 
 <img src="/assets/images/rm2/poznamka.jpeg">
 
