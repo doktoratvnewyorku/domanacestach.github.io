@@ -7,13 +7,11 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 ---
 
-...pokud jsou vaše pracovní návyky a workflow kompatibilní s tím pro co byl <a href="https://remarkable.com/">Nory vytvořen</a>. Remarkable 2 je tablet využívající e-ink technologii (jako Kindle), s tím rozdílem, že umožňuje i psaní.  
+...pokud jsou vaše pracovní návyky a workflow kompatibilní s tím pro co byl <a href="https://remarkable.com/">Nory vytvořen</a>. Remarkable 2 je tablet využívající e-ink technologii (jako Kindle), s tím rozdílem, že umožňuje i psaní, které připomíná psaní na běžný papír. 
 
 *P.S. Posbírala jsem pár dotazů o fungování RM2 i na Twitteru. Pokud jste mi nějaký poslali, najdete se u příslušné části podle Twitter nicku* 😉
 
 **Disclaimer o tom, jak pracuju já (který můžete klidně přeskočit)**
->Ne každá hračka vyhovuje všem a u přístroje jako je ReMarkable 2 to platí dvojnásob. Popis toho, jak pracuju a jak jsem zvyklá číst, psát si poznámky a pracovat s nimi, by vám mohlo pomoct pochopit, co mi na RM 2 vyhovuje a co naopak ne a proč jsem si ho pořídila.
->
 >**Jsem stará škola a nejlíp se mi přemýšlí psaním v ruce.** Při čtení si píšu poznámky přímo do textu, podrthávám a jiným způsobem "znesvěcuju" knížky papírové i ty elektronické. Mám výrazně vyvinutou vizuální paměť a pokud si něco v textu zvýrazním, pamatuju si nejen, co to bylo, ale zhruba i kde na stránce se to nacházelo. Je jedno, jestli je to barevně nebo černobíle. I přesto, že jsem akademik, **citační manažery jako Zotero nebo Mendeley používám jen jako databázi článků**, které čtu nebo které jednou číst chci (akademický humor...). Anotace (do PDF i v ruce) píšu minimálně a když už, tak ve znění "zajímavé", "tohle zmiňuje XY v xy", apod. **Reference dělám ručně nebo s pomocí pluginů** Paperpile pro Word. Většinu souborů, se kterými pracuju, mám pak na Google Drive. 
 >
 >Když jsem ve formě, **přečtu nebo projdu 5 akademických článků za den (cca 60 stránek v průměru) nebo tak 40 stran knížky**. V jednom týdnu mám tak 3 takhle dobré dny. Neflexuju, to je jen realita mých akademických dnů. **Psaní pro mě funguje jako "dumping ground", kdy jde všechno z hlavy ven**. Kromě pracovních textů neustále něco píšu - poznámky o tom, co jsem někde viděla a četla, nápady na projekty, plánování, psaní deníku, apod. 
@@ -69,6 +67,9 @@ Zoom out/Zoom in
 
 
 #### Co mi na ReMarkable 2 chybí
+
+### Vyplatí se to?
+Ne každá hračka vyhovuje všem a u přístroje jako je ReMarkable 2 to platí dvojnásob.
 
 ---
 
