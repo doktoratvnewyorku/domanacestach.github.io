@@ -55,20 +55,23 @@ Stejně jako v PDF i v ePub se dá hledat podle klíčového slova, dokument nas
 
 #### Export poznámek
 
-Čímž se dostávám k tématu, které zajímá hodně potenciálních uživatelů: **export poznámek a jak to vypadá s použitelností dál**. RM2 umí export na několika úrovních a jak moc jsem nadšená z některých jeho možností, tak v jiných ReMarkable trochu/dost pokulhává a pro někoho to může být jeden z důvodů, proč si ho nepořídit.
+Čímž se dostávám k tématu, které zajímá hodně potenciálních uživatelů: **export poznámek a jak to vypadá s jejich použitelností dál**. RM2 umí export na několika úrovních a jak moc jsem nadšená z některých jeho možností, tak v jiných ReMarkable trochu/dost pokulhává a pro někoho to může být jeden z důvodů, proč si ho nepořídit.
 
-Z ReMarkable se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří tuší, že jakékoliv poznámky vepsané do PDF tak budou exportovány v podobě bitmap. Překlad: v exportované verzi se to, co napíšete do PDF, nebude chovat jako text, ale jako obrázek. Nedá se tak označit,  kopírovat či jinak se k dané poznámce chovat jako k textu. Sorry, @matushiq, @vit_tucek .
+Z ReMarkable se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří tuší, že jakékoliv poznámky vepsané do PDF tak budou exportovány v podobě bitmap. Překlad: v exportované verzi se to, co napíšete do PDF, nebude chovat jako text, ale jako obrázek. Nedá se tak označit,  kopírovat či jinak se k dané poznámce chovat jako k textu. Sorry, @matushiq, @vit_tucek.
+
+<img src="/assets/images/rm2/download.PNG">
+*Takhle to vypadá ve vyexprotovaném PDF. Text se dá dále libovolně označovat v Adobe Readeru, ale mé rukou psané poznámky už jsou nesmazatelnou a neoznačitelnou součástí dokumentu.*
 
 ##### Převod psaného textu
 
-...aneb vše, co je s ReMarkable tak trochu špatně, pokud potřebujete systematicky pracovat s tím, co v něm napíšete dál.
+...aneb vše, co je s ReMarkable tak trochu špatně, pokud potřebujete dál systematicky pracovat s tím, co v něm napíšete.
 
+<img src="/assets/images/rm2/prepsanytext.jpeg">
 
-<img src="/assets/images/rm2/download.PNG">
 
 ##### Podpora češtiny
 
-<img src="/assets/images/rm2/prepsanytext.jpeg">
+
 
 #### Odezva
 Pověst prvnímu ReMarkable trochu kazila odezva. 
