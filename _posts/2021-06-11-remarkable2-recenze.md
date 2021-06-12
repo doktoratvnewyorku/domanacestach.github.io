@@ -19,7 +19,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 + jak funguje export (e-mailem, )
 + 
 
-[create an anchor]#### Psaní
+#### Psaní
 Odbyde mi si to hnedka zkraje, ju? Ne, nekecali, psaní na ReMarkable je opravu jako psaní na papíře. Zejména tužka a mikrotužka aka pentilka aka "mechanical pencil" vašemu mozku připomene, jaké to bývalo před dobou ťukání do klávesnice. A že, aspoň pro mě, to je krásný pocit. 
 
 RM2 má k dnešku k dispozici 8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero. Zatím žádný ze zbylých možností, co RM2 nabízí, mi nepřipomíná pocit psaní na sklo jako si to pamatuju z iPadu, byť se dost liší od pocitu psaní tužkou.
@@ -34,7 +34,7 @@ Stylus si stejně jako tablet samotný prošel vývojem také (o tom, proč je i
 <img src="/assets/images/rm2/points.jpg">
 *Hroty jsou vyměnitelné a dostanete jich 9 do foroty. Dle výrobce má každý vydržet 2 až 6 měsíců dle toho, jako moc velcí pisálci jste.* 
 
-Vlastní kategorii si zaslouží **gumování**. S příchodem RM2 se vylepšil i stylus a protože jinak než zpěněžením všeho ten kapitalismus nevybudujete (#sarkasmus), výrobci přidali do konce nového stylu Marker Plus gumu. Respektive je to senzor, co ví, že má gumovat, ale na víc detailů se mě neptejte, zas tolik tomu nerozumím. Tahle drobná legrace stojí o $50 víc než původní Marker. A to i přesto, že gumování je vbudované přímo do tabletu a za mě funguje báječně.
+Vlastní kategorii si zaslouží **gumování**. S příchodem RM2 se vylepšil i stylus a protože jinak než zpěněžením všeho ten kapitalismus nevybudujete (#sarkasmus), výrobci přidali do konce nového stylu <a href="https://remarkable.com/store/configure?step=marker">Marker Plus</a> gumu. Respektive je to senzor, co ví, že má gumovat, ale na víc detailů se mě neptejte, zas tolik tomu nerozumím. Tahle drobná legrace stojí o $50 víc než původní Marker. A to i přesto, že gumování je vbudované přímo do tabletu a za mě funguje báječně.
 
 **Gumovat můžete na třech úrovních:** hrot pera se chová jako guma (hodí se na drobné chyby); gumovat můžete selekcí (celá slova, větší kusy textu či kresby); a nakonec můžete vymazat celou stránku jedním klikem. Stojí to pár ťuknutí na rozhraní, ale IMHO to bolí míň než vysolit 50 babek ¯\_(ツ)_/¯
 
