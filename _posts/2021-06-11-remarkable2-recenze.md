@@ -14,7 +14,10 @@ image: assets/images/rm2/remarkable2rec.jpg
 ---
 
 #### Co se mi na ReMarkable 2 líbí
-
++ 
++ váha 
++ synchronizace skry cloud s desktop aplikací a telefonem
++ design
 
 #### Co mi na ReMarkable 2 chybí
 
@@ -44,10 +47,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 #### Čtení
 
 **PDF**
-<img src="/assets/images/rm2/pdf1.jpg">
-<img src="/assets/images/rm2/pdf2.jpg">
-<img src="/assets/images/rm2/pdf3.jpg">
-<img src="/assets/images/rm2/pdf4.jpg">
+<img src="/assets/images/rm2/pdfvelikost.jpeg">
 
 **EPub**
 
