@@ -96,7 +96,7 @@ V rámci dokumentu můžete kopírovat a libovolně zvětšovat a zmenšovat, co
 <img src="/assets/images/rm2/poznamka.jpeg">
 
 ##### Šablony
-**ReMarkable nemá jen jednu nebo dvě šablony, v současnosti jich má 47** a zahrnují od linkovaného "papíru" přes čtverečkovaný, s malými okraji, s velkými okraji až týdenní plánovače. Co mi přijde unikátní jsou pak šablony s perspektivou, kaligrafičtí pomocníci, storyboardy, a dokonce i notové sešity pro kytaru, piano a další hudební nástroje. 
+**ReMarkable nemá jen jednu nebo dvě šablony, v současnosti jich má 47** a zahrnují od linkovaného "papíru" přes čtverečkovaný, s malými okraji, s velkými okraji až po týdenní plánovače. Co mi přijde unikátní jsou pak šablony s perspektivou, kaligrafičtí pomocníci, storyboardy, a dokonce i notové sešity pro kytaru, piano a další hudební nástroje. 
 
 ---
 #### Popis toho, jak pracuju já a proč jsem si RM2 pořídila
