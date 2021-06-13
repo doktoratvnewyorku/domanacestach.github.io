@@ -79,7 +79,7 @@ ReMarkable má mobilní i desktop aplikaci, jejichž funkce je primárně jako s
 <img src="/assets/images/rm2/spravce.PNG">
 *Správe nabízí stejné možnosti jako rozhraní v ReMarkable, jen přesun většího počtu souborů je pohodlnější.*
 
-Pokud potřebujete RM 2 k počítačí skrz kabel připojit, musíte nejdřív nastavit, že chcete spustit USB web interface v nastavení tabletu a v prohlížeči se pak prokousat na  http://10.11.99.1. Soubory sem můžete nejen nahrát, ale i je odtud stáhnout. Tím to hasne.
+Pokud potřebujete RM 2 k počítačí skrz kabel připojit, musíte nejdřív nastavit, že chcete spustit USB web interface v nastavení tabletu a v prohlížeči se pak prokousat na  http://10.11.99.1. Soubory sem můžete nejen nahrát, ale i je odtud stáhnout. IMHO ideální záležitost pro ty, kdo preferují nemít ReMarkable připojený k internetu vůbec #privacy.
 <img src="/assets/images/rm2/cloud.jpg">
 
 ##### Čtení článků z webu
