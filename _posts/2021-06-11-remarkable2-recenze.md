@@ -7,19 +7,13 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 ---
 
-...pokud jsou vaše pracovní návyky a workflow kompatibilní s tím pro co byl <a href="https://remarkable.com/">Nory vytvořen</a>. Remarkable 2 je tablet využívající e-ink technologii (jako Kindle), s tím rozdílem, že umožňuje i psaní, které pocitově připomíná psaní na běžný papír. 
+...pokud jsou vaše pracovní návyky a workflow kompatibilní s tím pro co byl <a href="https://remarkable.com/">Nory vytvořen</a>. Remarkable 2 (dál jako RM2) je tablet využívající e-ink technologii (jako Kindle), s tím rozdílem, že umožňuje i psaní, které pocitově připomíná psaní na běžný papír. Výrobce ho marketuje hlavně jako nástroj, co pomáhá přemýšlet a který maximalizuje produktivitu skrz minimalismus. 
 
-*P.S. Posbírala jsem pár dotazů o fungování RM2 i na Twitteru. Pokud jste mi nějaký poslali, najdete se u příslušné části podle Twitter nicku* 😉
+*P.S. Posbírala jsem pár dotazů o fungování RM2 i na Twitteru. Pokud jste mi nějaký poslali, najdete se u příslušné části podle vašeho Twitter nicku* 😉
 
 ---
 
-#### Jak je tenhle článek organizovaný
-+ jak se na ReMarkable 2 píše (+ stylus, gumování)
-+ jak se na ReMarkable 2 čte (PDF, ePub, zoom)
-+ jak funguje export (e-mailem, )
-+ 
-
-#### Psaní
+#### Jak se na ReMarkable 2 píše
 Odbyde mi si to hnedka zkraje, ju? Nekecali, **psaní na ReMarkable je opravdu jako psaní na papíře**. Zejména tužka a mikrotužka aka pentilka aka "mechanical pencil" vašemu mozku připomene, jaké to bývalo před dobou ťukání do klávesnice. A že je to fajn připomenutí. 
 
 RM2 má k dnešku k dispozici **8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero**. Kromě zmíněné tužky žádný ze zbylých možností, co RM2 nabízí, mi už tolik nepřipomíná pocit psaní na papír, ale pořád to má daleko od pocitu psaní na sklo, jak si to pamatuju z iPadu.
@@ -43,7 +37,7 @@ Vlastní zmínku si zaslouží **gumování**. S příchodem RM2 se vylepšil i 
 
 **Gumovat můžete na třech úrovních:** hrot pera se chová jako guma (hodí se na drobné chyby); gumovat můžete selekcí (celá slova, větší kusy textu či kresby); a nakonec můžete vymazat celou stránku jedním klikem. Stojí to pár ťuknutí na rozhraní, ale IMHO to bolí míň než vysolit 50 babek ¯\_(ツ)_/¯
 
-#### Čtení
+#### Jak se na ReMarkable 2 čte
 RM2 podporuje prozatím jen dva formáty a to PDF a ePub. Osobně mi to nepřijde na škodu, protože většinu toho, co čtu, mám právě v jednom ze dvou formátů. Chápu ale že pokud jste zvyklí na MOBI nebo pracujete s Word dokumenty, může to být nepříjemnou překážkou, protože se to obejít nedá (zkoušela jsem to).
 
 Dokumenty v obou zmíněných formátech se čtou příjemně, byť **PDF by mohlo mít defaultní velikost o pár pixelů větší**. Akademické články se v RM2 dají číst, poznámkovat a zvýrazňovat bez větších problémů. Knížky v PDF formátu se díky větší velikosti písma čtou líp než akademické články, ale trochu si myslím, že tam je na vině úzus, jakým se akademické publikace formátují (tj. hodně zhuštěného textu). RM2 nepodporuje odkazy v rámci dokumentu, takže pokud jste zvyklí si proklikávat reference (např. <a href="https://www.acm.org/publications/authors/reference-formatting">ACM styl formátování číslem</a>), ReMarkable v tomhle není kamarád.
@@ -83,30 +77,24 @@ Pokud potřebujete RM 2 k počítačí skrz kabel připojit, musíte nejdřív n
 <img src="/assets/images/rm2/cloud.jpg">
 
 ##### Čtení článků z webu
-Mimochodem, RM2 avizuje <a href="https://remarkable.com/#Reading_on_reMarkable">"Read web articles on reMarkable with a click"</a> a dost lidí se ptá, po prohlížeči, který RM 2 používá. **ReMarkable 2 nemá prohlížeč a ani žádnou další aplikaci k prohlížení webu** (jako třeba <a href="https://www.boox.com/noteair">Onyx Boox</a>, který nabízí cokoliv běžícího na Androidu). Čtení článků z webu znamená, že plugin v Chromu pošle danou stránku skrze cloud do ReMarkable, kde si jí pak přečtete.
-
-Ač je to hezká funkce, RM nedělá úplně dobrou službu s vytěžením metadat o datu publikování a autoru článku, ty z nějakého důvodu vůbec nepřevede. 
+Mimochodem, RM2 avizuje <a href="https://remarkable.com/#Reading_on_reMarkable">"Read web articles on reMarkable with a click"</a> a dost lidí se ptá, po prohlížeči, který RM 2 používá. **ReMarkable 2 nemá prohlížeč a ani žádnou další aplikaci k prohlížení webu** (jako třeba <a href="https://www.boox.com/noteair">Onyx Boox</a>, který nabízí cokoliv běžícího na Androidu). Čtení článků z webu znamená, že <a href="https://chrome.google.com/webstore/detail/read-on-remarkable/bfhkfdnddlhfippjbflipboognpdpoeh?hl=en">plugin v Chromu</a> pošle danou stránku skrze cloud do ReMarkable, kde si jí pak přečtete. Ač je to hezká funkce, **RM nedělá úplně dobrou službu s vytěžením metadat o datu publikování a autorech článku**. Oboje z nějakého důvodu vůbec nepřevede. 
 
 #### "Fíčury", se kterými se ještě sžívám
-
 I přesto, že je RM2 hodně minimalistický, poskytuje spoustu funkcionalit, se kterými se ještě pořád sžívám. Buď je pro svou práci nepotřebuju, nevzpomenu si na ně, nebo mi nepřijdou (zatím) použitelné.
 
 ##### LiveView (Beta)
+Tohle je prima funkcionalita, **pokud pracujete v týmu a potřebujete ukázat soubory v Remarkable 2 live**. Defacto spustíte tuhle funkci pro daný sešit či dokument a na počítači, kde máte nainstalovanou desktop aplikaci ReMarkable, se ukáže live preview toho, co děláte na tabletu. 
 
-##### Kopírování
-
-##### Šablony
-
-
-
+##### Kopírování & Vrstvy
+V rámci dokumentu můžete kopírovat a libovolně zvětšovat a zmenšovat, co napíšete či nakreslíte. Stejně tak můžete využít vrstev (podobně jako třeba ve Photoshopu). Já k těmhle funkcionalitám nemám zatím využití, ale dokážu si představit, že to pomáhá při kreslení a jiných více kreativních úkonech.
 
 <img src="/assets/images/rm2/poznamka.jpeg">
 
-### Vyplatí se to?
-Ne každá hračka vyhovuje všem a u přístroje jako je ReMarkable 2 to platí dvojnásob.
+##### Šablony
+**ReMarkable nemá jen jednu nebo dvě šablony, v současnosti jich má 47** a zahrnují od linkovaného "papíru" přes čtverečkovaný, s malými okraji, s velkými okraji až týdenní plánovače. Co mi přijde unikátní jsou pak šablony s perspektivou, kaligrafičtí pomocníci, storyboardy, a dokonce i notové sešity pro kytaru, piano a další hudební nástroje. 
 
 ---
-**Disclaimer o tom, jak pracuju já (který můžete klidně přeskočit)**
+**Popis toho, jak pracuju já a proč jsem si RM2 pořídila**
 >**Jsem stará škola a nejlíp se mi přemýšlí psaním v ruce.** Při čtení si píšu poznámky přímo do textu, podrthávám a jiným způsobem "znesvěcuju" knížky papírové i ty elektronické. Mám výrazně vyvinutou vizuální paměť a pokud si něco v textu zvýrazním, pamatuju si nejen, co to bylo, ale zhruba i kde na stránce se to nacházelo. Je jedno, jestli je to barevně nebo černobíle. I přesto, že jsem akademik, **citační manažery jako Zotero nebo Mendeley používám jen jako databázi článků**, které čtu nebo které jednou číst chci (akademický humor...). Anotace (do PDF i v ruce) píšu minimálně a když už, tak ve znění "zajímavé", "tohle zmiňuje XY v xy", apod. **Reference dělám ručně nebo s pomocí pluginů** Paperpile pro Word. Většinu souborů, se kterými pracuju, mám pak na Google Drive. 
 >
 >Když jsem ve formě, **přečtu nebo projdu 5 akademických článků za den (cca 60 stránek v průměru) nebo tak 40 stran knížky**. V jednom týdnu mám tak 3 takhle dobré dny. Neflexuju, to je jen realita mých akademických dnů. **Psaní pro mě funguje jako "dumping ground", kdy jde všechno z hlavy ven**. Kromě pracovních textů neustále něco píšu - poznámky o tom, co jsem někde viděla a četla, nápady na projekty, plánování, deník, apod. 
