@@ -77,13 +77,12 @@ Zkusila jsem malý experiment, abych zjistila, jak se ReMarkable chová, při p�
 ReMarkable má mobilní i desktop aplikaci, jejichž funkce je primárně jako správce obsahu v ReMarkable. Synchronizace napříč aplikací a přístrojem je téměř okamžitá (to platí i pro export souborů a poznámek e-mailem). Dokud internet frčí, nemusíte připojovat ReMarkable k počítači.
 
 <img src="/assets/images/rm2/spravce.PNG">
-*Správe nabízí stejné možnosti jako rozhraní v ReMarkable, jen přesun většího počtu souborů je pohodlnější.*
+*Správe nabízí stejné možnosti jako rozhraní v ReMarkable, jen přesun, přejmenování a manipulace s větším počtem souborů je pohodlnější.*
 
-Pokud potřebujete RM 2 k počítačí skrz kabel připojit, musíte nejdřív nastavit, že chcete spustit USB web interface v nastavení tabletu a v prohlížeči se pak prokousat na  http://10.11.99.1. Soubory sem můžete nejen nahrát, ale i je odtud stáhnout. IMHO ideální záležitost pro ty, kdo preferují nemít ReMarkable připojený k internetu vůbec #privacy.
+Pokud potřebujete RM 2 k počítačí skrz kabel připojit, musíte nejdřív nastavit, že chcete spustit *USB web interface* v nastavení tabletu a v prohlížeči se pak prokousat na http://10.11.99.1. Soubory pak můžete do RM nejen nahrát, ale i je odtud stáhnout. Tím to hasne. IMHO ideální záležitost pro ty, kdo preferují nemít ReMarkable připojený k internetu vůbec #privacy.
 <img src="/assets/images/rm2/cloud.jpg">
 
 ##### Čtení článků z webu
-
 Mimochodem, RM2 avizuje <a href="https://remarkable.com/#Reading_on_reMarkable">"Read web articles on reMarkable with a click"</a> a dost lidí se ptá, po prohlížeči, který RM 2 používá. **ReMarkable 2 nemá prohlížeč a ani žádnou další aplikaci k prohlížení webu** (jako třeba <a href="https://www.boox.com/noteair">Onyx Boox</a>, který nabízí cokoliv běžícího na Androidu). Čtení článků z webu znamená, že plugin v Chromu pošle danou stránku skrze cloud do ReMarkable, kde si jí pak přečtete.
 
 Ač je to hezká funkce, RM nedělá úplně dobrou službu s vytěžením metadat o datu publikování a autoru článku, ty z nějakého důvodu vůbec nepřevede. 
