@@ -22,15 +22,17 @@ image: assets/images/rm2/remarkable2rec.jpg
 #### Psaní
 Odbyde mi si to hnedka zkraje, ju? Nekecali, **psaní na ReMarkable je opravdu jako psaní na papíře**. Zejména tužka a mikrotužka aka pentilka aka "mechanical pencil" vašemu mozku připomene, jaké to bývalo před dobou ťukání do klávesnice. A že je to fajn připomenutí. 
 
-RM2 má k dnešku k dispozici **8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero**. Žádný ze zbylých možností, co RM2 nabízí, mi už tolik nepřipomíná pocit psaní na papír, ale pořád to má daleko od pocitu psaní na sklo, jako si to pamatuju z iPadu.
+RM2 má k dnešku k dispozici **8 různých typů psacího média zahrnující od kuličkového pera přes tužku až po kaligrafické pero**. Kromě zmíněné tužky žádný ze zbylých možností, co RM2 nabízí, mi už tolik nepřipomíná pocit psaní na papír, ale pořád to má daleko od pocitu psaní na sklo, jak si to pamatuju z iPadu.
 
 Každý typ psací potřeby má tři různé tloušťky stopy a k výběru jsou i tři barvy - černá, šedá a bílá. Zvýraňovač má jen jednu barvu, která se v exportu změní do žluté (jako má defaultně nastavený Adobe Acrobat Reader).
 
 <img src="/assets/images/rm2/typeface.jpg">
 *Takhle vypadají různé možnosti psaní a jak se pak chovají vyexportované jako PDF.*
 
+První generace ReMarkable byla pověstná špatnou odezvou, ale druhá generace tuhle reputaci rozhodně napravila. Odezva při psaní je výborná, nemá zpoždění, inkoust reaguje okamžitě a velmi přesně na to, co píšete. 
+
 ##### Stylus & guma
-Stylus si stejně jako tablet samotný prošel vývojem také (o tom, proč je imho blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první. Dle parametrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic, co bych nějak postrádala. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Stylus vnímá naklonění hrotu, což se hodí zejména pro kreslení a kouzlení s kaligrafickým perem a podtrhává to (pun intended!) zážitek psaní v ruce.
+Stylus si stejně jako tablet samotný prošel vývojem také (o tom, proč je IMHO blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první. Dle parametrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic, co bych nějak postrádala. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Stylus vnímá naklonění hrotu, což se hodí zejména pro kreslení a kouzlení s kaligrafickým perem a podtrhává to (pun intended!) zážitek psaní v ruce.
 
 <img src="/assets/images/rm2/points.jpg">
 *Hroty jsou vyměnitelné a dostanete jich 9 do foroty. Dle výrobce má každý vydržet 2 až 6 měsíců dle toho, jako moc velcí pisálci jste.* 
@@ -66,6 +68,7 @@ Z ReMarkable se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří tu�
 
 ...aneb vše, co je s ReMarkable tak trochu špatně, pokud potřebujete dál systematicky pracovat s tím, co v něm napíšete.
 
+Bude jednodušší sepsat, co ReMarkable 2 s exportem neumí: 
 <img src="/assets/images/rm2/prepsanytext.jpeg">
 
 
