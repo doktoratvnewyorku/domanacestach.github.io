@@ -38,7 +38,7 @@ Vlastní zmínku si zaslouží **gumování**. S příchodem RM2 se vylepšil i 
 **Gumovat můžete na třech úrovních:** hrot pera se chová jako guma (hodí se na drobné chyby); gumovat můžete selekcí (celá slova, větší kusy textu či kresby); a nakonec můžete vymazat celou stránku jedním klikem. Stojí to pár ťuknutí na rozhraní, ale IMHO to bolí míň než vysolit 50 babek ¯\_(ツ)_/¯
 
 #### Jak se na ReMarkable 2 čte
-RM2 podporuje prozatím jen dva formáty a to PDF a ePub. Osobně mi to nepřijde na škodu, protože většinu toho, co čtu, mám právě v jednom ze dvou formátů. Chápu ale že pokud jste zvyklí na MOBI nebo pracujete s Word dokumenty, může to být nepříjemnou překážkou, protože se to obejít nedá (zkoušela jsem to).
+RM2 podporuje **prozatím jen dva formáty, a to PDF a ePub**. Osobně mi to nepřijde na škodu, protože většinu toho, co čtu, mám právě v jednom ze dvou formátů. Chápu ale že pokud jste zvyklí na MOBI nebo pracujete s Word dokumenty, může to být nepříjemnou překážkou, protože se to obejít nedá (zkoušela jsem to).
 
 Dokumenty v obou zmíněných formátech se čtou příjemně, byť **PDF by mohlo mít defaultní velikost o pár pixelů větší**. Akademické články se v RM2 dají číst, poznámkovat a zvýrazňovat bez větších problémů. Knížky v PDF formátu se díky větší velikosti písma čtou líp než akademické články, ale trochu si myslím, že tam je na vině úzus, jakým se akademické publikace formátují (tj. hodně zhuštěného textu). RM2 nepodporuje odkazy v rámci dokumentu, takže pokud jste zvyklí si proklikávat reference (např. <a href="https://www.acm.org/publications/authors/reference-formatting">ACM styl formátování číslem</a>), ReMarkable v tomhle není kamarád.
 
