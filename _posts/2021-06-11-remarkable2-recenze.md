@@ -76,6 +76,7 @@ Zkusila jsem malý experiment, abych zjistila, jak se ReMarkable chová, při p�
 *Správe nabízí stejné možnosti jako rozhraní v ReMarkable, jen přesun, přejmenování a manipulace s větším počtem souborů je pohodlnější.*
 
 Pokud přeci jen potřebujete RM2 k počítači připojit, musíte nejdřív v nastavení tabletu nastavit, že chcete spustit *USB web interface*. V prohlížeči pak zadáte http://10.11.99.1. Soubory tímhle způsobem můžete do RM nejen nahrát, ale i je odtud stáhnout. Tím to hasne. IMHO ideální záležitost pro ty, kdo preferují nemít ReMarkable připojený k internetu vůbec #privacy.
+
 <img src="/assets/images/rm2/cloud.jpg">
 
 Co se týče místa, **Remarkable poskytuje 8GB, respektive funkčně asi 7GB k dispozici**. Jen pro porovnání, Kindle Touch má 4GB a Amazon uvádí, že je to ekvivalent 3000 knížek. Nedokážu si tak představit, že někomu někdy dojde v ReMarkbale místo, nebo aspoň to nebude jen tak brzy... 
