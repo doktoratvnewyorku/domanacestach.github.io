@@ -99,7 +99,7 @@ V rámci dokumentu můžete kopírovat a libovolně zvětšovat a zmenšovat, co
 **ReMarkable nemá jen jednu nebo dvě šablony, v současnosti jich má 47** a zahrnují od linkovaného "papíru" přes čtverečkovaný, s malými okraji, s velkými okraji až týdenní plánovače. Co mi přijde unikátní jsou pak šablony s perspektivou, kaligrafičtí pomocníci, storyboardy, a dokonce i notové sešity pro kytaru, piano a další hudební nástroje. 
 
 ---
-**Popis toho, jak pracuju já a proč jsem si RM2 pořídila**
+#### Popis toho, jak pracuju já a proč jsem si RM2 pořídila
 >**Jsem stará škola a nejlíp se mi přemýšlí psaním v ruce.** Při čtení si píšu poznámky přímo do textu, podrthávám a jiným způsobem "znesvěcuju" knížky papírové i ty elektronické. Mám výrazně vyvinutou vizuální paměť a pokud si něco v textu zvýrazním, pamatuju si nejen, co to bylo, ale zhruba i kde na stránce se to nacházelo. Je jedno, jestli je to barevně nebo černobíle. I přesto, že jsem akademik, **citační manažery jako Zotero nebo Mendeley používám jen jako databázi článků**, které čtu nebo které jednou číst chci (akademický humor...). Anotace (do PDF i v ruce) píšu minimálně a když už, tak ve znění "zajímavé", "tohle zmiňuje XY v xy", apod. **Reference dělám ručně nebo s pomocí pluginů** Paperpile pro Word. Většinu souborů, se kterými pracuju, mám pak na Google Drive. 
 >
 >Když jsem ve formě, **přečtu nebo projdu 5 akademických článků za den (cca 60 stránek v průměru) nebo tak 40 stran knížky**. V jednom týdnu mám tak 3 takhle dobré dny. Neflexuju, to je jen realita mých akademických dnů. **Psaní pro mě funguje jako "dumping ground", kdy jde všechno z hlavy ven**. Kromě pracovních textů neustále něco píšu - poznámky o tom, co jsem někde viděla a četla, nápady na projekty, plánování, deník, apod. 
