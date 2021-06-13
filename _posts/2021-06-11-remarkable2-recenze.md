@@ -78,6 +78,8 @@ ReMarkable má mobilní i desktop aplikaci, jejichž funkce je primárně jako s
 Pokud potřebujete RM 2 k počítačí skrz kabel připojit, musíte nejdřív nastavit, že chcete spustit *USB web interface* v nastavení tabletu a v prohlížeči se pak prokousat na http://10.11.99.1. Soubory pak můžete do RM nejen nahrát, ale i je odtud stáhnout. Tím to hasne. IMHO ideální záležitost pro ty, kdo preferují nemít ReMarkable připojený k internetu vůbec #privacy.
 <img src="/assets/images/rm2/cloud.jpg">
 
+Co se týče místa, Remarkable poskytuje 8GB, respektive funkčně asi 7GB k dispozici. Jen pro porovnání, Kindle Touch má 4GB a Amazon uvádí, že je to ekvivalent 3000 knížek. Nedokážu si tak představit, že někomu někdy dojde v RM místo nebo aspoň to nebude jen tak brzy... 
+
 ##### Čtení článků z webu
 Mimochodem, RM2 avizuje <a href="https://remarkable.com/#Reading_on_reMarkable">"Read web articles on reMarkable with a click"</a> a dost lidí se ptá, po prohlížeči, který RM 2 používá. **ReMarkable 2 nemá prohlížeč a ani žádnou další aplikaci k prohlížení webu** (jako třeba <a href="https://www.boox.com/noteair">Onyx Boox</a>, který nabízí cokoliv běžícího na Androidu). Čtení článků z webu znamená, že <a href="https://chrome.google.com/webstore/detail/read-on-remarkable/bfhkfdnddlhfippjbflipboognpdpoeh?hl=en">plugin v Chromu</a> pošle danou stránku skrze cloud do ReMarkable, kde si jí pak přečtete. Ač je to hezká funkce, **RM nedělá úplně dobrou službu s vytěžením metadat o datu publikování a autorech článku**. Oboje z nějakého důvodu vůbec nepřevede. 
 
