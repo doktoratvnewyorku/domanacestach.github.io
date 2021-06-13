@@ -32,7 +32,9 @@ Každý typ psací potřeby má tři různé tloušťky stopy a k výběru jsou 
 První generace ReMarkable byla pověstná špatnou odezvou, ale druhá generace tuhle reputaci rozhodně napravila. **Odezva při psaní je výborná**, nemá zpoždění, inkoust reaguje okamžitě a velmi přesně na to, co píšete. 
 
 ##### Stylus & guma
-Stylus si stejně jako tablet samotný prošel vývojem také (o tom, proč je IMHO blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první. Dle parametrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic, co bych nějak postrádala. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Stylus vnímá naklonění hrotu a rozmanitou škálu tlaku, což se hodí zejména pro kreslení a kouzlení s kaligrafickým perem a podtrhává to (pun intended!) zážitek psaní v ruce.
+Stylus si stejně jako tablet samotný prošel vývojem také (o tom, proč je IMHO blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první. Dle parametrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic, co bych nějak postrádala. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Super věc je magnet, který stylus připne k tabletu. Šance, že ho ztratíte, se tak dost minimalizuje.
+
+**Stylus vnímá naklonění hrotu a rozmanitou škálu tlaku**, což se hodí zejména pro kreslení a kouzlení s kaligrafickým perem a podtrhává to (pun intended!) zážitek psaní v ruce.
 
 <img src="/assets/images/rm2/points.jpg">
 *Hroty jsou vyměnitelné a dostanete jich 9 do foroty. Dle výrobce má každý vydržet 2 až 6 měsíců dle toho, jako moc velcí pisálci jste.* 
@@ -64,23 +66,27 @@ Z ReMarkable se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří už
 *Takhle to vypadá ve vyexprotovaném PDF. Text se dá dále libovolně označovat v Adobe Readeru, ale mé rukou psané poznámky už jsou nesmazatelnou a neoznačitelnou součástí dokumentu.*
 
 ##### Převod psaného textu
-
-...aneb vše, co je s ReMarkable tak trochu špatně, pokud potřebujete dál systematicky pracovat s tím, co v něm napíšete.
-
-Zkusila jsem malý experiment, abych zjistila, jak se ReMarkable chová, při převodu psaného textu. Kromě převodu jako takového, jsem vyzkoušela i jak ne/rozumí formátování, jak ne/rozumí rovnicím a smajlíkům, a jak vypadá posílání poznámek e-mailem.
+Zkusila jsem malý experiment, abych zjistila, jak se ReMarkable chová, při převodu psaného textu. Kromě převodu jako takového, jsem vyzkoušela i jak ne/rozumí formátování, jak ne/rozumí rovnicím, a jak vypadá posílání převedených poznámek e-mailem.
 
 <img src="/assets/images/rm2/prepsanytext.jpeg">
-Malý experiment s převodem psaného textu
+*Malý experiment s převodem psaného textu*
 
-Výsledky ukazují pár nedostatků Je namátkově: převod do češtiny je téměř perfektní (že píšu místy jako prase, není problém RM). Formátování převedlo téměř bez chyby (nezvládá dva sloupce textu, RM je chápe jako jeden text, viz seno-sláma seznam). V e-mailu vypadá formátování lépe, ale to je IMHO jen proto, jak se text e-mailu formátovaný (víc prokladu mezi řádky). Co je problém jsou rovnice. RM nechápe, co má dělat s odmocninou a umocňováním, zato byl ale schopný odhalit složenou závorku, byť ji v převodu umístil špatně.
-
-
-
-##### Posílání e-mailem
+**Převod do češtiny je téměř perfektní** (že píšu místy jako prase, není problém RM). Formátování převedlo téměř bez chyby (nezvládá dva sloupce textu, RM je chápe jako jeden text, viz seno-sláma seznam). **V e-mailu vypadá formátování lépe**, ale to je IMHO jen proto, jak se text e-mailu formátovaný (víc prokladu mezi řádky). **Co je, problém jsou rovnice a cokoliv, co RM, respektive OCR, nevnímá jako text** (ani smajlíci neprošli). RM2 nechápe, co má například dělat s odmocninou a umocňováním, zato byl ale schopný odhalit složenou závorku, byť ji v převodu umístil špatně.
 
 #### "Cloud" a synchronizace s PC
+ReMarkable má mobilní i desktop aplikaci, jejichž funkce je primárně jako správce obsahu v ReMarkable. Synchronizace napříč aplikací a přístrojem je téměř okamžitá (to platí i pro export souborů a poznámek e-mailem). Dokud internet frčí, nemusíte připojovat ReMarkable k počítači.
 
+<img src="/assets/images/rm2/spravce.PNG">
+*Správe nabízí stejné možnosti jako rozhraní v ReMarkable, jen přesun většího počtu souborů je pohodlnější.*
+
+Pokud potřebujete RM 2 k počítačí skrz kabel připojit, musíte nejdřív nastavit, že chcete spustit USB web interface v nastavení tabletu a v prohlížeči se pak prokousat na  http://10.11.99.1. Soubory sem můžete nejen nahrát, ale i je odtud stáhnout. Tím to hasne.
 <img src="/assets/images/rm2/cloud.jpg">
+
+##### Čtení článků z webu
+
+Mimochodem, RM2 avizuje <a href="https://remarkable.com/#Reading_on_reMarkable">"Read web articles on reMarkable with a click"</a> a dost lidí se ptá, po prohlížeči, který RM 2 používá. **ReMarkable 2 nemá prohlížeč a ani žádnou další aplikaci k prohlížení webu** (jako třeba <a href="https://www.boox.com/noteair">Onyx Boox</a>, který nabízí cokoliv běžícího na Androidu). Čtení článků z webu znamená, že plugin v Chromu pošle danou stránku skrze cloud do ReMarkable, kde si jí pak přečtete.
+
+Ač je to hezká funkce, RM nedělá úplně dobrou službu s vytěžením metadat o datu publikování a autoru článku, ty z nějakého důvodu vůbec nepřevede. 
 
 #### "Fíčury", se kterými se ještě sžívám
 
