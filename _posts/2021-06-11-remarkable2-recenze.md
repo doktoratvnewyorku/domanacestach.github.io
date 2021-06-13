@@ -72,7 +72,9 @@ Zkusila jsem malý experiment, abych zjistila, jak se ReMarkable chová, při p�
 <img src="/assets/images/rm2/prepsanytext.jpeg">
 Malý experiment s převodem psaného textu
 
-Výsledky ukazují nedostatky, které by výrobce mohl rozhodně vychytat při dalším z updatů. Je namátkově: převod do češtiny je téměř perfektní (že píšu místy jako prase, není problém RM). Formátování převedlo téměř bez chyby (nezvládá dva sloupce textu, RM je chápe jako jeden text, viz seno-sláma seznam). V e-mailu vypadá formátování lépe, ale to je IMHO jen proto, jak se text e-mailu formátovaný (víc prokladu mezi řádky). Co je problém jsou rovnice. RM nechápe, co má dělat s odmocninou a umocňováním, zato byl ale schopný odhalit složenou závorku, byť ji v převodu umístil špatně.
+Výsledky ukazují pár nedostatků Je namátkově: převod do češtiny je téměř perfektní (že píšu místy jako prase, není problém RM). Formátování převedlo téměř bez chyby (nezvládá dva sloupce textu, RM je chápe jako jeden text, viz seno-sláma seznam). V e-mailu vypadá formátování lépe, ale to je IMHO jen proto, jak se text e-mailu formátovaný (víc prokladu mezi řádky). Co je problém jsou rovnice. RM nechápe, co má dělat s odmocninou a umocňováním, zato byl ale schopný odhalit složenou závorku, byť ji v převodu umístil špatně.
+
+
 
 ##### Posílání e-mailem
 
