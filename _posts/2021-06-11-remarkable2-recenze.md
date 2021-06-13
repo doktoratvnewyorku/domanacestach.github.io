@@ -79,7 +79,7 @@ Pokud přeci jen potřebujete RM2 k počítači připojit, musíte nejdřív v n
 
 <img src="/assets/images/rm2/cloud.jpg">
 
-Co se týče místa, **Remarkable poskytuje 8GB, respektive funkčně asi 7GB k dispozici**. Jen pro porovnání, Kindle Touch má 4GB a Amazon uvádí, že je to ekvivalent 3000 knížek. Nedokážu si tak představit, že někomu někdy dojde v ReMarkbale místo, nebo aspoň to nebude jen tak brzy... 
+Co se týče místa, **Remarkable poskytuje 8GB, respektive funkčně asi 7GB k dispozici**. Jen pro porovnání, Kindle Touch má 4GB a Amazon uvádí, že je to ekvivalent 3000 knížek. Nedokážu si tak představit, že někomu někdy dojde v ReMarkable místo, nebo aspoň to nebude jen tak brzy... 
 
 ##### Čtení článků z webu
 ReMarkable 2 avizuje <a href="https://remarkable.com/#Reading_on_reMarkable">"Read web articles on reMarkable with a click"</a> a dost lidí se ptá, po prohlížeči, který RM 2 používá. **ReMarkable 2 nemá prohlížeč a ani žádnou další aplikaci k prohlížení webu** (jako třeba <a href="https://www.boox.com/noteair">Onyx Boox</a>, který nabízí cokoliv běžícího na Androidu). Čtení článků z webu znamená, že <a href="https://chrome.google.com/webstore/detail/read-on-remarkable/bfhkfdnddlhfippjbflipboognpdpoeh?hl=en">plugin v Chromu</a> pošle danou stránku skrze cloud do ReMarkable, kde si jí pak přečtete. Ač je to hezká funkce, **RM2 nedělá úplně dobrou službu s vytěžením metadat o datu publikování a autorech článku**. Oboje z nějakého důvodu vůbec nepřevede. 
