@@ -56,10 +56,10 @@ ReMarkable 2, narozdíl od nejnovějších čteček nemá vbudované světlo. P�
 #### Export poznámek
 Čímž se dostávám k tématu, které zajímá hodně potenciálních uživatelů: **export poznámek a jak to vypadá s jejich použitelností dál**. RM2 umí export na několika úrovních a jak moc jsem nadšená z některých jeho možností, tak v jiných ReMarkable trochu/dost pokulhává a pro někoho to může být jeden z důvodů, proč si ho nepořídit.
 
-Z ReMarkable se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří už to tuší, ale jakékoliv poznámky vepsané do PDF budou exportovány v podobě bitmapy. Překlad: v exportované verzi se to, co napíšete do PDF, nebude chovat jako text, ale jako obrázek. Nedá se tak označit,  kopírovat či jinak se k dané poznámce chovat jako k textu. Sorry, @matushiq, @vit_tucek.
+Z ReMarkable se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří už to tuší, ale jakékoliv poznámky vepsané do PDF budou exportovány v podobě bitmapy. Překlad: v exportované verzi se to, co napíšete do PDF, nebude chovat jako text, ale jako obrázek. Nedá se tak označit,  kopírovat či jinak se k dané poznámce chovat jako k textu.
 
 <img src="/assets/images/rm2/download.PNG">
-*Takhle to vypadá ve vyexprotovaném PDF. Text se dá dále libovolně označovat v Adobe Readeru, ale mé rukou psané poznámky už jsou nesmazatelnou a neoznačitelnou součástí dokumentu.*
+*Takhle to vypadá ve vyexportovaném PDF. Text se dá dále libovolně označovat v Adobe Readeru, ale mé rukou psané poznámky už jsou nesmazatelnou a neoznačitelnou součástí dokumentu.*
 
 ##### Převod psaného textu
 Zkusila jsem malý experiment, abych zjistila, jak se ReMarkable chová, při převodu psaného textu. Kromě převodu jako takového, jsem vyzkoušela i jak ne/rozumí formátování, jak ne/rozumí rovnicím, a jak vypadá posílání převedených poznámek e-mailem.
