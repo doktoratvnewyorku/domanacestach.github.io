@@ -9,7 +9,7 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 <a href="https://remarkable.com/">Remarkable 2</a> (dál jako RM2) je tablet využívající e-ink technologii (jako Kindle), s tím rozdílem, že umožňuje i psaní, které pocitově připomíná psaní na běžný papír. Výrobce ho marketuje hlavně jako nástroj, co pomáhá přemýšlet a maximalizuje produktivitu skrz minimalismus. Pro mě to je skvělá pomůcka ke čtení a poznámkování v jednom, která mi šetří oči, neodvádí mou pozornost skrz notifikace a ještě k tomu vypadá profesionálně.
 
-Tenhle článek je přehled toho, co Remarkable 2 umí a neumí. Pokud zvažujete jeho koupi a máte podobný pracovní proces jako já (viz konec článku), bude se vám líbit. Ostatní mi nejspíš dají zapravdu s tím drobným "ale".
+Tenhle článek je **přehled toho, co Remarkable 2 umí a neumí**. Pokud zvažujete jeho koupi a máte podobný pracovní proces jako já (viz konec článku), bude se vám líbit. Ostatní mi nejspíš dají zapravdu s tím drobným "ale".
 
 ---
 
@@ -54,15 +54,15 @@ Dokumenty v obou zmíněných formátech se čtou příjemně, byť **PDF by moh
 ReMarkable 2, narozdíl od nejnovějších čteček nemá vbudované světlo. Přes den to nevadí, ale na večerní čtení nebo práci doporučuju rozhodně sedět u lampičky. A nebo nepracovat do noci ¯\_(ツ)_/¯
 
 #### Export poznámek
-Hodně potenciálních uživatelů se ptá na **export poznámek a jak to vypadá s jejich použitelností dál**. RM2 umí export na několika úrovních a jak moc jsem nadšená z některých jeho možností, tak v jiných ReMarkable už od první generae trochu pokulhává a pro někoho to může být jeden z důvodů, proč si ho nepořídit.
+Hodně potenciálních uživatelů se ptá na **export poznámek a jak to vypadá s jejich použitelností dál**. RM2 umí export na několika úrovních a jak moc jsem nadšená z některých jeho možností, tak v jiných ReMarkable už od první generace trochu pokulhává, a pro někoho to může být jeden z důvodů, proč si ho nepořídit.
 
-Z ReMarkable 2 se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří už to tuší, ale jakékoliv poznámky vepsané do PDF budou exportovány v podobě bitmapy. Překlad: v exportované verzi se to, co napíšete do PDF, nebude chovat jako text, ale jako obrázek. Nedá se tak označit,  kopírovat či jinak se k dané poznámce chovat jako k textu.
+Z ReMarkable 2 se dá **exportovat ve třech formátech: PDF, PNG a SVG**. Modří už to tuší, ale **jakékoliv poznámky vepsané do PDF budou exportovány v podobě bitmapy**. Překlad: v exportované verzi se to, co napíšete do PDF, nebude chovat jako text, ale jako obrázek. Nedá se tak označit,  kopírovat či jinak se k dané poznámce chovat jako k textu.
 
 <img src="/assets/images/rm2/download.PNG">
 *Takhle to vypadá ve vyexportovaném PDF. Text se dá dále libovolně označovat v Adobe Readeru, ale mé rukou psané poznámky už jsou nesmazatelnou a neoznačitelnou součástí dokumentu.*
 
 ##### Převod psaného textu
-Zkusila jsem malý experiment, abych zjistila, jak se ReMarkable chová, při převodu psaného textu. Kromě převodu jako takového, jsem vyzkoušela i jak ne/rozumí formátování, jak ne/rozumí rovnicím, a jak vypadá posílání převedených poznámek e-mailem.
+Zkusila jsem malý experiment, abych zjistila, jak se ReMarkable chová, při převodu psaného textu z češtiny. Kromě převodu jako takového, jsem vyzkoušela i jak ne/rozumí formátování, jak ne/rozumí rovnicím, a jak vypadá posílání převedených poznámek e-mailem.
 
 <img src="/assets/images/rm2/prepsanytext.jpeg">
 *Malý experiment s převodem psaného textu*
@@ -78,10 +78,10 @@ Zkusila jsem malý experiment, abych zjistila, jak se ReMarkable chová, při p�
 Pokud přeci jen potřebujete RM2 k počítači připojit, musíte nejdřív v nastavení tabletu nastavit, že chcete spustit *USB web interface*. V prohlížeči pak zadáte http://10.11.99.1. Soubory tímhle způsobem můžete do RM nejen nahrát, ale i je odtud stáhnout. Tím to hasne. IMHO ideální záležitost pro ty, kdo preferují nemít ReMarkable připojený k internetu vůbec #privacy.
 <img src="/assets/images/rm2/cloud.jpg">
 
-Co se týče místa, **Remarkable poskytuje 8GB, respektive funkčně asi 7GB k dispozici**. Jen pro porovnání, Kindle Touch má 4GB a Amazon uvádí, že je to ekvivalent 3000 knížek. Nedokážu si tak představit, že někomu někdy dojde v RM místo nebo aspoň to nebude jen tak brzy... 
+Co se týče místa, **Remarkable poskytuje 8GB, respektive funkčně asi 7GB k dispozici**. Jen pro porovnání, Kindle Touch má 4GB a Amazon uvádí, že je to ekvivalent 3000 knížek. Nedokážu si tak představit, že někomu někdy dojde v ReMarkbale místo, nebo aspoň to nebude jen tak brzy... 
 
 ##### Čtení článků z webu
-Mimochodem, RM2 avizuje <a href="https://remarkable.com/#Reading_on_reMarkable">"Read web articles on reMarkable with a click"</a> a dost lidí se ptá, po prohlížeči, který RM 2 používá. **ReMarkable 2 nemá prohlížeč a ani žádnou další aplikaci k prohlížení webu** (jako třeba <a href="https://www.boox.com/noteair">Onyx Boox</a>, který nabízí cokoliv běžícího na Androidu). Čtení článků z webu znamená, že <a href="https://chrome.google.com/webstore/detail/read-on-remarkable/bfhkfdnddlhfippjbflipboognpdpoeh?hl=en">plugin v Chromu</a> pošle danou stránku skrze cloud do ReMarkable, kde si jí pak přečtete. Ač je to hezká funkce, **RM nedělá úplně dobrou službu s vytěžením metadat o datu publikování a autorech článku**. Oboje z nějakého důvodu vůbec nepřevede. 
+ReMarkable 2 avizuje <a href="https://remarkable.com/#Reading_on_reMarkable">"Read web articles on reMarkable with a click"</a> a dost lidí se ptá, po prohlížeči, který RM 2 používá. **ReMarkable 2 nemá prohlížeč a ani žádnou další aplikaci k prohlížení webu** (jako třeba <a href="https://www.boox.com/noteair">Onyx Boox</a>, který nabízí cokoliv běžícího na Androidu). Čtení článků z webu znamená, že <a href="https://chrome.google.com/webstore/detail/read-on-remarkable/bfhkfdnddlhfippjbflipboognpdpoeh?hl=en">plugin v Chromu</a> pošle danou stránku skrze cloud do ReMarkable, kde si jí pak přečtete. Ač je to hezká funkce, **RM nedělá úplně dobrou službu s vytěžením metadat o datu publikování a autorech článku**. Oboje z nějakého důvodu vůbec nepřevede. 
 
 #### "Fíčury", se kterými se ještě sžívám
 I přesto, že je RM2 hodně minimalistický, poskytuje spoustu funkcionalit, se kterými se ještě pořád sžívám. Buď je pro svou práci nepotřebuju, nevzpomenu si na ně, nebo mi nepřijdou (zatím) použitelné.
