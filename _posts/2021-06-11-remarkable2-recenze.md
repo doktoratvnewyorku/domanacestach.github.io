@@ -29,10 +29,10 @@ Každý typ psací potřeby má tři různé tloušťky stopy a k výběru jsou 
 <img src="/assets/images/rm2/typeface.jpg">
 *Takhle vypadají různé možnosti psaní a jak se pak chovají vyexportované jako PDF.*
 
-První generace ReMarkable byla pověstná špatnou odezvou, ale druhá generace tuhle reputaci rozhodně napravila. Odezva při psaní je výborná, nemá zpoždění, inkoust reaguje okamžitě a velmi přesně na to, co píšete. 
+První generace ReMarkable byla pověstná špatnou odezvou, ale druhá generace tuhle reputaci rozhodně napravila. **Odezva při psaní je výborná**, nemá zpoždění, inkoust reaguje okamžitě a velmi přesně na to, co píšete. 
 
 ##### Stylus & guma
-Stylus si stejně jako tablet samotný prošel vývojem také (o tom, proč je IMHO blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první. Dle parametrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic, co bych nějak postrádala. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Stylus vnímá naklonění hrotu, což se hodí zejména pro kreslení a kouzlení s kaligrafickým perem a podtrhává to (pun intended!) zážitek psaní v ruce.
+Stylus si stejně jako tablet samotný prošel vývojem také (o tom, proč je IMHO blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první. Dle parametrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic, co bych nějak postrádala. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Stylus vnímá naklonění hrotu a rozmanitou škálu tlaku, což se hodí zejména pro kreslení a kouzlení s kaligrafickým perem a podtrhává to (pun intended!) zážitek psaní v ruce.
 
 <img src="/assets/images/rm2/points.jpg">
 *Hroty jsou vyměnitelné a dostanete jich 9 do foroty. Dle výrobce má každý vydržet 2 až 6 měsíců dle toho, jako moc velcí pisálci jste.* 
@@ -42,24 +42,23 @@ Vlastní zmínku si zaslouží **gumování**. S příchodem RM2 se vylepšil i 
 **Gumovat můžete na třech úrovních:** hrot pera se chová jako guma (hodí se na drobné chyby); gumovat můžete selekcí (celá slova, větší kusy textu či kresby); a nakonec můžete vymazat celou stránku jedním klikem. Stojí to pár ťuknutí na rozhraní, ale IMHO to bolí míň než vysolit 50 babek ¯\_(ツ)_/¯
 
 #### Čtení
-RM2 podporuje prozatím jen dva formáty a to PDF a ePub. Osobně mi to nepřijde na škodu, protože většinu toho, co čtu mám právě v jednom ze dvou formátů. Chápu ale že pokud jste zvyklí na MOBI nebo pracujete s Word dokumenty, může to být nepříjemnou překážkou, protože se to obejít nedá (zkoušela jsem to).
+RM2 podporuje prozatím jen dva formáty a to PDF a ePub. Osobně mi to nepřijde na škodu, protože většinu toho, co čtu, mám právě v jednom ze dvou formátů. Chápu ale že pokud jste zvyklí na MOBI nebo pracujete s Word dokumenty, může to být nepříjemnou překážkou, protože se to obejít nedá (zkoušela jsem to).
 
-Dokumenty v obou zmíněných formátech se čtou příjemně, byť PDF by mohlo mít defaultní velikost o pár pixelů větší. Akademické články se v RM2 dají číst, poznámkovat a zvýrazňovat bez větších problémů. Knížky v PDF formátu se díky větší velikosti písma čtou líp než akademické články, ale trochu si myslím, že tam je na vině úzus, jakým se akademické publikace formátují. RM2 nechává po straně volné místo na poznámky v obou případech.
+Dokumenty v obou zmíněných formátech se čtou příjemně, byť **PDF by mohlo mít defaultní velikost o pár pixelů větší**. Akademické články se v RM2 dají číst, poznámkovat a zvýrazňovat bez větších problémů. Knížky v PDF formátu se díky větší velikosti písma čtou líp než akademické články, ale trochu si myslím, že tam je na vině úzus, jakým se akademické publikace formátují (tj. hodně zhuštěného textu). RM2 nepodporuje odkazy v rámci dokumentu, takže pokud jste zvyklí si proklikávat reference (např. <a href="https://www.acm.org/publications/authors/reference-formatting">ACM styl formátování číslem</a>), ReMarkable v tomhle není kamarád.
 
 <img src="/assets/images/rm2/pdfvelikost.jpeg">
 *Takhle se chová PDF (akademický článek), když se s s ním pomocí "pinch gesture" zazoomuje od min do max. Dokument se dá prsty posouvat do libovolného směru.*
 
-ePub má mnohem přijatelnější defaultní velikost písma. Font záleží na formátování daného dokumentu a dá se měnit spolu s odsazením, prokladem a tak dále přímo v ReMarkable (podobně jako v Kindle).
+**ePub má mnohem přijatelnější defaultní velikost písma**. Font záleží na formátování daného dokumentu a dá se měnit spolu s odsazením, prokladem a tak dále přímo v ReMarkable (podobně jako v Kindle). RM2 nechává po straně stránky volné místo na poznámky v obou formátech, což se hodí na psaní poznámek přímo do dokumentu.
 
-Stejně jako v PDF i v ePub se dá hledat podle klíčového slova, dokument nastavit do pohledu na šírku, poslat jednu či více stránek e-mailem ve formátu PDF, SVG nebo PNG. Listovat knížkou, článkem nebo jakýmkoliv dokumentem se dá skrze zobrazení přehledu všech stránek (viz. obrázek vpravo dole). Tady se dá taky označit libovolné množství stránek a poslat je e-mailem v jednom souboru (PDF, SVG a PNG jsem nezkoušela). 
+**Stejně jako v PDF i v ePub se dá hledat podle klíčového slova, dokument nastavit do pohledu na šírku, poslat jednu či více stránek e-mailem ve formátu PDF, SVG nebo PNG.** Listovat knížkou, článkem nebo jakýmkoliv dokumentem se dá skrze zobrazení přehledu všech stránek (viz. obrázek vpravo dole). Tady se dá taky označit libovolné množství stránek a poslat je e-mailem v jednom souboru (PDF funguje skvěle; SVG a PNG jsem nezkoušela). 
 
 <img src="/assets/images/rm2/epuball.jpeg">
 
 #### Export poznámek
-
 Čímž se dostávám k tématu, které zajímá hodně potenciálních uživatelů: **export poznámek a jak to vypadá s jejich použitelností dál**. RM2 umí export na několika úrovních a jak moc jsem nadšená z některých jeho možností, tak v jiných ReMarkable trochu/dost pokulhává a pro někoho to může být jeden z důvodů, proč si ho nepořídit.
 
-Z ReMarkable se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří tuší, že jakékoliv poznámky vepsané do PDF tak budou exportovány v podobě bitmap. Překlad: v exportované verzi se to, co napíšete do PDF, nebude chovat jako text, ale jako obrázek. Nedá se tak označit,  kopírovat či jinak se k dané poznámce chovat jako k textu. Sorry, @matushiq, @vit_tucek.
+Z ReMarkable se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří už to tuší, ale jakékoliv poznámky vepsané do PDF budou exportovány v podobě bitmapy. Překlad: v exportované verzi se to, co napíšete do PDF, nebude chovat jako text, ale jako obrázek. Nedá se tak označit,  kopírovat či jinak se k dané poznámce chovat jako k textu. Sorry, @matushiq, @vit_tucek.
 
 <img src="/assets/images/rm2/download.PNG">
 *Takhle to vypadá ve vyexprotovaném PDF. Text se dá dále libovolně označovat v Adobe Readeru, ale mé rukou psané poznámky už jsou nesmazatelnou a neoznačitelnou součástí dokumentu.*
@@ -68,16 +67,14 @@ Z ReMarkable se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří tu�
 
 ...aneb vše, co je s ReMarkable tak trochu špatně, pokud potřebujete dál systematicky pracovat s tím, co v něm napíšete.
 
-Bude jednodušší sepsat, co ReMarkable 2 s exportem neumí: 
+Zkusila jsem malý experiment, abych zjistila, jak se ReMarkable chová, při převodu psaného textu. Kromě převodu jako takového, jsem vyzkoušela i jak ne/rozumí formátování, jak ne/rozumí rovnicím a smajlíkům, a jak vypadá posílání poznámek e-mailem.
+
 <img src="/assets/images/rm2/prepsanytext.jpeg">
+Malý experiment s převodem psaného textu
 
+Výsledky ukazují nedostatky, které by výrobce mohl rozhodně vychytat při dalším z updatů. Je namátkově: převod do češtiny je téměř perfektní (že píšu místy jako prase, není problém RM). Formátování převedlo téměř bez chyby (nezvládá dva sloupce textu, RM je chápe jako jeden text, viz seno-sláma seznam). V e-mailu vypadá formátování lépe, ale to je IMHO jen proto, jak se text e-mailu formátovaný (víc prokladu mezi řádky). Co je problém jsou rovnice. RM nechápe, co má dělat s odmocninou a umocňováním, zato byl ale schopný odhalit složenou závorku, byť ji v převodu umístil špatně.
 
-##### Podpora češtiny
-
-
-
-#### Odezva
-Pověst prvnímu ReMarkable trochu kazila odezva. 
+##### Posílání e-mailem
 
 #### "Cloud" a synchronizace s PC
 
