@@ -7,9 +7,9 @@ image: assets/images/rm2/remarkable2rec.jpg
 
 ---
 
-href="https://remarkable.com/">Nory vytvořen</a>. Remarkable 2 (dál jako RM2) je tablet využívající e-ink technologii (jako Kindle), s tím rozdílem, že umožňuje i psaní, které pocitově připomíná psaní na běžný papír. Výrobce ho marketuje hlavně jako nástroj, co pomáhá přemýšlet a maximalizuje produktivitu skrz minimalismus. Pro mě to je skvělá pomůcka ke čtení a poznámkování v jednom, která mi šetří oči, neodvádí mou pozornost skrz notifikace a . Tenhle článek je přehled toho, co Remarkable 2 umí a neumí. Pokud zvažujete jeho koupi a máte podobný pracovní proces jako já (viz konec článku), bude se vám líbit. Ostatní mi nejspíš dají zapravdu s tím drobným "ale".
+href="https://remarkable.com/">Nory vytvořen</a>. Remarkable 2 (dál jako RM2) je tablet využívající e-ink technologii (jako Kindle), s tím rozdílem, že umožňuje i psaní, které pocitově připomíná psaní na běžný papír. Výrobce ho marketuje hlavně jako nástroj, co pomáhá přemýšlet a maximalizuje produktivitu skrz minimalismus. Pro mě to je skvělá pomůcka ke čtení a poznámkování v jednom, která mi šetří oči, neodvádí mou pozornost skrz notifikace a ještě k tomu vypadá profesionálně.
 
-*P.S. Posbírala jsem pár dotazů o fungování RM2 i na Twitteru. Pokud jste mi nějaký poslali, najdete se u příslušné části podle vašeho Twitter nicku* 😉
+Tenhle článek je přehled toho, co Remarkable 2 umí a neumí. Pokud zvažujete jeho koupi a máte podobný pracovní proces jako já (viz konec článku), bude se vám líbit. Ostatní mi nejspíš dají zapravdu s tím drobným "ale".
 
 ---
 
@@ -23,7 +23,7 @@ Každý typ psací potřeby má tři různé tloušťky stopy a k výběru jsou 
 <img src="/assets/images/rm2/typeface.jpg">
 *Takhle vypadají různé možnosti psaní a jak se pak chovají vyexportované jako PDF.*
 
-První generace ReMarkable byla pověstná špatnou odezvou, ale druhá generace tuhle reputaci rozhodně napravila. **Odezva při psaní je výborná**, nemá zpoždění, inkoust reaguje okamžitě a velmi přesně na to, co píšete. Pro psaní poznámek je ReMarkable srovnatelný s papírovým sešitem, diářem či čímkoliv jiným, co používáte pro psaní. **Mně na něm vyhovuje, že můžu mít několik sešitů v jednom přístroji** a nemusím se tak trápit, že doma zapomenu zrovna ten, kde mám poznámky na poradu, na kterou jdu. 
+První generace ReMarkable byla pověstná špatnou odezvou, ale druhá generace tuhle reputaci rozhodně napravila. **Odezva při psaní je výborná**, nemá zpoždění, inkoust reaguje okamžitě a velmi přesně na to, co píšete. Pro psaní poznámek je ReMarkable srovnatelný s papírovým sešitem, diářem či čímkoliv jiným, co používáte pro psaní. **Mně na něm vyhovuje hlavně to, že můžu mít několik sešitů v jednom přístroji** a nemusím se tak trápit, že doma zapomenu zrovna ten, kde mám poznámky na poradu, na kterou jdu. 
 
 ##### Stylus & guma
 Stylus si stejně jako tablet samotný prošel vývojem také (o tom, proč je IMHO blbost si kupovat druhou generaci, píšu níž). Já si pořídila tu první. Dle parametrů je první lehčí (15g) než druhá generace (19g) a kromě vestavěné gumy mu nechybí nic, co bych nějak postrádala. Naopak mně přijde šedá a jakoby písková povrchová úprava pera fajn a i díky drážce na spodní straně stylu dobře sedí v ruce. Super věc je magnet, který stylus připne k tabletu. Šance, že ho ztratíte, se tak dost minimalizuje.
