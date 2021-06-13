@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "ReMarkable 2 je opravdu remarkable, ale drobné ale..."
+title:  "ReMarkable 2 je opravdu remarkable, s drobným ale..."
 author: leni
 categories: [doktorát, gadgets]
 image: assets/images/rm2/remarkable2rec.jpg
 
 ---
 
-href="https://remarkable.com/">Nory vytvořen</a>. Remarkable 2 (dál jako RM2) je tablet využívající e-ink technologii (jako Kindle), s tím rozdílem, že umožňuje i psaní, které pocitově připomíná psaní na běžný papír. Výrobce ho marketuje hlavně jako nástroj, co pomáhá přemýšlet a maximalizuje produktivitu skrz minimalismus. Pro mě to je skvělá pomůcka ke čtení a poznámkování v jednom, která mi šetří oči, neodvádí mou pozornost skrz notifikace a ještě k tomu vypadá profesionálně.
+<a href="https://remarkable.com/">Remarkable 2</a> (dál jako RM2) je tablet využívající e-ink technologii (jako Kindle), s tím rozdílem, že umožňuje i psaní, které pocitově připomíná psaní na běžný papír. Výrobce ho marketuje hlavně jako nástroj, co pomáhá přemýšlet a maximalizuje produktivitu skrz minimalismus. Pro mě to je skvělá pomůcka ke čtení a poznámkování v jednom, která mi šetří oči, neodvádí mou pozornost skrz notifikace a ještě k tomu vypadá profesionálně.
 
 Tenhle článek je přehled toho, co Remarkable 2 umí a neumí. Pokud zvažujete jeho koupi a máte podobný pracovní proces jako já (viz konec článku), bude se vám líbit. Ostatní mi nejspíš dají zapravdu s tím drobným "ale".
 
@@ -54,9 +54,9 @@ Dokumenty v obou zmíněných formátech se čtou příjemně, byť **PDF by moh
 ReMarkable 2, narozdíl od nejnovějších čteček nemá vbudované světlo. Přes den to nevadí, ale na večerní čtení nebo práci doporučuju rozhodně sedět u lampičky. A nebo nepracovat do noci ¯\_(ツ)_/¯
 
 #### Export poznámek
-Čímž se dostávám k tématu, které zajímá hodně potenciálních uživatelů: **export poznámek a jak to vypadá s jejich použitelností dál**. RM2 umí export na několika úrovních a jak moc jsem nadšená z některých jeho možností, tak v jiných ReMarkable trochu/dost pokulhává a pro někoho to může být jeden z důvodů, proč si ho nepořídit.
+Hodně potenciálních uživatelů se ptá na **export poznámek a jak to vypadá s jejich použitelností dál**. RM2 umí export na několika úrovních a jak moc jsem nadšená z některých jeho možností, tak v jiných ReMarkable už od první generae trochu pokulhává a pro někoho to může být jeden z důvodů, proč si ho nepořídit.
 
-Z ReMarkable se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří už to tuší, ale jakékoliv poznámky vepsané do PDF budou exportovány v podobě bitmapy. Překlad: v exportované verzi se to, co napíšete do PDF, nebude chovat jako text, ale jako obrázek. Nedá se tak označit,  kopírovat či jinak se k dané poznámce chovat jako k textu.
+Z ReMarkable 2 se dá exportovat ve třech formátech: PDF, PNG a SVG. Modří už to tuší, ale jakékoliv poznámky vepsané do PDF budou exportovány v podobě bitmapy. Překlad: v exportované verzi se to, co napíšete do PDF, nebude chovat jako text, ale jako obrázek. Nedá se tak označit,  kopírovat či jinak se k dané poznámce chovat jako k textu.
 
 <img src="/assets/images/rm2/download.PNG">
 *Takhle to vypadá ve vyexportovaném PDF. Text se dá dále libovolně označovat v Adobe Readeru, ale mé rukou psané poznámky už jsou nesmazatelnou a neoznačitelnou součástí dokumentu.*
