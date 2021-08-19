@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Nejsou cizáci jako cizáci"
+author: leni
+categories: [výlety, Evropa]
+image: assets/images/europetravel.jpg
+
+---
+
+Snažím se nad českou politikou už nerozčilovat, ale poslední dobou mi to vážně nejde. Poslední kapkou jsou absolutně nelogické regulace ohledně toho, kdo může a nemůže přijet do ČR. Tohle je jen drobnej výčet toho, jak to teď komplikuje život nám:
+
+Koupili jsme dneska s přítelem konečně letenky do Evropy s tím, že se může všechno změnit a třeba se nedostaneme vůbec nikam, natož do Čech. Oba jsme řádně a plně očkovaní vakcínami, které EMA schvaluje, - dvě dávky!, víte jak. Namísto toho, abychom na ČR hranici oba ukázali papír se štemplem, že jsme si protrpěli po každý z injekci vedlejší příznaky vakcíny, a výsledky negativního PCR testu, proskáčeme pravděpodobně veškerýma byrokratickýma kolečkama, o kterých se ani <a href="https://www.youtube.com/watch?v=xk2keN8JmeA">Asterixovi s Obelixovi</a> nesnilo.
+
+Namísto přímo do Čech tak letíme přes Francii, protože to je jedna z mála zemí, kam očkovaný (i neočkovaný) Američany pustí jen s PCR testem a bez restrikcí, karantén a dalších výmyslů. Pak plánujeme se letadlem či vlakem/autem, nebo klidně i kotrmelcema, dopravit co nejblíž do Čech, kdy travers přes Německo zní jako nejstabilnější plán, jak si dát konečně český pivo. Trávím dny googlením všech nařízení, podmínek vstupu, karantén apod., protože se zjevně v EU víc politikaří s tím, kdo komu dal nebo nedal, než že by se domlouvalo, co dává smysl. Itinerář cesty máme momentálně propočítanej na hodiny, takže to vypadá, že místo návštěvy jedeme Evropu spíš obléhat. Česko totiž příteli vzkazuje, že <a href="https://www.irozhlas.cz/zpravy-domov/andrej-babis-radiozurnal-ranni-interview_2106040913_ada">"cizáky tu nechceme"</a>. A my nemáme koule na to lhát nebo falsifikovat dokumenty, aby nám na ambasádách věřili, že jsme spolu od března loňskýho roku, nebo že se nedejbože máme upřimně rádi.
+
+Celkově nás všechny COVID přešel bez problému, ale můj poslední rok ve škole byl fakt dost nepříjemnej, a jarní semestr jsem odjela na rezervy. Jeden z mnoha důvodů, proč změnit kontinenty, je pro mě otázka nutnosti. Doma mezitím vážně onemocněla babička s úplně jinou nemocí, než všichni čekali. Rodiče znám už jen ze Zoomu. Některé členy rodiny jsem schopná rozpoznat už jen podle kousku hlavy nebo hlasu, protože se všichni logicky do jedný obrazovky nevejdou a ne všichni si sami zvládnou zapnout Skype/Zoom. Pes podle mě už zapomněl, že existuju. Kromě hrstky kamaradů, kteří mají taky sami co dělat, aby zůstali jakž takž nad věcí v době covidu, mam minimálni kontakt s Čechama. Až na bráchu, který nás navštívil v dubnu y Kalifornie, jsem rodinu viděla naposledy na Vánoce 2019, tj. rok a půl zpátky. Vánoce 2020 jsem z velký části probrečela, i přesto, že mě přítelova rodina mile přijala a snažili se pomoct, abych se tu cítila jako doma. Nejsem úplnej cíťa, ale rodina je prostě rodina a COVID mi (stejně jako asi většině z nás) dost přeskládal priority. A prostě se mi regulérně stejská, no.
+
+Úplně slyším ty hlasy, že jsem mohla letět do Čech; jsem přece pořád občanka ČR a EU. Zaprvé, strašně dlouhou dobu by mě nepustili vůbec tam a ani zpátky do USA, protože se řesili mnohem podstatnější věci než mezinárodní studenti odstřižení od domova (pamatujete ještě někdo na Trumpa? Tak vidíte.). Zadruhé, přece tu toho svýho Amíka nenechám, když mu můžu (byť limitovaně) ukázat Evropu, všechny místa, kde ještě nebyl, včetně Čech, a (hlavně) představit ho rodičům a kamarádům. Ona je jedna věc o tom, odkud pocházíte vyprávět, ale když vám nakonec dojdou nápady, jak vysvětlit ryze českou kulturu, zvyky, apod., potřebujete sednout na letadlo a nechat českou kulturu působit na něj. Zatřetí, nejsem to já, ale škola/práce, kdo nám diktuje, kdy máme volno.
+
+Nechci si stěžovat, vím, že pandemie není a nebyla lehká pro nikoho. Vím, že v ČR je dlouhodobá nálada, že cizinec není našinec, ale my to i bez toho "popíjeni v baru" oželíme. Nám by stačilo jen vidět rodinu a kousek mý roudný hroudy. Tahle pofidérní hra na dobu, kdy se mohlo jen někam, nás už vážně neba.
