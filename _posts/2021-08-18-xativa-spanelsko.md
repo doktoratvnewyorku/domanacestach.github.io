@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Po strmých stopách historie"
+title:  "Po strmých stopách historie rodiny Borgiů"
 author: sal
 categories: [ Španělsko, Evropa, historie ]
 image: assets/images/xativa/xativa7.JPG
