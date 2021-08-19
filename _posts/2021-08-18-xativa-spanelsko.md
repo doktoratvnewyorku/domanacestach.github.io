@@ -5,7 +5,9 @@ author: leni
 categories: [ Španělsko, Evropa, historie ]
 image: assets/images/xativa/xativa7.JPG
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+Pohybujete-li se po Španělsku v srpnu a ještě ke všemu kolem týdne, kteří tu místní pamatují jako jeden z nejteplejších za posledních pár let, jste rádi, když vám na výlet prší. Respektive, poprchává. 
+
+Právě drobný deštík nás přivítal na nádraží v městečku Xàtiva, kam jsme pohodlně za necelých 40 minut od Valencie dorazily. 
 
 ## Reference lists
 <img src="/assets/xativa/xativa1.JPG">
