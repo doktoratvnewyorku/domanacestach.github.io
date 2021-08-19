@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nejsou cizáci jako cizáci"
-author: leni
+author: Leni
 categories: [výlety, Evropa]
 image: assets/images/cizaci.jpg
 
