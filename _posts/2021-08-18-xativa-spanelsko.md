@@ -5,9 +5,9 @@ author: leni
 categories: [ Španělsko, Evropa, historie ]
 image: assets/images/xativa/xativa7.JPG
 ---
-Pohybujete-li se po Španělsku v srpnu a ještě ke všemu kolem týdne, kteří tu místní pamatují jako jeden z nejteplejších za posledních pár let, jste rádi, když vám na výlet prší. Respektive, poprchává. 
+Pohybujete-li se po Španělsku v srpnu a ještě ke všemu kolem týdne, kteří tu místní pamatují jako jeden z nejteplejších za posledních pár let, jste rádi, když vám na výlet prší. A jste dvakrát tak rádi, když se vydáte do míst, kde je hlavní turistickou atrakcí hrad tyčící se na kopci. 
 
-Právě drobný deštík nás přivítal na nádraží v městečku Xàtiva, kam jsme pohodlně za necelých 40 minut od Valencie dorazily. 
+Na nádraží v městečku Xàtiva nás přivítal drobný deštík. Nějak jsme si ho za celých 40 minut cesty vlakem z Valencie nevšimly. 
 
 ## Reference lists
 <img src="/assets/images/xativa/xativa1.JPG">
