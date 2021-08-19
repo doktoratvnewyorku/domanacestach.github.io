@@ -14,7 +14,7 @@ There are lots of powerful things you can do with the Markdown editor. If you've
 <img src="/assets/images/xativa/xativa4.JPG">
 <img src="/assets/images/xativa/xativa5.JPG">
 <img src="/assets/images/xativa/xativa6.JPG">
-<img src="/assets/images/xativa/xativa1.JPG">
+<img src="/assets/images/xativa/xativa7.JPG">
 <img src="/assets/images/xativa/xativa8.JPG">
 <img src="/assets/images/xativa/xativa9.JPG">
 <img src="/assets/images/xativa/xativa10.JPG">
