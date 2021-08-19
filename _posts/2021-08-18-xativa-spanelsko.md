@@ -9,11 +9,18 @@ Pohybujete-li se po Španělsku v srpnu a ještě ke všemu kolem týdne, kteř�
 
 Na nádraží v městečku Xàtiva nás přivítal drobný deštík. Nějak jsme si ho za celých 40 minut cesty vlakem z Valencie nevšimly. Po předchozím výletu do Sagunta, kdy nás slunce doprovázelo i ve stínu, jsme to celkem s povděkem přivítaly.
 
-Xàtiva 
+Xàtivu najdete na východě Španělska asi 25 km od pobřeží Středozemního moře. Během středověku se tu pohybovali muslimové a Xàtiva z toho benefitovala hned několika způsoby: Arabové sem přivezli technologii výroby papíru a ve 12. století byla lokalita známá svými školami a vzdělanci.
+
+Poté ale přišla doba reconquisty, kdy se poloostrova ujali křesťané, a Xàtiva se stala kolébkou jedné z nejznámějších španělských renesančních rodin, tzv. Borgiů. Pokud si stejně jako já nic z dějepisu nepamatujete, mohlo by vás zajímat, že tahle rodina měla poměrnou nehezkou pověst - upláceli, vyznávali nepotismus, a k jejich vláda dostala špatnou pověst hlavně kvůli mravnímu úpadku církve a úkladným vraždám.
+
+<img src="/assets/images/xativa/xativa2.JPG">
+
+V roce 2011 o téhle povedené rodince vznikl dokonce i seriál s Jeremy Ironsem.
+
 
 ## Reference lists
 <img src="/assets/images/xativa/xativa1.JPG">
-<img src="/assets/images/xativa/xativa2.JPG">
+
 <img src="/assets/images/xativa/xativa3.JPG">
 <img src="/assets/images/xativa/xativa4.JPG">
 <img src="/assets/images/xativa/xativa5.JPG">
