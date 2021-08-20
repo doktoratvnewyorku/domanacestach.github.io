@@ -19,13 +19,31 @@ Během války o španělské dědictví na počátku 18. století, bylo město o
 
 ### Malebnými uličkami až k latrínám
 
+El Castell de Xàtiva je dvojitá pevnost, jejíž architektonický styl se vyvíjel podle toho, jak a koho sem zavlál čas a historie. Hradní zdi a věže tak nesou známky islámské a gotické architektury, i přesto, že původ pevnosti sahá do iberijských a románských dob.
+
+<img src="/assets/images/xativa/xativa6.JPG">
+
+Navštívit se dají obě části hradu - Castell Menor a Castell Major. Zatímco jeden byl výhradně sídlem královny, druhý sloužil jako základna pro vojsko a jeho potřeby. 
+
+
+
+<img src="/assets/images/xativa/xativa12.JPG">
+
+Kromě jiných tudy prošel a dle dokumentů i plánoval tažení legendární kartaginský generál Hannibal, jehož žena, princezna Himilce, mu tu měla dle legendy porodit syna kolem roku 218 před Kristem. O jeho legendárních válečných slonech tu není ale ani zmínka...
+
 <img src="/assets/images/xativa/xativa3.JPG">
+
+Pevnost se tyčí nad městem a ze všech stran je tu úžasný výhled do širokého okolí. 
+
+
 
 <img src="/assets/images/xativa/xativa4.JPG">
 
 <img src="/assets/images/xativa/xativa5.JPG">
 
-<img src="/assets/images/xativa/xativa6.JPG">
+Kromě obou věží se dochovalo i místní vězení, kousek stájí, kaple, i latríny. Respektive díry do latrín, dřevo je novějšího data...
+
+
 
 Xà
 
@@ -33,7 +51,7 @@ Xà
 
 <img src="/assets/images/xativa/xativa9.JPG">
 
-<img src="/assets/images/xativa/xativa12.JPG">
+
 
 <img src="/assets/images/xativa/xativa10.JPG">
 
