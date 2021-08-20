@@ -19,15 +19,17 @@ Pokud si stejně jako já nic z dějepisu nepamatujete, mohlo by vás zajímat, 
 
 <img src="/assets/images/xativa/xativa1.JPG">
 
-Během války o španělské dědictví na počátku 18. století, bylo město obléháno, dobyto, vypáleno a aby toho nebylo málo, i přejmenováno na San Felipe.  Za vše mohl tehdy Filip V. Španělský. Jeho obraz najdete v místním muzeu, kde visí obrácen hlavou dolů jako připomínka, že na panovníkovy činy nikdo v Xàtivě nezapomněl. Ostatně, **kvůli kompletnímu vypálení města se lokálním dosud přezdívá "socarrats", což znamená "grilovaní lidé"**.
+Během války o španělské dědictví na počátku 18. století, bylo město obléháno, dobyto, vypáleno a aby toho nebylo málo, i přejmenováno na San Felipe.  Za vše mohl tehdy Filip V. Španělský. Jeho obraz najdete v místním muzeu, kde visí obrácen hlavou dolů jako připomínka, že na panovníkovi činy nikdo v Xàtivě nezapomněl. Ostatně, **kvůli kompletnímu vypálení města se lokálním dosud přezdívá "socarrats", což znamená "grilovaní lidé"**.
 
 ### Malebnými uličkami až k latrínám
 
-Dostat se k pevnosti je trochu výšlap, ale po asfaltce se po vrstevnicích dostanete do cíle pohodlně a kolena vás z toho bolet nebudou tam ani zpátky (vyzkoušeno za vás). Nebo můžete využít turistický vláček, který projíždí městem. Jen si ho, prosím vás, všimněte dřív, než až se dosápete do cílové rovinky, jako jsme to omylem udělaly my dvě...
-
-<img src="/assets/images/xativa/xativa3.JPG">
+Dostat se k pevnosti je trochu výšlap, ale po asfaltce se po vrstevnicích dostanete do cíle pohodlně a kolena vás z toho bolet nebudou tam ani zpátky (vyzkoušeno za vás). Nejdřív se ale musíte proplést uličkami města, kdy narazíte na místní a jejich kočky a můžete kolikrát obdivovat balkóny osazené tropickou flórou.
 
 <img src="/assets/images/xativa/xativa4.JPG">
+
+Nebo můžete využít turistický vláček, který projíždí městem. Jen si ho, prosím vás, všimněte dřív, než až se dosápete do cílové rovinky, jako jsme to omylem udělaly my dvě...
+
+<img src="/assets/images/xativa/xativa3.JPG">
 
 El Castell de Xàtiva je dvojitá pevnost, jejíž architektonický styl se vyvíjel podle toho, jak a koho sem zavlál čas a bezpočet bitev. Hradní zdi a věže tak nesou známky islámské a gotické architektury, i přesto, že původ pevnosti sahá do iberijských a románských dob.
 
