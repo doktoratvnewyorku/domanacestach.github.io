@@ -11,17 +11,24 @@ Některé výlety vás naučí o místní kultuře víc než jiné. Náš výlet
 
 Zaprvé, Španělé mají na vše spoustu času. Obdivuju je za to tím víc, čím víc času strávím čekáním ve frontě, protože se někdo zapovídal s prodavačkou či paní u přepážky, kde si chcete koupit lístek na vlak, co vám odjel *-mrknu na hodinky-* teď. Stane se.
 
-Zadruhé, Španělé MOC dobře ví, proč se dopoledne a zejména kolem poledne nepohybují během 30 stupňů po rozpáleném městě. Na druhou stranu, vz aspoň víte, kdo je a kdo ve vašem okolí není turista. 
+Zadruhé, Španělé MOC dobře ví, proč se dopoledne a zejména kolem poledne nepohybují během 30 stupňů po rozpáleném městě. My jsme takhle moudré nebyly a i přes snahu se zdržovat co nejvíce ve stínu, nás sluníčko kolikrát dohnalo až tam. Na druhou stranu, ten pocit solidarity s podobnými blázny-turisty, je vlastně docela prima. Ty nechápavé pohledy místních už potěší trochu méně.
 
 <img src="/assets/images/sagunto/1.jpg">
 
+Zatřetí, kdybychom byly znalé místních poměrů, asi by nás nenapadlo si to nakráčet do města, kde je největší atrakcí římský amfiteátr, ruiny Castillo a bezpočet muzeí, v pondělí. V pondělí, stejně jako například ve Švédsku, jsou totiž památky zavřené. 
+
+<img src="/assets/images/sagunto/4.jpg">
+
+Stalo se a tak jsme sice byly ochuzeny o interiér všech výše zmíněných památek, ale zato jsme se zvládly prodrat skry olivovníky a fíkovníky, dostaly se až k ruinám, kam jsme původně vůbec nechtěly (zdály se být vážně vysoko) a zaposlouchaly se do malebného leč hlasitého zpěvu cikád.
+
+### Křížová cesta 
 <img src="/assets/images/sagunto/2.jpg">
 
 <img src="/assets/images/sagunto/3.jpg">
 
-<img src="/assets/images/sagunto/4.jpg">
-
 <img src="/assets/images/sagunto/5.jpg">
+
+
 
 <img src="/assets/images/sagunto/6.jpg">
 
