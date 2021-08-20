@@ -4,8 +4,10 @@ title:  "Sagunto: Po strmých stopách historie rodiny Borgiů"
 author: leni
 categories: [ Španělsko, Evropa, historie ]
 featured: true
-image: assets/images/xativa/xativa7.JPG
+image: assets/images/sagunto/11.jpg
 ---
+
+Některé výlety vás naučí o místní kultuře víc než jiné. Náš výlet do Sagunta se dá rozhodně počítat mezi jeden z takových.
 
 
 
