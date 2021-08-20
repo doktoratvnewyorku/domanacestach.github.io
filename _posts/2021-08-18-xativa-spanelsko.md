@@ -13,13 +13,13 @@ Na nádraží v městečku Xàtiva nás tak přivítal drobný deštík. Nějak 
 
 <img src="/assets/images/xativa/xativa2.JPG">
 
-Poté ale přišla doba reconquisty, kdy se poloostrova ujali křesťané, a Xàtiva se stala kolébkou jedné z nejznámějších španělských renesančních rodin - Borgiů. Pokud si stejně jako já nic z dějepisu nepamatujete, mohlo by vás zajímat, že tahle rodina měla poměrnou nehezkou pověst - upláceli, vyznávali nepotismus, a jejich vláda získala špatnou pověst hlavně kvůli tehdejšímu mravnímu úpadku církve (jeden z Borgiů to dotáhl až na papeže) a úkladným vraždám.
+Poté ale přišla doba reconquisty, kdy se poloostrova ujali křesťané, a Xàtiva se stala kolébkou jedné z nejznámějších španělských renesančních rodin - Borgiů. Pokud si stejně jako já nic z dějepisu nepamatujete, mohlo by vás zajímat, že tahle rodina měla poměrnou nehezkou pověst - upláceli, vyznávali nepotismus, ale špatnou pověst si vysloužili hlavně kvůli tehdejšímu mravnímu úpadku církve (jeden z Borgiů to dotáhl až na papeže) a úkladným vraždám.
 
-Během války o španělské dědictví na počátku 18. století, bylo město obléháno, dobito, vypáleno a aby toho nebylo málo, i přejmenováno na San Felipe.  Za vše mohl tehdy Filip V. Španělský. Jeho obraz najdete v místním muzeu, kde visí obrácen hlavou dolů jako připomínka, že na jeho činy nikdo v Xàtivě nezapomněl. Ostatně, kvůli kompletnímu vypálení města se lokálním dosud přezdívá "socarrats", což znamená "grilovaní lidé".
+Během války o španělské dědictví na počátku 18. století, bylo město obléháno, dobito, vypáleno a aby toho nebylo málo, i přejmenováno na San Felipe.  Za vše mohl tehdy Filip V. Španělský. Jeho obraz najdete v místním muzeu, kde visí obrácen hlavou dolů jako připomínka, že na panovníkovy činy nikdo v Xàtivě nezapomněl. Ostatně, kvůli kompletnímu vypálení města se lokálním dosud přezdívá "socarrats", což znamená "grilovaní lidé".
 
 ### Malebnými uličkami až k latrínám
 
-El Castell de Xàtiva je dvojitá pevnost, jejíž architektonický styl se vyvíjel podle toho, jak a koho sem zavlál čas a historie. Hradní zdi a věže tak nesou známky islámské a gotické architektury, i přesto, že původ pevnosti sahá do iberijských a románských dob.
+El Castell de Xàtiva je dvojitá pevnost, jejíž architektonický styl se vyvíjel podle toho, jak a koho sem zavlál čas a bezpočet bitev. Hradní zdi a věže tak nesou známky islámské a gotické architektury, i přesto, že původ pevnosti sahá do iberijských a románských dob.
 
 <img src="/assets/images/xativa/xativa6.JPG">
 
