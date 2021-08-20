@@ -13,23 +13,25 @@ Na nádraží v městečku Xàtiva nás tak přivítal drobný deštík. Nějak 
 
 <img src="/assets/images/xativa/xativa2.JPG">
 
-Poté ale přišla doba reconquisty, kdy se poloostrova ujali křesťané, a Xàtiva se stala kolébkou jedné z nejznámějších španělských renesančních rodin - Borgiů. Pokud si stejně jako já nic z dějepisu nepamatujete, mohlo by vás zajímat, že tahle rodina měla poměrnou nehezkou pověst - upláceli, vyznávali nepotismus, ale špatnou pověst si vysloužili hlavně kvůli tehdejšímu mravnímu úpadku církve (jeden z Borgiů to dotáhl až na papeže) a úkladným vraždám.
+Poté ale přišla doba reconquisty, kdy se poloostrova ujali křesťané, a Xàtiva se stala kolébkou jedné z **nejznámějších španělských renesančních rodin - Borgiů**.
 
-Během války o španělské dědictví na počátku 18. století, bylo město obléháno, dobito, vypáleno a aby toho nebylo málo, i přejmenováno na San Felipe.  Za vše mohl tehdy Filip V. Španělský. Jeho obraz najdete v místním muzeu, kde visí obrácen hlavou dolů jako připomínka, že na panovníkovy činy nikdo v Xàtivě nezapomněl. Ostatně, kvůli kompletnímu vypálení města se lokálním dosud přezdívá "socarrats", což znamená "grilovaní lidé".
+Pokud si stejně jako já nic z dějepisu nepamatujete, mohlo by vás zajímat, že tahle rodina měla poměrnou nehezkou pověst - upláceli, vyznávali nepotismus, ale špatnou pověst si vysloužili hlavně kvůli tehdejšímu mravnímu úpadku církve (jeden z Borgiů to dotáhl až na papeže) a úkladným vraždám.
+
+Během války o španělské dědictví na počátku 18. století, bylo město obléháno, dobyto, vypáleno a aby toho nebylo málo, i přejmenováno na San Felipe.  Za vše mohl tehdy Filip V. Španělský. Jeho obraz najdete v místním muzeu, kde visí obrácen hlavou dolů jako připomínka, že na panovníkovy činy nikdo v Xàtivě nezapomněl. Ostatně, kvůli kompletnímu vypálení města se lokálním dosud přezdívá "socarrats", což znamená "grilovaní lidé".
 
 ### Malebnými uličkami až k latrínám
 
 El Castell de Xàtiva je dvojitá pevnost, jejíž architektonický styl se vyvíjel podle toho, jak a koho sem zavlál čas a bezpočet bitev. Hradní zdi a věže tak nesou známky islámské a gotické architektury, i přesto, že původ pevnosti sahá do iberijských a románských dob.
 
+Dostat se k pevnosti je trochu výšlap, ale po asfaltce se po vrstevnicích dostanete do cíle pohodlně a kolena vás z toho bolet nebudou tam ani zpátky (vyzkoušeno za vás). Nebo můžete využít turistický vláček, který projíždí městem. Jen si ho, prosím vás, všimněte dřív, než až se dosápete do cílové rovinky, jako jsme to omylem udělaly my dvě...
+
 <img src="/assets/images/xativa/xativa6.JPG">
 
-Navštívit se dají obě části hradu - Castell Menor a Castell Major. Zatímco jeden byl výhradně sídlem královny, druhý sloužil jako základna pro vojsko a jeho potřeby. 
-
-
+Navštívit se dají obě části hradu - Castell Menor a Castell Major. Zatímco jeden byl výhradně sídlem královny, druhý sloužil jako základna pro vojsko a jeho potřeby.
 
 <img src="/assets/images/xativa/xativa12.JPG">
 
-Kromě jiných tudy prošel a dle dokumentů i plánoval tažení legendární kartaginský generál Hannibal, jehož žena, princezna Himilce, mu tu měla dle legendy porodit syna kolem roku 218 před Kristem. O jeho legendárních válečných slonech tu není ale ani zmínka...
+Kromě jiných tudy prošel a svá tažení plánoval kartaginský generál Hannibal, jehož žena, princezna Himilce, mu tu měla dle legendy porodit syna kolem roku 218 před Kristem. O jeho legendárních válečných slonech tu není ale ani zmínka...
 
 <img src="/assets/images/xativa/xativa3.JPG">
 
