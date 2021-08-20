@@ -33,8 +33,6 @@ Dostat se k pevnosti je trochu výšlap, ale po asfaltce se po vrstevnicích dos
 
 Nebo můžete využít turistický vláček, který projíždí městem. Jen si ho, prosím vás, všimněte dřív, než až se dosápete do cílové rovinky, jako jsme to omylem udělaly my dvě...
 
---
-
 **Castell de Xàtiva** je dvojitá pevnost, jejíž architektonický styl se vyvíjel podle toho, jak a koho sem zavlál čas a bezpočet bitev. Hradní zdi a věže tak nesou známky islámské a gotické architektury, i přesto, že původ pevnosti sahá do iberijských a románských dob.
 
 Kromě jiných tudy prošel a svá tažení plánoval kartaginský generál Hannibal, jehož žena, princezna Himilce, mu tu měla dle legendy porodit syna kolem roku 218 před Kristem. O jeho legendárních válečných slonech tu není ale ani zmínka...
