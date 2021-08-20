@@ -17,6 +17,8 @@ Poté ale přišla doba reconquisty, kdy se poloostrova ujali křesťané, a Xà
 
 Pokud si stejně jako já nic z dějepisu nepamatujete, mohlo by vás zajímat, že tahle rodina měla poměrnou nehezkou pověst - upláceli, vyznávali nepotismus, ale špatnou pověst si vysloužili hlavně kvůli tehdejšímu mravnímu úpadku církve (jeden z Borgiů to dotáhl až na papeže) a úkladným vraždám.
 
+<img src="/assets/images/xativa/xativa1.JPG">
+
 Během války o španělské dědictví na počátku 18. století, bylo město obléháno, dobyto, vypáleno a aby toho nebylo málo, i přejmenováno na San Felipe.  Za vše mohl tehdy Filip V. Španělský. Jeho obraz najdete v místním muzeu, kde visí obrácen hlavou dolů jako připomínka, že na panovníkovy činy nikdo v Xàtivě nezapomněl. Ostatně, **kvůli kompletnímu vypálení města se lokálním dosud přezdívá "socarrats", což znamená "grilovaní lidé"**.
 
 ### Malebnými uličkami až k latrínám
@@ -31,7 +33,7 @@ El Castell de Xàtiva je dvojitá pevnost, jejíž architektonický styl se vyv�
 
 <img src="/assets/images/xativa/xativa6.JPG">
 
-Navštívit se dají obě části hradu - Castell Menor a Castell Major. Zatímco jeden byl výhradně sídlem královny, druhý sloužil jako základna pro vojsko a jeho potřeby.
+Navštívit se dají obě části hradu - <a href="https://xativaturismo.com/en/xativa-castle-2/">Castell Menor a Castell Major</a>. Zatímco jeden byl výhradně sídlem královny, druhý sloužil jako základna pro vojsko a jeho potřeby.
 
 <img src="/assets/images/xativa/xativa8.JPG">
 
@@ -56,8 +58,3 @@ Xà
 <img src="/assets/images/xativa/xativa10.JPG">
 
 <img src="/assets/images/xativa/xativa11.JPG">
-
-
-
-
-<img src="/assets/images/xativa/xativa1.JPG">
