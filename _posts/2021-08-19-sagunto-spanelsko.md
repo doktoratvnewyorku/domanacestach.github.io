@@ -15,7 +15,7 @@ Zadruhé, Španělé MOC dobře ví, proč se dopoledne a zejména kolem poledne
 
 <img src="/assets/images/sagunto/1.jpg">
 
-Zatřetí, kdybychom byly znalé místních poměrů, asi by nás nenapadlo si to nakráčet do města, kde je největší atrakcí římský amfiteátr, ruiny Castillo a bezpočet muzeí, v pondělí. V pondělí, stejně jako například ve Švédsku, jsou totiž památky zavřené. 
+Zatřetí, kdybychom byly znalé místních poměrů, asi by nás nenapadlo si to nakráčet do města, kde je největší atrakcí římský amfiteátr, ruiny Castillo a bezpočet muzeí, zrovna v pondělí. V pondělí, stejně jako například ve Švédsku, jsou totiž památky zavřené. 
 
 <img src="/assets/images/sagunto/4.jpg">
 
