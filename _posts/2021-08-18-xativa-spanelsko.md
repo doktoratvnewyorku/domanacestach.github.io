@@ -23,23 +23,23 @@ Během války o španělské dědictví na počátku 18. století, bylo město o
 
 ### Malebnými uličkami až k latrínám
 
-Dostat se k pevnosti je trochu výšlap, ale po asfaltce se po vrstevnicích dostanete do cíle pohodlně a kolena vás z toho bolet nebudou tam ani zpátky (vyzkoušeno za vás). Nejdřív se ale musíte proplést uličkami města, kdy narazíte na místní a jejich kočky a můžete kolikrát obdivovat balkóny osazené tropickou flórou.
+Dostat se k pevnosti je trochu výšlap, ale po asfaltce se po vrstevnicích dostanete do cíle pohodlně a kolena vás z toho bolet nebudou tam ani zpátky (vyzkoušeno za vás). Nejdřív se ale musíte proplést uličkami města, kde narazíte na místní a jejich kočky a můžete kolikrát obdivovat balkóny osazené tropickou flórou.
+
+<img src="/assets/images/xativa/xativa3.JPG">
 
 <img src="/assets/images/xativa/xativa4.JPG">
 
 Nebo můžete využít turistický vláček, který projíždí městem. Jen si ho, prosím vás, všimněte dřív, než až se dosápete do cílové rovinky, jako jsme to omylem udělaly my dvě...
 
-<img src="/assets/images/xativa/xativa3.JPG">
+**Castell de Xàtiva** je dvojitá pevnost, jejíž architektonický styl se vyvíjel podle toho, jak a koho sem zavlál čas a bezpočet bitev. Hradní zdi a věže tak nesou známky islámské a gotické architektury, i přesto, že původ pevnosti sahá do iberijských a románských dob.
 
-El Castell de Xàtiva je dvojitá pevnost, jejíž architektonický styl se vyvíjel podle toho, jak a koho sem zavlál čas a bezpočet bitev. Hradní zdi a věže tak nesou známky islámské a gotické architektury, i přesto, že původ pevnosti sahá do iberijských a románských dob.
+Kromě jiných tudy prošel a svá tažení plánoval kartaginský generál Hannibal, jehož žena, princezna Himilce, mu tu měla dle legendy porodit syna kolem roku 218 před Kristem. O jeho legendárních válečných slonech tu není ale ani zmínka...
 
 <img src="/assets/images/xativa/xativa6.JPG">
 
-Navštívit se dají obě části hradu - <a href="https://xativaturismo.com/en/xativa-castle-2/">Castell Menor a Castell Major</a>. Zatímco jeden byl výhradně sídlem královny, druhý sloužil jako základna pro vojsko a jeho potřeby.
+Navštívit se za drobný poplatek 6€ dají obě části hradu - <a href="https://xativaturismo.com/en/xativa-castle-2/">Castell Menor a Castell Major</a>. Zatímco jeden byl výhradně sídlem královny, druhý sloužil jako základna pro vojsko a jeho potřeby.
 
 <img src="/assets/images/xativa/xativa8.JPG">
-
-Kromě jiných tudy prošel a svá tažení plánoval kartaginský generál Hannibal, jehož žena, princezna Himilce, mu tu měla dle legendy porodit syna kolem roku 218 před Kristem. O jeho legendárních válečných slonech tu není ale ani zmínka...
 
 <img src="/assets/images/xativa/xativa12.JPG">
 
@@ -48,14 +48,6 @@ Pevnost se tyčí nad městem a ze všech stran je tu úžasný výhled do širo
 <img src="/assets/images/xativa/xativa9.JPG">
 
 Kromě obou věží se dochovalo i místní vězení, kousek stájí, kaple, a to, co každý hradní obyvatel potřebuje nejvíce - latríny. Respektive díry do latrín, dřevo je, hádám, novějšího data...
-
-Xà
-
-
-
-
-
-
 
 <img src="/assets/images/xativa/xativa10.JPG">
 
