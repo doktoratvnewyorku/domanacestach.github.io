@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Po strmých stopách historie rodiny Borgiů"
+title:  "Xàtiva: Po strmých stopách historie rodiny Borgiů"
 author: leni
 categories: [ Španělsko, Evropa, historie ]
 featured: true
