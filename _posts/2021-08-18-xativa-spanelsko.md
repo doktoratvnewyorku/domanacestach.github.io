@@ -17,7 +17,7 @@ Poté ale přišla doba reconquisty, kdy se poloostrova ujali křesťané, a Xà
 
 Pokud si stejně jako já nic z dějepisu nepamatujete, mohlo by vás zajímat, že tahle rodina měla poměrnou nehezkou pověst - upláceli, vyznávali nepotismus, ale špatnou pověst si vysloužili hlavně kvůli tehdejšímu mravnímu úpadku církve (jeden z Borgiů to dotáhl až na papeže) a úkladným vraždám.
 
-Během války o španělské dědictví na počátku 18. století, bylo město obléháno, dobyto, vypáleno a aby toho nebylo málo, i přejmenováno na San Felipe.  Za vše mohl tehdy Filip V. Španělský. Jeho obraz najdete v místním muzeu, kde visí obrácen hlavou dolů jako připomínka, že na panovníkovy činy nikdo v Xàtivě nezapomněl. Ostatně, kvůli kompletnímu vypálení města se lokálním dosud přezdívá "socarrats", což znamená "grilovaní lidé".
+Během války o španělské dědictví na počátku 18. století, bylo město obléháno, dobyto, vypáleno a aby toho nebylo málo, i přejmenováno na San Felipe.  Za vše mohl tehdy Filip V. Španělský. Jeho obraz najdete v místním muzeu, kde visí obrácen hlavou dolů jako připomínka, že na panovníkovy činy nikdo v Xàtivě nezapomněl. Ostatně, **kvůli kompletnímu vypálení města se lokálním dosud přezdívá "socarrats", což znamená "grilovaní lidé"**.
 
 ### Malebnými uličkami až k latrínám
 
