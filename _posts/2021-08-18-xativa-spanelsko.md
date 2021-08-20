@@ -7,7 +7,7 @@ image: assets/images/xativa/xativa7.JPG
 ---
 Pohybujete-li se po Španělsku v srpnu a ještě ke všemu kolem týdne, kteří tu místní pamatují jako jeden z nejteplejších za posledních pár let, jste rádi, když vám na výlet prší. A jste dvakrát tak rádi, když se vydáte do míst, kde je hlavní turistickou atrakcí hrad tyčící se na kopci. 
 
-Na nádraží v městečku Xàtiva nás tak přivítal drobný deštík. Nějak jsme si ho za celých 40 minut cesty vlakem z Valencie nevšimly. Po předchozím výletu do Sagunta, kdy nás slunce doprovázelo i ve stínu, jsme to s A., která mi tu dělala společnost zatímco Amík trénuje basketbal, ale celkem s povděkem přivítaly.
+Na nádraží v městečku Xàtiva nás tak přivítal drobný deštík. Nějak jsme si ho za celých 40 minut cesty vlakem z Valencie nevšimly. Po předchozím výletu do Sagunta, kdy nás slunce doprovázelo i ve stínu, jsme to s A., která mi tu dělala společnost zatímco můj Amík trénuje basketbal, ale celkem s povděkem přivítaly.
 
 Xàtivu najdete na východě Španělska asi 25 km od pobřeží Středozemního moře. Během středověku se tu pohybovali muslimové a Xàtiva z toho benefitovala hned několika způsoby. Arabové sem přivezli technologii výroby papíru a ve 12. století byla lokalita známá svými školami a vzdělanci.
 
@@ -17,9 +17,9 @@ Poté ale přišla doba reconquisty, kdy se poloostrova ujali křesťané, a Xà
 
 V roce 2011 o téhle povedené rodince vznikl dokonce i seriál s Jeremy Ironsem.
 
-
-## Reference lists
 <img src="/assets/images/xativa/xativa1.JPG">
+
+### Malebnými uličkami až na hrad
 
 <img src="/assets/images/xativa/xativa3.JPG">
 <img src="/assets/images/xativa/xativa4.JPG">
