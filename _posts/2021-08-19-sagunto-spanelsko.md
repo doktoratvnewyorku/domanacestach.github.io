@@ -25,7 +25,7 @@ Stalo se a tak jsme sice byly ochuzeny o interiér všech výše zmíněných pa
 
 ### Křížová cesta 
 
-Při bloumání městem jsme tak narazily na místní *calvario*, což je cik cak se do kopce linoucí stezka vedoucí k malému kostelíku. Zastávky podél ní jsou pak jednotlivé fáze křížové cesty. Tohle místo se vymyká svému okolí hlavně tím, že je celé natřené bílou barvou, takže za letního slunka září do dalekého okolí.
+Při bloumání městem jsme tak narazily na místní *calvario*, což je cik cak se do kopce linoucí stezka vedoucí k malému kostelíku. Zastávky podél ní značí jednotlivé fáze Ježíšovy křížové cesty. Tohle místo se vymyká svému okolí hlavně tím, že je celé natřené bílou barvou, takže za letního slunka září do dálky.
 
 <img src="/assets/images/sagunto/2.jpg">
 
@@ -33,19 +33,13 @@ Při bloumání městem jsme tak narazily na místní *calvario*, což je cik ca
 
 <img src="/assets/images/sagunto/5.jpg">
 
-
-
-
-
-<img src="/assets/images/sagunto/8.jpg">
-
-<img src="/assets/images/sagunto/9.jpg">
+Co mě zaujalo v Saguntu jsou nádherně rozkvetlé ibišky, na které narazíte během procházky starým městem a částečně i židovskou čtvrtí. Ta je dalším z mnoha částí města, které můžete zvládnout projít i přesto, že je všude jinde zavřeno.
 
 <img src="/assets/images/sagunto/10.jpg">
 
-<img src="/assets/images/sagunto/12.jpg">
-
 <img src="/assets/images/sagunto/1.jpg">
+
+<img src="/assets/images/sagunto/12.jpg">
 
 ### Na kolik to přijde
 Zpáteční cesta z Valencie z Nord Station vlakem do Sagunta přijde na cca 8€.
