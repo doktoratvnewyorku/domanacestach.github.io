@@ -41,7 +41,7 @@ Co mě zaujalo v Saguntu jsou nádherně **rozkvetlé ibišky**, na které naraz
 
 <img src="/assets/images/sagunto/12.jpg">
 
-### Na kolik to přijde
+### Pár tipů na konec
 Zpáteční cesta z Valencie z Nord Station vlakem do Sagunta přijde na cca 8€. Oběd si pořídíte do 10€, pokud sejdete níž pod židovskou čtvrť. Čím blíž jste totiž k historickým památkám, tím větší je pravděpodobnost, že narazíte na dražší restaurace a podniky číhající na neznalé turisty. 
 
 Pokud chcete ale vyzkoušet <a href="https://www.restaurantarrels.com/">španělskou Michelin restauraci, i tu v Saguntu najdete</a>.
