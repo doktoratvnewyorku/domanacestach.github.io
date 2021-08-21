@@ -21,6 +21,10 @@ Zatřetí, kdybychom byly znalé místních poměrů, asi by nás nenapadlo si t
 
 Stalo se a tak jsme sice byly ochuzeny o interiér všech výše zmíněných památek, ale zato jsme se zvládly prodrat skry olivovníky a fíkovníky, dostaly se až k ruinám, kam jsme původně vůbec nechtěly (zdály se být vážně vysoko na kopci) a cestou jsme se zaposlouchávaly se do malebného leč hlasitého zpěvu cikád.
 
+<img src="/assets/images/sagunto/6.jpg">
+
+<img src="/assets/images/sagunto/7.jpg">
+
 ### Křížová cesta 
 <img src="/assets/images/sagunto/2.jpg">
 
@@ -30,9 +34,7 @@ Stalo se a tak jsme sice byly ochuzeny o interiér všech výše zmíněných pa
 
 
 
-<img src="/assets/images/sagunto/6.jpg">
 
-<img src="/assets/images/sagunto/7.jpg">
 
 <img src="/assets/images/sagunto/8.jpg">
 
