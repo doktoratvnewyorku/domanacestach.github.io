@@ -24,6 +24,9 @@ Stalo se a tak jsme sice byly ochuzeny o interiér všech výše zmíněných pa
 <img src="/assets/images/sagunto/7.jpg">
 
 ### Křížová cesta 
+
+Při bloumání městem jsme tak narazily na místní *calvario*, což je cik cak se do kopce linoucí stezka vedoucí k malému kostelíku. Zastávky podél ní jsou pak jednotlivé fáze křížové cesty. Tohle místo se vymyká svému okolí hlavně tím, že je celé natřené bílou barvou, takže za letního slunka září do dalekého okolí.
+
 <img src="/assets/images/sagunto/2.jpg">
 
 <img src="/assets/images/sagunto/3.jpg">
