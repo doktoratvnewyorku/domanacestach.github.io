@@ -33,7 +33,7 @@ Při bloumání městem jsme tak narazily na místní *calvario*, což je cik ca
 
 <img src="/assets/images/sagunto/5.jpg">
 
-Co mě zaujalo v Saguntu jsou nádherně ****rozkvetlé ibišky, na které narazítetéměř všue během procházky starým městem a částečně i židovskou čtvrtí. Ta je dalším z mnoha částí města, které můžete zvládnout projít i přesto, že je všude jinde zavřeno.
+Co mě zaujalo v Saguntu jsou nádherně **rozkvetlé ibišky**, na které narazítetéměř všue během procházky starým městem a částečně i židovskou čtvrtí. Ta je dalším z mnoha částí města, které můžete zvládnout projít i přesto, že je všude jinde zavřeno.
 
 <img src="/assets/images/sagunto/10.jpg">
 
