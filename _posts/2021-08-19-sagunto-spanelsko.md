@@ -15,8 +15,6 @@ Zadruhé, Španělé MOC dobře ví, proč se dopoledne a zejména kolem poledne
 
 Zatřetí, kdybychom byly znalé místních poměrů, asi by nás nenapadlo si to nakráčet do města, kde je největší atrakcí římský amfiteátr, ruiny Castillo a bezpočet muzeí, zrovna v pondělí. V pondělí, stejně jako například ve Švédsku, jsou totiž památky ve Španělsku zavřené. 
 
-<img src="/assets/images/sagunto/1.jpg">
-
 <img src="/assets/images/sagunto/4.jpg">
 
 Stalo se a tak jsme sice byly ochuzeny o interiér všech výše zmíněných památek, ale zato jsme se zvládly prodrat skry olivovníky a fíkovníky, dostaly se až k ruinám, kam jsme původně vůbec nechtěly (zdály se být vážně vysoko na kopci) a cestou jsme se zaposlouchávaly se do malebného leč hlasitého zpěvu cikád.
@@ -44,6 +42,7 @@ Stalo se a tak jsme sice byly ochuzeny o interiér všech výše zmíněných pa
 
 <img src="/assets/images/sagunto/12.jpg">
 
+<img src="/assets/images/sagunto/1.jpg">
 
 ### Na kolik to přijde
 Zpáteční cesta z Valencie z Nord Station vlakem do Sagunta přijde na cca 8€.
