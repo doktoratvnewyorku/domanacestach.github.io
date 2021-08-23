@@ -3,7 +3,6 @@ layout: post
 title:  "Sagunto: Kde pondělí znamená zítra"
 author: leni
 categories: [ Španělsko, Evropa, historie ]
-featured: true
 image: assets/images/sagunto/11.jpg
 ---
 
