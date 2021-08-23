@@ -13,8 +13,6 @@ Kempování nikdy můj koníček nebyl. Myslím, že jsem to omylem absolvovala 
 
 Ani podobné projevy a varování toho mého neodradili, takže jsme nakonec pár dnů před odjezdem do Evropy razili směr Adirondacks.
 
-<img src="/assets/images/adirondacks/1.jpg">
-
 <img src="/assets/images/adirondacks/2.jpg">
 
 <img src="/assets/images/adirondacks/3.jpg">
