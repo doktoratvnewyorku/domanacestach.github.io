@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adirondacks: Jak vyzrát na medvědy
+title:  "Adirondacks: Jak jsme vyzráli na medvědy"
 author: leni
 categories: [ New York, USA, příroda, historie ]
 featured: true
