@@ -1,29 +1,18 @@
 ---
 layout: post
-title:  "Adirondacks: Jak jsme vyzráli na medvědy"
+title:  "Podzimní sezóna"
 author: leni
-categories: [ New York, USA, příroda, historie ]
+categories: [ New York, USA, univerzita]
 featured: true
-image: assets/images/adirondacks/10.jpg
+image: assets/images/podzim2021/podzim2.JPG
 ---
 
-To takhle Amík zkraje covidového jara přišel, že bychom si měli udělat výlet do Adirondacks pod stan. Vyhneme se lidem, dostaneme se mimo čtyři stěny našich bytů, a zrelaxujeme se v zeleni u jezera. Zapomněl dodat, že s medvědy.
+Univerzitní kampus ovládly Ugg boty a nový trend tzv. quilted jackets a shirtlets, které spíš sluší, než by měly kapacity odehnat tradičně vlezlý a nepředvídatelný newyorský podzim. Babí léto tu trvá půl dne, pak se všechno zatáhne a shůry vám pošlou všechno, co jim zbylo. Posledně to byla směs krup s deštěm, s přídatkem sněhu. Že byla půlka října? Nevadí! Jindy se to otočí a budíte se do těžce propršeného dne, kdy leje a leje a leje až nevíte, jestli si nemáte na dvorku začít stavět malou archu. Na sníh zatím čekáme, ale určitě ne s takovou radostí jako Lorelai Gilmore.
 
-Kempování nikdy můj koníček nebyl. Myslím, že jsem to omylem absolvovala během dospívání jen párkrát a většinou si z toho odvezla nějakou nemoc, tudíž nechuť jet znova. Pravda, trochu jsem záviděla kamarádům tu soudružnost s ostatními stanovníky. Ale taky jsem dost záhy pochopila, že tíhnu víc k introvertění si někde bokem od lidí a v pohodlí kavárny, takže bych asi nebyla úplně nejzábavnější společník pod stan.
+<img src="assets/images/podzim2021/podzim1.JPG">
 
-Ani podobné projevy a varování toho mého neodradili, takže jsme nakonec pár dnů před odjezdem do Evropy razili směr Adirondacks.
+Počasí v Central New York má vlastní charakter a kdyby se tu točil film, mělo by vlastní repliky a možná i obytný trailer. Ostatně, filmaři to tu mají rádi a ne jen pro počasí. Oba dva díly hororu A Quiet Place se točily na různých lokacích v okolí, víc na sever v Buffalu najdete plnohodnotné studio Buffalo Filmworks, a ve "vesnici" vedle Syracuse se co rok natočí nový film pro Hulu s tématikou střední školy. Navíc to tu má strašně rád momentálně novinami (právem) propíraný Alec Baldwin, a to i přes důvody. Syracuse není metropole a jestli pandemie něco odhalila, jsou to jejich jisté nedostatky, co se týče zábavy a "things to do around here".  Ne nadarmo se naší části New Yorku přezdívá Upstate Hollywood. 
 
-<img src="/assets/images/adirondacks/2.jpg">
+Kdyby se tu někdy (zase) točil film jako A Quiet Place, 
 
-<img src="/assets/images/adirondacks/3.jpg">
-
-<img src="/assets/images/adirondacks/4.jpg">
-
-<img src="/assets/images/adirondacks/5.jpg">
-
-<img src="/assets/images/adirondacks/6.jpg">
-
-<img src="/assets/images/adirondacks/7.jpg">
-
-<img src="/assets/images/adirondacks/8.jpg">
-
+A neb na kampus chodím tak dvakrát do týdne, nemůžu se ani rovzpomenout, jestli už byla nebo teprve bude Han Solo season. 
