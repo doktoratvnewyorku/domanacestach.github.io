@@ -22,4 +22,4 @@ Kampusové dění je ale mnohem klidnější než hollywoodská kariéra genia l
 Jen občas tak dumám po dlouhých zimních večerech, když s přítelem skládáme puzzle, jestli moje pandemická asociálnost někdy odezní a nebo se bude jen prohlubovat. Lidi mám většinou ráda, jen teď se nějak stalo, že je můžu jen v omezeném množství a to ještě spíš jen své oblíbence. A čím víc času trávíme v tomhle projektově nezvládnutém globálním zdravotním projektu aka COVID pandemii, tím míň se mi chce trávit čas s lidmi, co mě nebaví nebo mě vyloženě prudí. Děláš drama? Nashledanou. Budeš se se mnou hádat o antivax konspiracích? Nazdar. 
 
 
- 
+ P.S. Kdybyste si chtěli udělat vánoční radost, <a href="https://theoodie.com/products/the-oodie-original-slipper-boots-unicorn">Ugg botky můžete teď sehnat i s jednorožčím potiskem</a>.
