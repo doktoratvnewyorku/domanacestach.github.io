@@ -1,12 +1,12 @@
 # Site
 name: "Doma na cestách"
 title: "Doma na cestách"
-description: "Poznámky a postřehy z cest, kde jsme doma"
+description: "Poznámky a postřehy z cest, kde jsem doma"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 google_analytics: 'UA-78443890-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# disqus: 'demowebsite'
+# mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
