@@ -526,7 +526,7 @@ ul.tags li a:hover {
 
 .btn.follow {
     border-color: #b6000;
-    color: #b5ca39;
+    color: #b60000;
     padding: 3px 10px;
     text-align: center;
     border-radius: 999em;
@@ -581,8 +581,8 @@ ul.tags li a:hover {
 }
 
 .alertbar input[type="submit"] {
-    background-color: #b5ca39;
-    border: 1px solid #b5ca39;
+    background-color: #b6000;
+    border: 1px solid #b60000;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     font-size: 0.85rem;
