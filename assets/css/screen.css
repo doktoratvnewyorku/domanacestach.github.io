@@ -525,7 +525,7 @@ ul.tags li a:hover {
 }
 
 .btn.follow {
-    border-color: #b6000;
+    border-color: #b60000;
     color: #b60000;
     padding: 3px 10px;
     text-align: center;
@@ -535,8 +535,8 @@ ul.tags li a:hover {
 }
 
 .btn.subscribe {
-    background-color: #b6000;
-    border-color: #b6000;
+    background-color: #b60000;
+    border-color: #b60000;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     border-radius: 30px;
@@ -581,7 +581,7 @@ ul.tags li a:hover {
 }
 
 .alertbar input[type="submit"] {
-    background-color: #b6000;
+    background-color: #b60000;
     border: 1px solid #b60000;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
