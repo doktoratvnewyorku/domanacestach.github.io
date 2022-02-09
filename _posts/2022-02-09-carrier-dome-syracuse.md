@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Podzimní kampusová sezóna"
+title:  "Dome"
 author: leni
 categories: [ New York, USA, univerzita]
 featured: true
-image: assets/images/podzim2021/podzim2.jpg
+image: assets/images/dome/featured-dome.png
 ---
 Slíbila jsem článek o našem stadionu a tady je. 
 
