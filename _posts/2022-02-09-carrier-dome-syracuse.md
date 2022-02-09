@@ -25,9 +25,6 @@ O americkém fotbalu toho tolik nevím, ostatně pravidla jsou pro mě stále ta
 
 Pak se děje tohle:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o0VshMUDHCg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/o0VshMUDHCg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-<img src="/assets/images/podzim2021/podzim3.jpg">
-*Drobný výsek z rostoucího seznamu čtiva...*
 
