@@ -27,4 +27,7 @@ Pak se děje tohle:
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/o0VshMUDHCg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+A takhle vypadá nástup domácího týmu (počkejte si hlavně na 0:53 a dál):
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/VnWBCwpg6_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
