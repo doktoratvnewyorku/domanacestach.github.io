@@ -35,9 +35,9 @@ O americkém fotbalu toho tolik nevím, ostatně pravidla jsou pro mě stále ta
 
 Univerzitní sezóna amerického fotbalu běží od srpna do prosince. Týmy, stejně jako v jiném sportu objíždějí zápasy, které hostí jejich protivníci, a většinou jich je několik v řadě. Jednou za sezónu se odehraje tzv. homecoming zápas. Ten se koná většinou po nejdelším výjezdu domácího týmu mimo kampus. Homecoming je tak první zápas po takovém výjezdu, kdy se domácí vrací domů (proto ten "homecoming") a soupeř je většinou papírově mnohem horší, aby ten návrat sklidil od všech slávu a potlesk. 
 
-V den zápasu se na kampusu roztáhnou party a VIP stany s občerstvením, přijedou foodtrucky s hot dogy, burgery a pivem, školní kapela hraje pro zábavu všech a všechno se připravuje na 2 hodiny fandění. Na homecoming se zvou všichni absolventi, přátelé školy a rodiny studentů. Celý týden před zápasem se na kampusu děje něco spojené s homecoming. Zápas se pak koná o víkendu, univerzita přichystá program pro alumni a i cena lístků na zápas je pro ně přívětivější. Proto taky ta "fun zone", stany s jídlem a pitím a doprovodný program.
-
 <img src="/assets/images/dome/band.jpg">
+
+V den zápasu se na kampusu roztáhnou party a VIP stany s občerstvením, přijedou foodtrucky s hot dogy, burgery a pivem, školní kapela hraje pro zábavu všech a všechno se připravuje na 2 hodiny fandění. Na homecoming se zvou všichni absolventi, přátelé školy a rodiny studentů. Celý týden před zápasem se na kampusu děje něco spojené s homecoming. Zápas se pak koná o víkendu, univerzita přichystá program pro alumni a i cena lístků na zápas je pro ně přívětivější. Proto taky ta "fun zone", stany s jídlem a pitím a doprovodný program.
 
 Když se pak dostanete do samotného stadionu děje se tam zhruba tohle:
 
@@ -49,18 +49,15 @@ A takhle vypadá nástup domácího týmu (počkejte si hlavně na 0:53 a dál):
 
 ### Pár zajímavostí na konec
 
-#### Není homecoming jako homecoming
+**Není homecoming jako homecoming**
 Homecoming, který možná znáte z amerických <a href="https://thedailynighthawk.com/803/arts-entertainment/homecoming-movies/">filmů, kde se volí král a královna plesu</a>, není tenhle univerzitní, ale středoškolský. V principu to ale funguje stejně :) 
 
-#### Americká hymna
-Na každém, opakuji každém, zápasu se před jeho začátkem hraje americká hymna. Je jedno, jestli je to jen malý exhibiční zápas, nebo velká paráda. Je jedno, který sport se hraje. Hymna zazní vždycky a hezky, jak znáte z filmů, s rukou na srdci.
+**Americká hymna**
+Na každém, opakuji každém, zápasu se před jeho začátkem hraje americká hymna. Je jedno, jestli je to jen malý exhibiční zápas, nebo velká paráda. Hymnu často ji zpívá někdo z univerzitního sboru nebo místního pěveckého oboru. Je jedno, který sport se hraje. Hymna zazní vždycky a hezky, jak znáte z filmů, s rukou na srdci. Všimla jsem si už ale i lidí, co si drží oblast v místech, kde jsou játra, ale neodvažuju se hádat proč...
 
-Všimla jsem si už ale i lidí, co si drží oblast v místech, kde jsou játra, ale neodvažuju se hádat proč. Hymnu často ji zpívá někdo z univerzitního sboru nebo z pěveckého oboru, který na škole je. 
-
-#### Předcházení nehodám z opilosti
+**Předcházení nehodám z opilosti**
 Kapacita našeho Carrier Dome je 50 000 lidí. Na zápasy většinou sjíždí celé město a na stadionu se dá koupit pivo. Pořadatelé se proto snaží celkem předvídavým způsobem předcházet pozápasovým silničním nehodám způsobené opilými řidiči. Alkohol si koupíte jen do půlky hry, pak se z repráků ozve, že bar zavírá, popřejí vám, ať zodpovědně řídíte, a po zbytek hry jste na suchu. 
-
-P.S. Té velké věci uprostřed stropu, se říká jumbotron. A ten náš je vážně jumbo. Konec flexení.
 
 <img src="/assets/images/dome/jumbotron.jpg">
 
+P.S. Té velké věci uprostřed stropu, se říká jumbotron. A ten náš je vážně jumbo. Konec flexu.
