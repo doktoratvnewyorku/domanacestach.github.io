@@ -24,9 +24,7 @@ Basketbal je u nás takový fenomén, že se basketbalistům absolventům přezd
 
 Zajímavostí je, že až do června loňského roku sportovci nemohli kapitalizovat na svém vlastní jménu a nesměli figurovat v reklamách, o sponzoringu nemluvě. Loni v létě se ale <a href="https://www.ncaa.org/">NCAA</a>, což je organizace zastřešující všechny univerzitní týmy a sportovce v USA uvolila, že regule změní.
 
-Basketbalová univerzitní sezóna tu začíná v listopadu a trvá až do března. Od března až do cca půlky dubna se tu pak odehrává turnaj mezi týmy z tzv. první divize (D1). Tomu se tu přezdívá March Madness a zápasy se už nehrají jen na univerzitních kampusech, ale probíhají na velkých stadionech různě po státech. Letošní finále tak bude v New Orleans, v superdómu, který si možná ještě pamatujete ze záběrů, když na město uhodil hurikán Katrina.
-
-<img src="/assets/images/dome/marchmadness.PNG">
+Basketbalová univerzitní sezóna tu začíná v listopadu a trvá až do března. Od března až do cca půlky dubna se tu pak odehrává turnaj mezi týmy z tzv. první divize (D1). Tomu se tu přezdívá **March Madness** a zápasy se už nehrají jen na univerzitních kampusech, ale probíhají na velkých stadionech různě po státech. Stejně jako celou sezónu, i tyhle zápasy přednáší televize. Letošní finále tak bude v New Orleans, v superdómu, který si možná ještě pamatujete ze záběrů, když na město uhodil hurikán Katrina.
 
 ### Homecoming amerického fotbalu
 O americkém fotbalu toho tolik nevím, ostatně pravidla jsou pro mě stále tak trochu záhadou, ale je to neskutečná podívaná se spoustou parády ještě před samotným zápasem. Aspoň tedy pokud se jedná o tzv. **homecoming game**.
