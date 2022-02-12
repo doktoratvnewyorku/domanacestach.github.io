@@ -24,7 +24,7 @@ Basketbal je u nás takový fenomén, že se basketbalistům absolventům přezd
 
 Zajímavostí je, že až do června loňského roku sportovci nemohli kapitalizovat na svém vlastní jménu a nesměli figurovat v reklamách, o sponzoringu nemluvě. Loni v létě se ale <a href="https://www.ncaa.org/">NCAA</a>, což je organizace zastřešující všechny univerzitní týmy a sportovce v USA uvolila, že regule změní.
 
-Basketbalová univerzitní sezóna tu začíná v listopadu a trvá až do března. Od března až do cca půlky dubna se tu pak odehrává turnaj mezi týmy z tzv. první divize (D1). Tomu se tu přezdívá **March Madness** a zápasy se už nehrají jen na univerzitních kampusech, ale probíhají na velkých stadionech různě po státech. Stejně jako celou sezónu, i tyhle zápasy přednáší televize. Letošní finále tak bude v New Orleans, v superdómu, který si možná ještě pamatujete ze záběrů, když na město uhodil hurikán Katrina.
+Basketbalová univerzitní sezóna tu začíná v listopadu a trvá až do března. Od března až do cca půlky dubna se tu pak odehrává turnaj mezi týmy z tzv. první divize (D1). Tomu se tu přezdívá **March Madness** a zápasy se už nehrají jen na univerzitních kampusech, ale probíhají na velkých stadionech různě po státech. Stejně jako celou sezónu, i tyhle zápasy přenáší televize. Letošní finále tak bude v New Orleans, v superdómu, který si možná ještě pamatujete ze záběrů, když na město uhodil hurikán Katrina.
 
 ### Homecoming amerického fotbalu
 O americkém fotbalu toho tolik nevím, ostatně pravidla jsou pro mě stále tak trochu záhadou, ale je to neskutečná podívaná se spoustou parády ještě před samotným zápasem. Aspoň tedy pokud se jedná o tzv. **homecoming game**.
@@ -51,10 +51,10 @@ A takhle vypadá nástup domácího týmu (počkejte si hlavně na 0:53 a dál):
 Homecoming, který možná znáte z amerických <a href="https://thedailynighthawk.com/803/arts-entertainment/homecoming-movies/">filmů, kde se volí král a královna plesu</a>, není tenhle univerzitní, ale středoškolský. V principu to ale funguje stejně :) 
 
 #### Americká hymna
-Na každém, opakuji každém, zápasu se před jeho začátkem hraje americká hymna. Je jedno, jestli je to jen malý exhibiční zápas, nebo velká paráda. Hymnu často ji zpívá někdo z univerzitního sboru nebo místního pěveckého oboru. Je jedno, který sport se hraje. Hymna zazní vždycky a hezky, jak znáte z filmů, s rukou na srdci. Všimla jsem si už ale i lidí, co si drží oblast v místech, kde jsou játra, ale neodvažuju se hádat proč...
+Na každém, opakuji každém, zápasu se před jeho začátkem hraje americká hymna. Je jedno, jestli je to jen malý exhibiční zápas nebo velká paráda. Hymnu často zpívá někdo z univerzitního sboru nebo místního pěveckého oboru. Je jedno, který sport se hraje. Hymna zazní vždycky a hezky, jak znáte z filmů, s rukou na srdci. Všimla jsem si už ale i lidí, co si drží oblast v místech, kde jsou játra, ale neodvažuju se hádat proč...
 
 #### Předcházení nehodám z opilosti
-Kapacita našeho Carrier Dome je 50 000 lidí, byť se ne vždy naplní. Na zápasy se většinou sjíždí celé město a na stadionu se dá koupit pivo. Pořadatelé se proto snaží celkem předvídavým způsobem předcházet pozápasovým silničním nehodám způsobené opilými řidiči. Alkohol si koupíte jen do půlky hry, pak se z repráků ozve, že bar zavírá, popřejí vám, ať zodpovědně řídíte, a po zbytek hry jste na suchu. 
+Kapacita našeho Carrier Dome je 50 000 lidí, byť se ne vždy naplní. Na zápasy se většinou sjíždí celé město a na stadionu se dá koupit pivo. Pořadatelé se proto snaží celkem předvídavým způsobem předcházet pozápasovým silničním nehodám způsobených opilými řidiči. Alkohol si koupíte jen do půlky hry, pak se z repráků ozve, že bar zavírá, popřejí vám, ať zodpovědně řídíte, a po zbytek hry jste na suchu. 
 
 <img src="/assets/images/dome/jumbotron.jpg">
 
