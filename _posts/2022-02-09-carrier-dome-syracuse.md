@@ -29,23 +29,27 @@ Basketbalová univerzitní sezóna tu začíná v listopadu a trvá až do břez
 <img src="/assets/images/dome/marchmadness.PNG">
 
 ### Homecoming amerického fotbalu
-O americkém fotbalu toho tolik nevím, ostatně pravidla jsou pro mě stále tak trochu záhadou, ale je to neskutečná podívaná se spoustou parády ještě před samotným zápasem. Aspoň tedy na univerzitním kampusu.
+O americkém fotbalu toho tolik nevím, ostatně pravidla jsou pro mě stále tak trochu záhadou, ale je to neskutečná podívaná se spoustou parády ještě před samotným zápasem. Aspoň tedy pokud se jedná o tzv. homecoming game.
 
 <img src="/assets/images/dome/funzone.jpg">
 
-Na kampusu se roztáhnou party a VIP stany s občerstvením, přijedou foodtrucky s hot dogy, burgery a pivem, školní kapela hraje pro zábavu všech a všechno se připravuje na 3 hodiny fandění. Jednou za sezónu se odehraje tzv. homecoming zápas. Ten se koná většinou po nejdelším výjezdu domácího týmu mimo kampus. Univerzitní týmy, stejně jako v jiném sportu objíždějí zápasy, které hostí jejich protivníci, a většinou jich je několik v řadě. Homecoming je tak první zápas po takovém výjezdu.
+Univerzitní sezóna amerického fotbalu běží od srpna do prosince. Týmy, stejně jako v jiném sportu objíždějí zápasy, které hostí jejich protivníci, a většinou jich je několik v řadě. Jednou za sezónu se odehraje tzv. homecoming zápas. Ten se koná většinou po nejdelším výjezdu domácího týmu mimo kampus. Homecoming je tak první zápas po takovém výjezdu, kdy se domácí vrací domů (proto ten "homecoming") a soupeř je většinou papírově mnohem horší tým, aby ten návrat domů nebolel a domácí tým sklidil od všech slávu a potlesk.
+
+V den zápasu se na kampusu roztáhnou party a VIP stany s občerstvením, přijedou foodtrucky s hot dogy, burgery a pivem, školní kapela hraje pro zábavu všech a všechno se připravuje na 3 hodiny fandění. 
 
 <img src="/assets/images/dome/band.jpg">
 
-Na homecoming se zvou všichni absolventi, přátelé školy a rodiny studentů. Zápas se většinou koná o víkendu, univerzita přichystá program pro alumni a i cena lístků na zápas je pro ně přívětivější. Proto taky ta "fun zone", stany s jídlem a pitím a doprovodný program. 
+Na homecoming se zvou všichni absolventi, přátelé školy a rodiny studentů. Celý týden před zápasem se na kampusu děje něco spojené s homecoming. Zápas se pak koná o víkendu, univerzita přichystá program pro alumni a i cena lístků na zápas je pro ně přívětivější. Proto taky ta "fun zone", stany s jídlem a pitím a doprovodný program.
 
-P.S. Homecoming, který možná znáte z teenage filmů
+P.S. Homecoming, který možná znáte z teenage filmů a kde se volí homecoming král a královna, není tenhle univerzitní, ale středoškolský. V principu to ale funguje stejně.
 
-Pak se děje tohle:
+Když se pak dostanete do samotného stadionu děje se tam zhruba tohle:
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/o0VshMUDHCg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A takhle vypadá nástup domácího týmu (počkejte si hlavně na 0:53 a dál):
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/VnWBCwpg6_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Malá zajímavost na okraj: Na každém, opakuji každém, zápasu se před jeho začátkem hraje americká hymna. Je jedno, jestli je to jen malý exhibiční zápas, nebo velká paráda. Hymna zazní vždycky a hezky, jak znáte z filmů, s rukou na srdci. Všimla jsem si už ale i lidí, co si drží oblast v místech, kde jsou játra, ale neodvažuju se hádat proč. Hymnu často ji zpívá někdo z univerzitního sboru nebo z pěveckého oboru, který na škole je. 
 
