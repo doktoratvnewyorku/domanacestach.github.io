@@ -33,7 +33,13 @@ O americkém fotbalu toho tolik nevím, ostatně pravidla jsou pro mě stále ta
 
 <img src="/assets/images/dome/funzone.jpg">
 
-Na kampusu se roztáhnou party a VIP stany s občerstvením, přijedou foodtrucky s hot dogy, burgery a pivem, školní kapela hraje pro zábavu všech a všechno se připravuje na 3 hodiny fandění.
+Na kampusu se roztáhnou party a VIP stany s občerstvením, přijedou foodtrucky s hot dogy, burgery a pivem, školní kapela hraje pro zábavu všech a všechno se připravuje na 3 hodiny fandění. Jednou za sezónu se odehraje tzv. homecoming zápas. Ten se koná většinou po nejdelším výjezdu domácího týmu mimo kampus. Univerzitní týmy, stejně jako v jiném sportu objíždějí zápasy, které hostí jejich protivníci, a většinou jich je několik v řadě. Homecoming je tak první zápas po takovém výjezdu.
+
+<img src="/assets/images/dome/band.jpg">
+
+Na homecoming se zvou všichni absolventi, přátelé školy a rodiny studentů. Zápas se většinou koná o víkendu, univerzita přichystá program pro alumni a i cena lístků na zápas je pro ně přívětivější. Proto taky ta "fun zone", stany s jídlem a pitím a doprovodný program. 
+
+P.S. Homecoming, který možná znáte z teenage filmů
 
 Pak se děje tohle:
 
