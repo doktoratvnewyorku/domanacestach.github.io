@@ -47,15 +47,19 @@ A takhle vypadá nástup domácího týmu (počkejte si hlavně na 0:53 a dál):
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/VnWBCwpg6_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ### Pár zajímavostí na konec
 
 **Není homecoming jako homecoming**
+
 Homecoming, který možná znáte z amerických <a href="https://thedailynighthawk.com/803/arts-entertainment/homecoming-movies/">filmů, kde se volí král a královna plesu</a>, není tenhle univerzitní, ale středoškolský. V principu to ale funguje stejně :) 
 
 **Americká hymna**
+
 Na každém, opakuji každém, zápasu se před jeho začátkem hraje americká hymna. Je jedno, jestli je to jen malý exhibiční zápas, nebo velká paráda. Hymnu často ji zpívá někdo z univerzitního sboru nebo místního pěveckého oboru. Je jedno, který sport se hraje. Hymna zazní vždycky a hezky, jak znáte z filmů, s rukou na srdci. Všimla jsem si už ale i lidí, co si drží oblast v místech, kde jsou játra, ale neodvažuju se hádat proč...
 
 **Předcházení nehodám z opilosti**
+
 Kapacita našeho Carrier Dome je 50 000 lidí. Na zápasy většinou sjíždí celé město a na stadionu se dá koupit pivo. Pořadatelé se proto snaží celkem předvídavým způsobem předcházet pozápasovým silničním nehodám způsobené opilými řidiči. Alkohol si koupíte jen do půlky hry, pak se z repráků ozve, že bar zavírá, popřejí vám, ať zodpovědně řídíte, a po zbytek hry jste na suchu. 
 
 <img src="/assets/images/dome/jumbotron.jpg">
