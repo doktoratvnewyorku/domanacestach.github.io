@@ -6,7 +6,7 @@ categories: [ New York, USA, univerzita]
 featured: true
 image: assets/images/dome/featured-dome.png
 ---
-Být sportovcem reprezentující univerzitní tým v USA znamená mít nejen úmorný tréninkový plán, do kterého musí stíhat i školu, ale patří k němu i vysoký sociální status, určitá privilegia a kolikrát i speciální zacházení.
+Být sportovcem reprezentujícím univerzitní tým v USA znamená mít nejen úmorný tréninkový plán, do kterého musí stíhat i školu, ale patří k němu i vysoký sociální status, určitá privilegia a kolikrát i speciální zacházení.
 
 Sportovci, hlavně těch týmů, které jsou na předních příčkách <a href="https://www.ncaa.com/rankings">celostátních amerických žebříčků</a>, jsou na kampusu na úrovni nedotknutelných polobohů a už během univerzitních let se stávají lokálními, ale i celostátními celebritami. Nadaní studenti dostávají vysoká sportovní stipendia a pro ty hodně dobré se po škole otevře svět profi sportu v NBA, NFL, NHL atd.
 
