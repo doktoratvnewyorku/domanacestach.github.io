@@ -21,8 +21,6 @@ Ani podobné projevy a varování toho mého neodradili, takže jsme nakonec pá
 
 <img src="/assets/images/adirondacks/5.jpg">
 
-<img src="/assets/images/adirondacks/6.jpg">
-
 <img src="/assets/images/adirondacks/7.jpg">
 
 <img src="/assets/images/adirondacks/8.jpg">
